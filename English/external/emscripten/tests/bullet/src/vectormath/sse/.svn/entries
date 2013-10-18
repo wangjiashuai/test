@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/vectormath/sse
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+floatInVec.h
+file
+
+
+
+add
+
+quat_aos.h
+file
+
+
+
+add
+
+vectormath_aos.h
+file
+
+
+
+add
+
+vec_aos.h
+file
+
+
+
+add
+
+boolInVec.h
+file
+
+
+
+add
+
+mat_aos.h
+file
+
+
+
+add
+
+vecidx_aos.h
+file
+
+
+
+add
+

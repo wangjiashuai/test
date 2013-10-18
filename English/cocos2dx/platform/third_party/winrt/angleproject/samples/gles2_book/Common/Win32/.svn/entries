@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/gles2_book/Common/Win32
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+esUtil_TGA.c
+file
+
+
+
+add
+
+esUtil_TGA_winrt.cpp
+file
+
+
+
+add
+
+esUtil_win32.c
+file
+
+
+
+add
+
+esUtil_win32_winrt.cpp
+file
+
+
+
+add
+

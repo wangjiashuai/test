@@ -1,0 +1,301 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/src
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+gl-matrix.js
+file
+
+
+
+add
+
+library.js
+file
+
+
+
+add
+
+preamble_sharedlib.js
+file
+
+
+
+add
+
+intertyper.js
+file
+
+
+
+add
+
+library_sdl.js
+file
+
+
+
+add
+
+modules.js
+file
+
+
+
+add
+
+compiler.js
+file
+
+
+
+add
+
+library_gc.js
+file
+
+
+
+add
+
+library_xlib.js
+file
+
+
+
+add
+
+embind
+dir
+
+
+
+add
+
+runtime.js
+file
+
+
+
+add
+
+shell_sharedlib.js
+file
+
+
+
+add
+
+preamble.js
+file
+
+
+
+add
+
+determinstic.js
+file
+
+
+
+add
+
+framework.js
+file
+
+
+
+add
+
+library_glut.js
+file
+
+
+
+add
+
+shell.html
+file
+
+
+
+add
+
+library_openal.js
+file
+
+
+
+add
+
+postamble_sharedlib.js
+file
+
+
+
+add
+
+utility.js
+file
+
+
+
+add
+
+library_browser.js
+file
+
+
+
+add
+
+shell.js
+file
+
+
+
+add
+
+relooper
+dir
+
+
+
+add
+
+fastLong.js
+file
+
+
+
+add
+
+experimental
+dir
+
+
+
+add
+
+library_glfw.js
+file
+
+
+
+add
+
+analyzer.js
+file
+
+
+
+add
+
+postamble.js
+file
+
+
+
+add
+
+library_gl.js
+file
+
+
+
+add
+
+headless.js
+file
+
+
+
+add
+
+parseTools.js
+file
+
+
+
+add
+
+library_egl.js
+file
+
+
+
+add
+
+jsifier.js
+file
+
+
+
+add
+
+long.js
+file
+
+
+
+add
+
+library_jansson.js
+file
+
+
+
+add
+
+settings.js
+file
+
+
+
+add
+
+library_strtok_r.c
+file
+
+
+
+add
+
+compiler.html
+file
+
+
+
+add
+
+corruptionCheck.js
+file
+
+
+
+add
+

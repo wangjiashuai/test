@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/builds/unix
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+mkinstalldirs
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+configure
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ft-munmap.m4
+file
+
+
+
+add
+
+freetype2.m4
+file
+
+
+
+add
+
+unix-def.in
+file
+
+
+
+add
+
+ft2unix.h
+file
+
+
+
+add
+
+unix-lcc.mk
+file
+
+
+
+add
+
+unix.mk
+file
+
+
+
+add
+
+config.guess
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+freetype-config.in
+file
+
+
+
+add
+
+config.sub
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ltmain.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ftsystem.c
+file
+
+
+
+add
+
+configure.ac
+file
+
+
+
+add
+
+ftconfig.in
+file
+
+
+
+add
+
+unix-dev.mk
+file
+
+
+
+add
+
+configure.raw
+file
+
+
+
+add
+
+freetype2.in
+file
+
+
+
+add
+
+unix-cc.in
+file
+
+
+
+add
+
+install.mk
+file
+
+
+
+add
+
+unixddef.mk
+file
+
+
+
+add
+
+aclocal.m4
+file
+
+
+
+add
+
+install-sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+detect.mk
+file
+
+
+
+add
+

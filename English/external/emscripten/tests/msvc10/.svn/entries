@@ -1,0 +1,308 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/msvc10
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+dlmalloc_test.vcxproj
+file
+
+
+
+add
+
+skinning_test_no_simd.vcxproj
+file
+
+
+
+add
+
+hello_malloc.vcxproj
+file
+
+
+
+add
+
+glbook_11_Multisample.vcxproj
+file
+
+
+
+add
+
+glbook_9_Simple_TextureCubemap.vcxproj
+file
+
+
+
+add
+
+fannkuch.vcxproj
+file
+
+
+
+add
+
+glbook_9_MipMap2D.vcxproj
+file
+
+
+
+add
+
+glbook_8_Simple_VertexShader.vcxproj
+file
+
+
+
+add
+
+files.vcxproj
+file
+
+
+
+add
+
+sdl_audio.vcxproj
+file
+
+
+
+add
+
+hello_world_loop.vcxproj
+file
+
+
+
+add
+
+emscripten_api_browser.vcxproj
+file
+
+
+
+add
+
+glbook_10_MultiTexture.vcxproj
+file
+
+
+
+add
+
+glbook_13_ParticleSystem.vcxproj
+file
+
+
+
+add
+
+glbook_15_Hello_Triangle_KD.vcxproj
+file
+
+
+
+add
+
+hello_world_file.vcxproj
+file
+
+
+
+add
+
+raytrace.vcxproj
+file
+
+
+
+add
+
+hello_world_c.vcxproj
+file
+
+
+
+add
+
+hello_libcxx.vcxproj
+file
+
+
+
+add
+
+glbook_9_TextureWrap.vcxproj
+file
+
+
+
+add
+
+hashtest.vcxproj
+file
+
+
+
+add
+
+sdl_ogl.vcxproj
+file
+
+
+
+add
+
+hello_world_gles.vcxproj
+file
+
+
+
+add
+
+new.vcxproj
+file
+
+
+
+add
+
+hello_world_loop_malloc.vcxproj
+file
+
+
+
+add
+
+sdl_key.vcxproj
+file
+
+
+
+add
+
+sdl_mouse.vcxproj
+file
+
+
+
+add
+
+tests_msvc10.vcxproj
+file
+
+
+
+add
+
+tests_msvc10.sln
+file
+
+
+
+add
+
+fasta.vcxproj
+file
+
+
+
+add
+
+glbook_11_Stencil_Test.vcxproj
+file
+
+
+
+add
+
+sdl_gl_read.vcxproj
+file
+
+
+
+add
+
+twopart.vcxproj
+file
+
+
+
+add
+
+glbook_2_Hello_Triangle.vcxproj
+file
+
+
+
+add
+
+hello_world_sdl.vcxproj
+file
+
+
+
+add
+
+hello_world_cpp.vcxproj
+file
+
+
+
+add
+
+sdl_canvas.vcxproj
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+glbook_9_Simple_Texture2D.vcxproj
+file
+
+
+
+add
+
+sdl_image.vcxproj
+file
+
+
+
+add
+

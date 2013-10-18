@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/projects/English/Classes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+HelloWorldScene.h
+file
+
+
+
+add
+
+AppDelegate.h
+file
+
+
+
+add
+
+GameSprite.cpp
+file
+
+
+
+add
+
+MainGameLayer.h
+file
+
+
+
+add
+
+GameSprite.h
+file
+
+
+
+add
+
+HelloWorldScene.cpp
+file
+
+
+
+add
+
+AppDelegate.cpp
+file
+
+
+
+add
+
+MainGameLayer.cpp
+file
+
+
+
+add
+

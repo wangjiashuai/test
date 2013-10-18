@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btGpu3DGridBroadphaseSharedCode.h
+file
+
+
+
+add
+
+SequentialThreadSupport.cpp
+file
+
+
+
+add
+
+SpuNarrowPhaseCollisionTask
+dir
+
+
+
+add
+
+SpuDoubleBuffer.h
+file
+
+
+
+add
+
+GpuSoftBodySolvers
+dir
+
+
+
+add
+
+btGpu3DGridBroadphase.cpp
+file
+
+
+
+add
+
+SpuSync.h
+file
+
+
+
+add
+
+SpuCollisionTaskProcess.h
+file
+
+
+
+add
+
+btThreadSupportInterface.cpp
+file
+
+
+
+add
+
+SpuSampleTask
+dir
+
+
+
+add
+
+HeapManager.h
+file
+
+
+
+add
+
+SpuFakeDma.cpp
+file
+
+
+
+add
+
+SpuCollisionObjectWrapper.h
+file
+
+
+
+add
+
+SpuGatheringCollisionDispatcher.cpp
+file
+
+
+
+add
+
+SpuContactManifoldCollisionAlgorithm.h
+file
+
+
+
+add
+
+PlatformDefinitions.h
+file
+
+
+
+add
+
+SpuLibspe2Support.cpp
+file
+
+
+
+add
+
+TrbDynBody.h
+file
+
+
+
+add
+
+btParallelConstraintSolver.h
+file
+
+
+
+add
+
+btGpu3DGridBroadphaseSharedTypes.h
+file
+
+
+
+add
+
+TrbStateVec.h
+file
+
+
+
+add
+
+PosixThreadSupport.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+Win32ThreadSupport.h
+file
+
+
+
+add
+
+Makefile.original
+file
+
+
+
+add
+
+btGpuUtilsSharedDefs.h
+file
+
+
+
+add
+
+SpuSampleTaskProcess.h
+file
+
+
+
+add
+
+SequentialThreadSupport.h
+file
+
+
+
+add
+
+SpuCollisionTaskProcess.cpp
+file
+
+
+
+add
+
+btGpu3DGridBroadphaseSharedDefs.h
+file
+
+
+
+add
+
+SpuCollisionObjectWrapper.cpp
+file
+
+
+
+add
+
+vectormath2bullet.h
+file
+
+
+
+add
+
+btGpu3DGridBroadphase.h
+file
+
+
+
+add
+
+SpuContactManifoldCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btThreadSupportInterface.h
+file
+
+
+
+add
+
+btParallelConstraintSolver.cpp
+file
+
+
+
+add
+
+btGpuDefines.h
+file
+
+
+
+add
+
+SpuFakeDma.h
+file
+
+
+
+add
+
+PosixThreadSupport.cpp
+file
+
+
+
+add
+
+Win32ThreadSupport.cpp
+file
+
+
+
+add
+
+SpuGatheringCollisionDispatcher.h
+file
+
+
+
+add
+
+btGpuUtilsSharedCode.h
+file
+
+
+
+add
+
+SpuLibspe2Support.h
+file
+
+
+
+add
+
+PpuAddressSpace.h
+file
+
+
+
+add
+
+SpuSampleTaskProcess.cpp
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/CocosDenshion/third_party/fmod/lib64/api/inc
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+fmod_memoryinfo.h
+file
+
+
+
+add
+
+fmod_dsp.h
+file
+
+
+
+add
+
+fmod_errors.h
+file
+
+
+
+add
+
+fmod_codec.h
+file
+
+
+
+add
+
+fmod.h
+file
+
+
+
+add
+
+fmod.hpp
+file
+
+
+
+add
+
+fmod_output.h
+file
+
+
+
+add
+
+fmodlinux.h
+file
+
+
+
+add
+

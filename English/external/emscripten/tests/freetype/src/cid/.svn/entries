@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/src/cid
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cidparse.h
+file
+
+
+
+add
+
+cidload.c
+file
+
+
+
+add
+
+ciderrs.h
+file
+
+
+
+add
+
+cidload.h
+file
+
+
+
+add
+
+cidtoken.h
+file
+
+
+
+add
+
+cidgload.c
+file
+
+
+
+add
+
+cidriver.c
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+cidgload.h
+file
+
+
+
+add
+
+cidriver.h
+file
+
+
+
+add
+
+cidobjs.c
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+cidobjs.h
+file
+
+
+
+add
+
+type1cid.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+cidparse.c
+file
+
+
+
+add
+

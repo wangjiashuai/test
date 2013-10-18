@@ -1,0 +1,308 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/zlib
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+configure
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Makefile.in
+file
+
+
+
+add
+
+inffixed.h
+file
+
+
+
+add
+
+deflate.c
+file
+
+
+
+add
+
+gzlib.c
+file
+
+
+
+add
+
+zutil.c
+file
+
+
+
+add
+
+deflate.h
+file
+
+
+
+add
+
+crc32.c
+file
+
+
+
+add
+
+gzread.c
+file
+
+
+
+add
+
+zutil.h
+file
+
+
+
+add
+
+crc32.h
+file
+
+
+
+add
+
+trees.c
+file
+
+
+
+add
+
+zconf.h
+file
+
+
+
+add
+
+zlib.pc.in
+file
+
+
+
+add
+
+minigzip.c
+file
+
+
+
+add
+
+trees.h
+file
+
+
+
+add
+
+inffast.c
+file
+
+
+
+add
+
+benchmark.c
+file
+
+
+
+add
+
+compress.c
+file
+
+
+
+add
+
+example.c
+file
+
+
+
+add
+
+gzwrite.c
+file
+
+
+
+add
+
+zlib.map
+file
+
+
+
+add
+
+inffast.h
+file
+
+
+
+add
+
+zlib.h
+file
+
+
+
+add
+
+gzclose.c
+file
+
+
+
+add
+
+ref.txt
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+inftrees.c
+file
+
+
+
+add
+
+zlib.3
+file
+
+
+
+add
+
+zlib.pc
+file
+
+
+
+add
+
+inflate.c
+file
+
+
+
+add
+
+uncompr.c
+file
+
+
+
+add
+
+inftrees.h
+file
+
+
+
+add
+
+inflate.h
+file
+
+
+
+add
+
+gzguts.h
+file
+
+
+
+add
+
+zconf.h.in
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+adler32.c
+file
+
+
+
+add
+
+infback.c
+file
+
+
+
+add
+

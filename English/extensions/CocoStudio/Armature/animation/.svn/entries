@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Armature/animation
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCProcessBase.cpp
+file
+
+
+
+add
+
+CCProcessBase.h
+file
+
+
+
+add
+
+CCArmatureAnimation.cpp
+file
+
+
+
+add
+
+CCTween.cpp
+file
+
+
+
+add
+
+CCArmatureAnimation.h
+file
+
+
+
+add
+
+CCTween.h
+file
+
+
+
+add
+

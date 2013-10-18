@@ -1,0 +1,462 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/libc
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+iso646.h
+file
+
+
+
+add
+
+pwd.h
+file
+
+
+
+add
+
+alloca.h
+file
+
+
+
+add
+
+regdef.h
+file
+
+
+
+add
+
+langinfo.h
+file
+
+
+
+add
+
+ieeefp.h
+file
+
+
+
+add
+
+endian.h
+file
+
+
+
+add
+
+limits.h
+file
+
+
+
+add
+
+getopt.h
+file
+
+
+
+add
+
+ar.h
+file
+
+
+
+add
+
+argz.h
+file
+
+
+
+add
+
+stdint.h
+file
+
+
+
+add
+
+fcntl.h
+file
+
+
+
+add
+
+string.h
+file
+
+
+
+add
+
+malloc.h
+file
+
+
+
+add
+
+complex.h
+file
+
+
+
+add
+
+stddef.h
+file
+
+
+
+add
+
+wctype.h
+file
+
+
+
+add
+
+reent.h
+file
+
+
+
+add
+
+iconv.h
+file
+
+
+
+add
+
+process.h
+file
+
+
+
+add
+
+paths.h
+file
+
+
+
+add
+
+newlib.h
+file
+
+
+
+add
+
+stdlib.h
+file
+
+
+
+add
+
+stdio.h
+file
+
+
+
+add
+
+utime.h
+file
+
+
+
+add
+
+dirent.h
+file
+
+
+
+add
+
+utmp.h
+file
+
+
+
+add
+
+sched.h
+file
+
+
+
+add
+
+pthread.h
+file
+
+
+
+add
+
+grp.h
+file
+
+
+
+add
+
+math.h
+file
+
+
+
+add
+
+_ansi.h
+file
+
+
+
+add
+
+strings.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+locale.h
+file
+
+
+
+add
+
+libgen.h
+file
+
+
+
+add
+
+assert.h
+file
+
+
+
+add
+
+envlock.h
+file
+
+
+
+add
+
+setjmp.h
+file
+
+
+
+add
+
+wchar.h
+file
+
+
+
+add
+
+search.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+fastmath.h
+file
+
+
+
+add
+
+unctrl.h
+file
+
+
+
+add
+
+_syslist.h
+file
+
+
+
+add
+
+regex.h
+file
+
+
+
+add
+
+ifaddrs.h
+file
+
+
+
+add
+
+signal.h
+file
+
+
+
+add
+
+machine
+dir
+
+
+
+add
+
+inttypes.h
+file
+
+
+
+add
+
+fnmatch.h
+file
+
+
+
+add
+
+envz.h
+file
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+glob.h
+file
+
+
+
+add
+
+ctype.h
+file
+
+
+
+add
+
+stdarg.h
+file
+
+
+
+add
+
+errno.h
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+tar.h
+file
+
+
+
+add
+
+sys
+dir
+
+
+
+add
+
+wordexp.h
+file
+
+
+
+add
+

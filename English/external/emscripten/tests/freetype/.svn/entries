@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+configure
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+builds
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+main_2.c
+file
+
+
+
+add
+
+main_3.c
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+docs
+dir
+
+
+
+add
+
+ref.txt
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+objs
+dir
+
+
+
+add
+
+LiberationSansBoldLICENSE.txt
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+modules.cfg
+file
+
+
+
+add
+
+LiberationSansBold.ttf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+readme.txt
+file
+
+
+
+add
+
+ref_2.txt
+file
+
+
+
+add
+
+ref_3.txt
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+ref_4.txt
+file
+
+
+
+add
+

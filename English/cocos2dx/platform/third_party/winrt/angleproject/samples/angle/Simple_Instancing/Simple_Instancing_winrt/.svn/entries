@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/angle/Simple_Instancing/Simple_Instancing_winrt
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Simple_Instancing_winrt.h
+file
+
+
+
+add
+
+SimpleVertexShader.hlsl
+file
+
+
+
+add
+
+Direct3DBase.h
+file
+
+
+
+add
+
+Simple_Instancing_winrt.vcxproj
+file
+
+
+
+add
+
+SimplePixelShader.hlsl
+file
+
+
+
+add
+
+CubeRenderer.cpp
+file
+
+
+
+add
+
+Simple_Instancing.cpp
+file
+
+
+
+add
+
+DirectXHelper.h
+file
+
+
+
+add
+
+Simple_Instancing_winrt_2013.vcxproj
+file
+
+
+
+add
+
+Package.appxmanifest
+file
+
+
+
+add
+
+Simple_Instancing_winrt.vcxproj.filters
+file
+
+
+
+add
+
+pch.cpp
+file
+
+
+
+add
+
+CubeRenderer.h
+file
+
+
+
+add
+
+Package_2013.appxmanifest
+file
+
+
+
+add
+
+Simple_Instancing_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+pch.h
+file
+
+
+
+add
+
+Simple_Instancing_winrt_TemporaryKey.pfx
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Assets
+dir
+
+
+
+add
+
+BasicTimer.h
+file
+
+
+
+add
+
+Simple_Instancing_winrt.cpp
+file
+
+
+
+add
+
+Direct3DBase.cpp
+file
+
+
+
+add
+

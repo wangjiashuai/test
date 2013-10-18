@@ -1,0 +1,343 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+effects
+dir
+
+
+
+add
+
+proj.emscripten
+dir
+
+
+
+add
+
+misc_nodes
+dir
+
+
+
+add
+
+textures
+dir
+
+
+
+add
+
+platform
+dir
+
+
+
+add
+
+layers_scenes_transitions_nodes
+dir
+
+
+
+add
+
+CCCamera.h
+file
+
+
+
+add
+
+cocoa
+dir
+
+
+
+add
+
+touch_dispatcher
+dir
+
+
+
+add
+
+particle_nodes
+dir
+
+
+
+add
+
+CCConfiguration.cpp
+file
+
+
+
+add
+
+sprite_nodes
+dir
+
+
+
+add
+
+base_nodes
+dir
+
+
+
+add
+
+CCDirector.cpp
+file
+
+
+
+add
+
+ccFPSImages.c
+file
+
+
+
+add
+
+label_nodes
+dir
+
+
+
+add
+
+text_input_node
+dir
+
+
+
+add
+
+proj.mac
+dir
+
+
+
+add
+
+ccFPSImages.h
+file
+
+
+
+add
+
+CCScheduler.h
+file
+
+
+
+add
+
+proj.winrt
+dir
+
+
+
+add
+
+cocos2d.cpp
+file
+
+
+
+add
+
+CCCamera.cpp
+file
+
+
+
+add
+
+keypad_dispatcher
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+draw_nodes
+dir
+
+
+
+add
+
+Android.mk
+file
+
+
+
+add
+
+proj.nacl
+dir
+
+
+
+add
+
+proj.wp8
+dir
+
+
+
+add
+
+proj.blackberry
+dir
+
+
+
+add
+
+shaders
+dir
+
+
+
+add
+
+menu_nodes
+dir
+
+
+
+add
+
+proj.marmalade
+dir
+
+
+
+add
+
+kazmath
+dir
+
+
+
+add
+
+actions
+dir
+
+
+
+add
+
+script_support
+dir
+
+
+
+add
+
+proj.tizen
+dir
+
+
+
+add
+
+proj.ios
+dir
+
+
+
+add
+
+CCConfiguration.h
+file
+
+
+
+add
+
+CCScheduler.cpp
+file
+
+
+
+add
+
+CCDirector.h
+file
+
+
+
+add
+
+tilemap_parallax_nodes
+dir
+
+
+
+add
+
+proj.linux
+dir
+
+
+
+add
+
+proj.win32
+dir
+
+
+
+add
+
+support
+dir
+
+
+
+add
+

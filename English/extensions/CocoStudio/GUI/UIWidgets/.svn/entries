@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/GUI/UIWidgets
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Compatible
+dir
+
+
+
+add
+
+UISwitch.cpp
+file
+
+
+
+add
+
+UILoadingBar.cpp
+file
+
+
+
+add
+
+UILabelAtlas.cpp
+file
+
+
+
+add
+
+UISwitch.h
+file
+
+
+
+add
+
+UILoadingBar.h
+file
+
+
+
+add
+
+UILabelAtlas.h
+file
+
+
+
+add
+
+UIButton.cpp
+file
+
+
+
+add
+
+UIImageView.cpp
+file
+
+
+
+add
+
+UILabel.cpp
+file
+
+
+
+add
+
+UIButton.h
+file
+
+
+
+add
+
+UIImageView.h
+file
+
+
+
+add
+
+UISlider.cpp
+file
+
+
+
+add
+
+ScrollWidget
+dir
+
+
+
+add
+
+UILabel.h
+file
+
+
+
+add
+
+UILabelBMFont.cpp
+file
+
+
+
+add
+
+UICheckBox.cpp
+file
+
+
+
+add
+
+UISlider.h
+file
+
+
+
+add
+
+UITextField.cpp
+file
+
+
+
+add
+
+UILabelBMFont.h
+file
+
+
+
+add
+
+UICheckBox.h
+file
+
+
+
+add
+
+UITextField.h
+file
+
+
+
+add
+

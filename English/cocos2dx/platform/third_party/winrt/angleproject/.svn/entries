@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+build
+dir
+
+
+
+add
+
+extensions
+dir
+
+
+
+add
+
+README.chromium
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+samples
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+AUTHORS
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+codereview.settings
+file
+
+
+
+add
+
+DEPS
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+CONTRIBUTORS
+file
+
+
+
+add
+

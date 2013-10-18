@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+tools
+dir
+
+
+
+add
+
+plugins
+dir
+
+
+
+add
+
+protocols
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+jsbindings
+dir
+
+
+
+add
+

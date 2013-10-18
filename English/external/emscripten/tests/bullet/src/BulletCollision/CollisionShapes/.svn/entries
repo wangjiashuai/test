@@ -1,0 +1,560 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletCollision/CollisionShapes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btConvexHullShape.cpp
+file
+
+
+
+add
+
+btSphereShape.h
+file
+
+
+
+add
+
+btScaledBvhTriangleMeshShape.cpp
+file
+
+
+
+add
+
+btEmptyShape.cpp
+file
+
+
+
+add
+
+btConvexShape.cpp
+file
+
+
+
+add
+
+btMultiSphereShape.h
+file
+
+
+
+add
+
+btHeightfieldTerrainShape.h
+file
+
+
+
+add
+
+btTriangleMesh.h
+file
+
+
+
+add
+
+btStaticPlaneShape.h
+file
+
+
+
+add
+
+btConcaveShape.cpp
+file
+
+
+
+add
+
+btTriangleIndexVertexArray.h
+file
+
+
+
+add
+
+btUniformScalingShape.cpp
+file
+
+
+
+add
+
+btMultimaterialTriangleMeshShape.h
+file
+
+
+
+add
+
+btMaterial.h
+file
+
+
+
+add
+
+btOptimizedBvh.cpp
+file
+
+
+
+add
+
+btBox2dShape.h
+file
+
+
+
+add
+
+btSphereShape.cpp
+file
+
+
+
+add
+
+btTriangleMeshShape.h
+file
+
+
+
+add
+
+btConeShape.h
+file
+
+
+
+add
+
+btConvexHullShape.h
+file
+
+
+
+add
+
+btTriangleIndexVertexMaterialArray.h
+file
+
+
+
+add
+
+btConvexInternalShape.cpp
+file
+
+
+
+add
+
+btTriangleCallback.cpp
+file
+
+
+
+add
+
+btConvexPointCloudShape.cpp
+file
+
+
+
+add
+
+btShapeHull.h
+file
+
+
+
+add
+
+btCylinderShape.cpp
+file
+
+
+
+add
+
+btTriangleShape.h
+file
+
+
+
+add
+
+btMultimaterialTriangleMeshShape.cpp
+file
+
+
+
+add
+
+btBox2dShape.cpp
+file
+
+
+
+add
+
+btTetrahedronShape.cpp
+file
+
+
+
+add
+
+btTriangleMeshShape.cpp
+file
+
+
+
+add
+
+btTriangleBuffer.h
+file
+
+
+
+add
+
+btConeShape.cpp
+file
+
+
+
+add
+
+btConvexPolyhedron.cpp
+file
+
+
+
+add
+
+btBvhTriangleMeshShape.h
+file
+
+
+
+add
+
+btOptimizedBvh.h
+file
+
+
+
+add
+
+btTriangleIndexVertexMaterialArray.cpp
+file
+
+
+
+add
+
+btCollisionShape.cpp
+file
+
+
+
+add
+
+btBoxShape.h
+file
+
+
+
+add
+
+btConvex2dShape.h
+file
+
+
+
+add
+
+btCapsuleShape.h
+file
+
+
+
+add
+
+btShapeHull.cpp
+file
+
+
+
+add
+
+btConvexInternalShape.h
+file
+
+
+
+add
+
+btStridingMeshInterface.h
+file
+
+
+
+add
+
+btMinkowskiSumShape.h
+file
+
+
+
+add
+
+btConvexTriangleMeshShape.cpp
+file
+
+
+
+add
+
+btTriangleCallback.h
+file
+
+
+
+add
+
+btConvexPointCloudShape.h
+file
+
+
+
+add
+
+btCollisionMargin.h
+file
+
+
+
+add
+
+btTriangleBuffer.cpp
+file
+
+
+
+add
+
+btCylinderShape.h
+file
+
+
+
+add
+
+btBvhTriangleMeshShape.cpp
+file
+
+
+
+add
+
+btTetrahedronShape.h
+file
+
+
+
+add
+
+btBoxShape.cpp
+file
+
+
+
+add
+
+btConvex2dShape.cpp
+file
+
+
+
+add
+
+btCompoundShape.h
+file
+
+
+
+add
+
+btConvexPolyhedron.h
+file
+
+
+
+add
+
+btPolyhedralConvexShape.h
+file
+
+
+
+add
+
+btCapsuleShape.cpp
+file
+
+
+
+add
+
+btStridingMeshInterface.cpp
+file
+
+
+
+add
+
+btMinkowskiSumShape.cpp
+file
+
+
+
+add
+
+btCollisionShape.h
+file
+
+
+
+add
+
+btMultiSphereShape.cpp
+file
+
+
+
+add
+
+btHeightfieldTerrainShape.cpp
+file
+
+
+
+add
+
+btTriangleMesh.cpp
+file
+
+
+
+add
+
+btScaledBvhTriangleMeshShape.h
+file
+
+
+
+add
+
+btEmptyShape.h
+file
+
+
+
+add
+
+btTriangleInfoMap.h
+file
+
+
+
+add
+
+btStaticPlaneShape.cpp
+file
+
+
+
+add
+
+btConvexShape.h
+file
+
+
+
+add
+
+btTriangleIndexVertexArray.cpp
+file
+
+
+
+add
+
+btConvexTriangleMeshShape.h
+file
+
+
+
+add
+
+btConcaveShape.h
+file
+
+
+
+add
+
+btCompoundShape.cpp
+file
+
+
+
+add
+
+btUniformScalingShape.h
+file
+
+
+
+add
+
+btPolyhedralConvexShape.cpp
+file
+
+
+
+add
+

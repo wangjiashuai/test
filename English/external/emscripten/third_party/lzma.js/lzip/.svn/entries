@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/third_party/lzma.js/lzip
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+fast_encoder.cc
+file
+
+
+
+add
+
+configure
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+fast_encoder.h
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+AUTHORS
+file
+
+
+
+add
+
+ChangeLog
+file
+
+
+
+add
+
+decoder.cc
+file
+
+
+
+add
+
+decoder.h
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+encoder.cc
+file
+
+
+
+add
+
+lzip.h
+file
+
+
+
+add
+
+encoder.h
+file
+
+
+
+add
+
+INSTALL
+file
+
+
+
+add
+
+main.cc
+file
+
+
+
+add
+
+COPYING
+file
+
+
+
+add
+
+arg_parser.cc
+file
+
+
+
+add
+
+arg_parser.h
+file
+
+
+
+add
+
+NEWS
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+

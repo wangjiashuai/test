@@ -1,0 +1,399 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/libGLESv2
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libGLESv2_phone.def
+file
+
+
+
+add
+
+Texture.cpp
+file
+
+
+
+add
+
+libGLESv2_phone.vcxproj.filters
+file
+
+
+
+add
+
+precompiled.cpp
+file
+
+
+
+add
+
+Program.cpp
+file
+
+
+
+add
+
+Renderbuffer.cpp
+file
+
+
+
+add
+
+Query.h
+file
+
+
+
+add
+
+Shader.h
+file
+
+
+
+add
+
+Buffer.h
+file
+
+
+
+add
+
+Uniform.cpp
+file
+
+
+
+add
+
+Fence.cpp
+file
+
+
+
+add
+
+utilities.h
+file
+
+
+
+add
+
+constants.h
+file
+
+
+
+add
+
+ProgramBinary.h
+file
+
+
+
+add
+
+main.cpp
+file
+
+
+
+add
+
+Framebuffer.cpp
+file
+
+
+
+add
+
+renderer
+dir
+
+
+
+add
+
+ResourceManager.h
+file
+
+
+
+add
+
+libGLESv2.cpp
+file
+
+
+
+add
+
+Context.h
+file
+
+
+
+add
+
+libGLESv2_winrt_2013.vcxproj
+file
+
+
+
+add
+
+mathutil.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+libGLESv2_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+HandleAllocator.h
+file
+
+
+
+add
+
+libGLESv2.vcxproj
+file
+
+
+
+add
+
+libGLESv2.def
+file
+
+
+
+add
+
+BinaryStream.h
+file
+
+
+
+add
+
+Query.cpp
+file
+
+
+
+add
+
+Texture.h
+file
+
+
+
+add
+
+Shader.cpp
+file
+
+
+
+add
+
+precompiled.h
+file
+
+
+
+add
+
+libGLESv2.vcxproj.filters
+file
+
+
+
+add
+
+Buffer.cpp
+file
+
+
+
+add
+
+Float16ToFloat32.cpp
+file
+
+
+
+add
+
+libGLESv2.rc
+file
+
+
+
+add
+
+utilities.cpp
+file
+
+
+
+add
+
+Program.h
+file
+
+
+
+add
+
+ProgramBinary.cpp
+file
+
+
+
+add
+
+Renderbuffer.h
+file
+
+
+
+add
+
+angletypes.h
+file
+
+
+
+add
+
+Float16ToFloat32.py
+file
+
+
+
+add
+
+ResourceManager.cpp
+file
+
+
+
+add
+
+Context.cpp
+file
+
+
+
+add
+
+Uniform.h
+file
+
+
+
+add
+
+libGLESv2_winrt.vcxproj
+file
+
+
+
+add
+
+Fence.h
+file
+
+
+
+add
+
+libGLESv2_winrt.def
+file
+
+
+
+add
+
+main.h
+file
+
+
+
+add
+
+Framebuffer.h
+file
+
+
+
+add
+
+libGLESv2_phone.vcxproj
+file
+
+
+
+add
+
+libGLESv2_winrt.vcxproj.filters
+file
+
+
+
+add
+
+HandleAllocator.cpp
+file
+
+
+
+add
+

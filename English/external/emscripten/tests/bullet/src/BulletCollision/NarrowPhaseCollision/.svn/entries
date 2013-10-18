@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletCollision/NarrowPhaseCollision
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btManifoldPoint.h
+file
+
+
+
+add
+
+btGjkConvexCast.cpp
+file
+
+
+
+add
+
+btMinkowskiPenetrationDepthSolver.h
+file
+
+
+
+add
+
+btContinuousConvexCollision.h
+file
+
+
+
+add
+
+btPersistentManifold.cpp
+file
+
+
+
+add
+
+btPolyhedralContactClipping.h
+file
+
+
+
+add
+
+btConvexCast.cpp
+file
+
+
+
+add
+
+btGjkConvexCast.h
+file
+
+
+
+add
+
+btPersistentManifold.h
+file
+
+
+
+add
+
+btGjkPairDetector.cpp
+file
+
+
+
+add
+
+btConvexCast.h
+file
+
+
+
+add
+
+btGjkEpa2.cpp
+file
+
+
+
+add
+
+btRaycastCallback.cpp
+file
+
+
+
+add
+
+btGjkPairDetector.h
+file
+
+
+
+add
+
+btGjkEpa2.h
+file
+
+
+
+add
+
+btRaycastCallback.h
+file
+
+
+
+add
+
+btVoronoiSimplexSolver.cpp
+file
+
+
+
+add
+
+btSubSimplexConvexCast.cpp
+file
+
+
+
+add
+
+btGjkEpaPenetrationDepthSolver.cpp
+file
+
+
+
+add
+
+btVoronoiSimplexSolver.h
+file
+
+
+
+add
+
+btDiscreteCollisionDetectorInterface.h
+file
+
+
+
+add
+
+btSubSimplexConvexCast.h
+file
+
+
+
+add
+
+btGjkEpaPenetrationDepthSolver.h
+file
+
+
+
+add
+
+btConvexPenetrationDepthSolver.h
+file
+
+
+
+add
+
+btSimplexSolverInterface.h
+file
+
+
+
+add
+
+btMinkowskiPenetrationDepthSolver.cpp
+file
+
+
+
+add
+
+btContinuousConvexCollision.cpp
+file
+
+
+
+add
+
+btPointCollector.h
+file
+
+
+
+add
+
+btPolyhedralContactClipping.cpp
+file
+
+
+
+add
+

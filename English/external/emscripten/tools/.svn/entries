@@ -1,0 +1,504 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tools
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+settings_template_readonly.py
+file
+
+
+
+add
+
+test-js-optimizer-asm-regs-min-output.js
+file
+
+
+
+add
+
+ie7_fix.py
+file
+
+
+
+add
+
+test-js-optimizer-asm-regs-min.js
+file
+
+
+
+add
+
+file2json.py
+file
+
+
+
+add
+
+test-js-optimizer-regs.js
+file
+
+
+
+add
+
+find_bigis.py
+file
+
+
+
+add
+
+emmakenxx.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+response_file.py
+file
+
+
+
+add
+
+test-js-optimizer.js
+file
+
+
+
+add
+
+reproduceriter.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+scons
+dir
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test-js-optimizer-asm-pre.js
+file
+
+
+
+add
+
+find_bigfuncs.py
+file
+
+
+
+add
+
+jsrun.py
+file
+
+
+
+add
+
+autodediffer.py
+file
+
+
+
+add
+
+diff_autodebugger.py
+file
+
+
+
+add
+
+shared.py
+file
+
+
+
+add
+
+test-js-optimizer-asm-regs-output.js
+file
+
+
+
+add
+
+test-js-optimizer-asm-last-output.js
+file
+
+
+
+add
+
+scan_ll.py
+file
+
+
+
+add
+
+make_file.py
+file
+
+
+
+add
+
+file_packager.py
+file
+
+
+
+add
+
+eliminator
+dir
+
+
+
+add
+
+test-js-optimizer-asm-last.js
+file
+
+
+
+add
+
+crunch-worker.js
+file
+
+
+
+add
+
+emmaken.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+namespacer.py
+file
+
+
+
+add
+
+js_optimizer.py
+file
+
+
+
+add
+
+exec_llvm.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+autodebugger_c.py
+file
+
+
+
+add
+
+js-optimizer.js
+file
+
+
+
+add
+
+test-js-optimizer-t3.js
+file
+
+
+
+add
+
+nativize_llvm.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+make_minigzip.py
+file
+
+
+
+add
+
+test-js-optimizer-t2c.js
+file
+
+
+
+add
+
+bisect_pair.py
+file
+
+
+
+add
+
+tempfiles.py
+file
+
+
+
+add
+
+test-js-optimizer-regs-output.js
+file
+
+
+
+add
+
+split.py
+file
+
+
+
+add
+
+test-js-optimizer-output.js
+file
+
+
+
+add
+
+test-js-optimizer-asm-pre-output.js
+file
+
+
+
+add
+
+clean_webconsole.py
+file
+
+
+
+add
+
+bindings_generator.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+cache.py
+file
+
+
+
+add
+
+autodebugger_indenter.py
+file
+
+
+
+add
+
+ll-strip.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+autodebugger_js.py
+file
+
+
+
+add
+
+test-js-optimizer-asm-regs.js
+file
+
+
+
+add
+
+autodebugger.py
+file
+
+
+
+add
+
+test-js-optimizer-t2-output.js
+file
+
+
+
+add
+
+test-js-optimizer-t3-output.js
+file
+
+
+
+add
+
+scan_js.py
+file
+
+
+
+add
+
+test-js-optimizer-t2.js
+file
+
+
+
+add
+
+emconfiguren.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+test-js-optimizer-t2c-output.js
+file
+
+
+
+add
+
+fix_closure.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+reproduceriter.js
+file
+
+
+
+add
+

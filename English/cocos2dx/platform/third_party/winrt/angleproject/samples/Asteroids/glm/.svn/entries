@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/Asteroids/glm
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+virtrev
+dir
+
+
+
+add
+
+gtx
+dir
+
+
+
+add
+
+glm.hpp
+file
+
+
+
+add
+
+ext.hpp
+file
+
+
+
+add
+
+core
+dir
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+gtc
+dir
+
+
+
+add
+

@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/Box2D/Dynamics/Joints
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+b2WheelJoint.h
+file
+
+
+
+add
+
+b2PulleyJoint.cpp
+file
+
+
+
+add
+
+b2RevoluteJoint.h
+file
+
+
+
+add
+
+b2RopeJoint.h
+file
+
+
+
+add
+
+b2FrictionJoint.cpp
+file
+
+
+
+add
+
+b2GearJoint.cpp
+file
+
+
+
+add
+
+b2PulleyJoint.h
+file
+
+
+
+add
+
+b2Joint.cpp
+file
+
+
+
+add
+
+b2FrictionJoint.h
+file
+
+
+
+add
+
+b2GearJoint.h
+file
+
+
+
+add
+
+b2Joint.h
+file
+
+
+
+add
+
+b2MouseJoint.cpp
+file
+
+
+
+add
+
+b2DistanceJoint.cpp
+file
+
+
+
+add
+
+b2PrismaticJoint.cpp
+file
+
+
+
+add
+
+b2WeldJoint.cpp
+file
+
+
+
+add
+
+b2MouseJoint.h
+file
+
+
+
+add
+
+b2DistanceJoint.h
+file
+
+
+
+add
+
+b2PrismaticJoint.h
+file
+
+
+
+add
+
+b2WeldJoint.h
+file
+
+
+
+add
+
+b2WheelJoint.cpp
+file
+
+
+
+add
+
+b2RevoluteJoint.cpp
+file
+
+
+
+add
+
+b2RopeJoint.cpp
+file
+
+
+
+add
+

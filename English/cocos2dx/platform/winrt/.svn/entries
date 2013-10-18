@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/winrt
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCCommon.cpp
+file
+
+
+
+add
+
+CCFileUtilsWinRT.h
+file
+
+
+
+add
+
+CCWinRTUtils.h
+file
+
+
+
+add
+
+compat
+dir
+
+
+
+add
+
+DirectXBase.h
+file
+
+
+
+add
+
+CCStdC.cpp
+file
+
+
+
+add
+
+CCDevice.cpp
+file
+
+
+
+add
+
+DirectXHelper.h
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+CCApplication.cpp
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+CCGL_gl2dx.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+CCApplication.h
+file
+
+
+
+add
+
+CCFreeTypeFont.cpp
+file
+
+
+
+add
+
+CCAccelerometer.cpp
+file
+
+
+
+add
+
+CCGL_Angle.h
+file
+
+
+
+add
+
+CCFreeTypeFont.h
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+CCImage.cpp
+file
+
+
+
+add
+
+CCFileUtilsWinRT.cpp
+file
+
+
+
+add
+
+CCWinRTUtils.cpp
+file
+
+
+
+add
+
+DirectXBase.cpp
+file
+
+
+
+add
+

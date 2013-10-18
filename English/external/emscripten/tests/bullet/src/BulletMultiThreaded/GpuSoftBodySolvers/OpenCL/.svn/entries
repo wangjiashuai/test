@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btSoftBodySolverTriangleData_OpenCL.h
+file
+
+
+
+add
+
+btSoftBodySolverOutputCLtoGL.cpp
+file
+
+
+
+add
+
+OpenCLC
+dir
+
+
+
+add
+
+OpenCLC10
+dir
+
+
+
+add
+
+btSoftBodySolverOutputCLtoGL.h
+file
+
+
+
+add
+
+btSoftBodySolverVertexData_OpenCL.h
+file
+
+
+
+add
+
+btSoftBodySolver_OpenCLSIMDAware.cpp
+file
+
+
+
+add
+
+btSoftBodySolverBuffer_OpenCL.h
+file
+
+
+
+add
+
+btSoftBodySolver_OpenCL.cpp
+file
+
+
+
+add
+
+btSoftBodySolverVertexBuffer_OpenGL.h
+file
+
+
+
+add
+
+btSoftBodySolver_OpenCLSIMDAware.h
+file
+
+
+
+add
+
+btSoftBodySolver_OpenCL.h
+file
+
+
+
+add
+
+Apple
+dir
+
+
+
+add
+
+AMD
+dir
+
+
+
+add
+
+btSoftBodySolverLinkData_OpenCLSIMDAware.h
+file
+
+
+
+add
+
+btSoftBodySolverLinkData_OpenCL.h
+file
+
+
+
+add
+
+NVidia
+dir
+
+
+
+add
+
+MiniCL
+dir
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

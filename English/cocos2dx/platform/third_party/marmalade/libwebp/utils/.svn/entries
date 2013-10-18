@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/libwebp/utils
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+bit_reader.c
+file
+
+
+
+add
+
+rescaler.c
+file
+
+
+
+add
+
+utils.c
+file
+
+
+
+add
+
+huffman_encode.c
+file
+
+
+
+add
+
+color_cache.c
+file
+
+
+
+add
+
+quant_levels.c
+file
+
+
+
+add
+
+bit_reader.h
+file
+
+
+
+add
+
+rescaler.h
+file
+
+
+
+add
+
+utils.h
+file
+
+
+
+add
+
+huffman_encode.h
+file
+
+
+
+add
+
+color_cache.h
+file
+
+
+
+add
+
+quant_levels.h
+file
+
+
+
+add
+
+thread.c
+file
+
+
+
+add
+
+filters.c
+file
+
+
+
+add
+
+bit_writer.c
+file
+
+
+
+add
+
+thread.h
+file
+
+
+
+add
+
+filters.h
+file
+
+
+
+add
+
+bit_writer.h
+file
+
+
+
+add
+
+huffman.c
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+huffman.h
+file
+
+
+
+add
+

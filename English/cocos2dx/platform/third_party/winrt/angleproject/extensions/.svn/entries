@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/extensions
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ANGLE_pack_reverse_row_order.txt
+file
+
+
+
+add
+
+ANGLE_framebuffer_blit.txt
+file
+
+
+
+add
+
+EXT_texture_storage.txt
+file
+
+
+
+add
+
+EGL_EXT_create_context_robustness.txt
+file
+
+
+
+add
+
+ANGLE_texture_compression_dxt.txt
+file
+
+
+
+add
+
+ANGLE_framebuffer_multisample.txt
+file
+
+
+
+add
+
+EGL_ANGLE_query_surface_pointer.txt
+file
+
+
+
+add
+
+ANGLE_timer_query.txt
+file
+
+
+
+add
+
+EGL_ANGLE_software_display.txt
+file
+
+
+
+add
+
+ANGLE_translated_shader_source.txt
+file
+
+
+
+add
+
+EGL_ANGLE_surface_d3d_texture_2d_share_handle.txt
+file
+
+
+
+add
+
+ANGLE_program_binary.txt
+file
+
+
+
+add
+
+EGL_ANGLE_direct3d_display.txt
+file
+
+
+
+add
+
+EXT_robustness.txt
+file
+
+
+
+add
+
+EXT_draw_buffers.txt
+file
+
+
+
+add
+
+ANGLE_texture_usage.txt
+file
+
+
+
+add
+
+ANGLE_depth_texture.txt
+file
+
+
+
+add
+
+EGL_ANGLE_d3d_share_handle_client_buffer.txt
+file
+
+
+
+add
+
+ANGLE_instanced_arrays.txt
+file
+
+
+
+add
+

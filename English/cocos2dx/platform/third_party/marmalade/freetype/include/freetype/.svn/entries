@@ -1,0 +1,329 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/include/freetype
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftcid.h
+file
+
+
+
+add
+
+ftmac.h
+file
+
+
+
+add
+
+ftoutln.h
+file
+
+
+
+add
+
+fttrigon.h
+file
+
+
+
+add
+
+ftcache.h
+file
+
+
+
+add
+
+ftsynth.h
+file
+
+
+
+add
+
+ttunpat.h
+file
+
+
+
+add
+
+ftstroke.h
+file
+
+
+
+add
+
+ftmodapi.h
+file
+
+
+
+add
+
+ftchapters.h
+file
+
+
+
+add
+
+ftlist.h
+file
+
+
+
+add
+
+ftlzw.h
+file
+
+
+
+add
+
+ftbitmap.h
+file
+
+
+
+add
+
+tttags.h
+file
+
+
+
+add
+
+ftincrem.h
+file
+
+
+
+add
+
+ftrender.h
+file
+
+
+
+add
+
+ftglyph.h
+file
+
+
+
+add
+
+t1tables.h
+file
+
+
+
+add
+
+ftsnames.h
+file
+
+
+
+add
+
+ftmoderr.h
+file
+
+
+
+add
+
+tttables.h
+file
+
+
+
+add
+
+freetype.h
+file
+
+
+
+add
+
+ftgasp.h
+file
+
+
+
+add
+
+ftbdf.h
+file
+
+
+
+add
+
+internal
+dir
+
+
+
+add
+
+ftsizes.h
+file
+
+
+
+add
+
+fttypes.h
+file
+
+
+
+add
+
+ftwinfnt.h
+file
+
+
+
+add
+
+fterrdef.h
+file
+
+
+
+add
+
+ftmm.h
+file
+
+
+
+add
+
+ftgzip.h
+file
+
+
+
+add
+
+ttnameid.h
+file
+
+
+
+add
+
+fterrors.h
+file
+
+
+
+add
+
+ftgxval.h
+file
+
+
+
+add
+
+ftimage.h
+file
+
+
+
+add
+
+ftsystem.h
+file
+
+
+
+add
+
+ftotval.h
+file
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+ftpfr.h
+file
+
+
+
+add
+
+ftbbox.h
+file
+
+
+
+add
+
+ftxf86.h
+file
+
+
+
+add
+
+ftadvanc.h
+file
+
+
+
+add
+
+ftlcdfil.h
+file
+
+
+
+add
+

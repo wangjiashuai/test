@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/smooth
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftgrays.c
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+ftsmooth.c
+file
+
+
+
+add
+
+ftgrays.h
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+ftsmooth.h
+file
+
+
+
+add
+
+ftspic.c
+file
+
+
+
+add
+
+smooth.c
+file
+
+
+
+add
+
+ftsmerrs.h
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+ftspic.h
+file
+
+
+
+add
+

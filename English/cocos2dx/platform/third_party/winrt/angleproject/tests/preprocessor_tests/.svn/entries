@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/tests/preprocessor_tests
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+input_test.cpp
+file
+
+
+
+add
+
+comment_test.cpp
+file
+
+
+
+add
+
+pragma_test.cpp
+file
+
+
+
+add
+
+location_test.cpp
+file
+
+
+
+add
+
+extension_test.cpp
+file
+
+
+
+add
+
+char_test.cpp
+file
+
+
+
+add
+
+token_test.cpp
+file
+
+
+
+add
+
+identifier_test.cpp
+file
+
+
+
+add
+
+version_test.cpp
+file
+
+
+
+add
+
+PreprocessorTest.cpp
+file
+
+
+
+add
+
+MockDiagnostics.h
+file
+
+
+
+add
+
+number_test.cpp
+file
+
+
+
+add
+
+error_test.cpp
+file
+
+
+
+add
+
+define_test.cpp
+file
+
+
+
+add
+
+operator_test.cpp
+file
+
+
+
+add
+
+space_test.cpp
+file
+
+
+
+add
+
+MockDirectiveHandler.h
+file
+
+
+
+add
+
+PreprocessorTest.h
+file
+
+
+
+add
+
+if_test.cpp
+file
+
+
+
+add
+

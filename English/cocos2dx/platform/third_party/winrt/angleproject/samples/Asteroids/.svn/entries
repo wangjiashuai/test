@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/Asteroids
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+glm
+dir
+
+
+
+add
+
+SimpleVertexShader.hlsl
+file
+
+
+
+add
+
+Direct3DBase.h
+file
+
+
+
+add
+
+Asteroids.h
+file
+
+
+
+add
+
+SimplePixelShader.hlsl
+file
+
+
+
+add
+
+CubeRenderer.cpp
+file
+
+
+
+add
+
+Asteroids.vcxproj
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+d3dcompiler_46.dll
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Asteroids.sln
+file
+
+
+
+add
+
+DirectXHelper.h
+file
+
+
+
+add
+
+Package.appxmanifest
+file
+
+
+
+add
+
+CubeRenderer.h
+file
+
+
+
+add
+
+pch.cpp
+file
+
+
+
+add
+
+Asteroids_2013.vcxproj
+file
+
+
+
+add
+
+Asteroids_2013.sln
+file
+
+
+
+add
+
+Asteroids.vcxproj.filters
+file
+
+
+
+add
+
+dlls
+dir
+
+
+
+add
+
+Package_2013.appxmanifest
+file
+
+
+
+add
+
+pch.h
+file
+
+
+
+add
+
+Assets
+dir
+
+
+
+add
+
+Asteroids_2013.vcxproj.filters
+file
+
+
+
+add
+
+Asteroids_TemporaryKey.pfx
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+BasicTimer.h
+file
+
+
+
+add
+
+Direct3DBase.cpp
+file
+
+
+
+add
+
+Asteroids.cpp
+file
+
+
+
+add
+

@@ -1,0 +1,1127 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/poppler
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+OutputDev.h
+file
+
+
+
+add
+
+NameToUnicodeTable.h
+file
+
+
+
+add
+
+strtok_r.cpp
+file
+
+
+
+add
+
+PDFDocEncoding.h
+file
+
+
+
+add
+
+StdinCachedFile.cc
+file
+
+
+
+add
+
+FontEncodingTables.h
+file
+
+
+
+add
+
+StdinPDFDocBuilder.h
+file
+
+
+
+add
+
+UnicodeDecompTables.h
+file
+
+
+
+add
+
+OptionalContent.cc
+file
+
+
+
+add
+
+CMap.cc
+file
+
+
+
+add
+
+Outline.h
+file
+
+
+
+add
+
+Movie.h
+file
+
+
+
+add
+
+UnicodeMapTables.h
+file
+
+
+
+add
+
+GlobalParamsWin.cc
+file
+
+
+
+add
+
+FontInfo.h
+file
+
+
+
+add
+
+ABWOutputDev.h
+file
+
+
+
+add
+
+Link.cc
+file
+
+
+
+add
+
+UnicodeTypeTable.cc
+file
+
+
+
+add
+
+Form.cc
+file
+
+
+
+add
+
+poppler-config.h.cmake
+file
+
+
+
+add
+
+Form.h
+file
+
+
+
+add
+
+SecurityHandler.cc
+file
+
+
+
+add
+
+XRef.h
+file
+
+
+
+add
+
+PDFDocBuilder.h
+file
+
+
+
+add
+
+Object.h
+file
+
+
+
+add
+
+CachedFile.h
+file
+
+
+
+add
+
+CompactFontTables.h
+file
+
+
+
+add
+
+XpdfPluginAPI.cc
+file
+
+
+
+add
+
+Page.h
+file
+
+
+
+add
+
+JPXStream.h
+file
+
+
+
+add
+
+LocalPDFDocBuilder.h
+file
+
+
+
+add
+
+Function.cc
+file
+
+
+
+add
+
+Gfx.h
+file
+
+
+
+add
+
+Hints.h
+file
+
+
+
+add
+
+PageTransition.h
+file
+
+
+
+add
+
+Error.cc
+file
+
+
+
+add
+
+BuiltinFontTables.h
+file
+
+
+
+add
+
+JArithmeticDecoder.h
+file
+
+
+
+add
+
+BuiltinFont.h
+file
+
+
+
+add
+
+XRef.cc
+file
+
+
+
+add
+
+TextOutputDev.h
+file
+
+
+
+add
+
+gen-unicode-tables.py
+file
+
+
+
+add
+
+Linearization.h
+file
+
+
+
+add
+
+StdinCachedFile.h
+file
+
+
+
+add
+
+Page.cc
+file
+
+
+
+add
+
+XpdfPluginAPI.h
+file
+
+
+
+add
+
+NameToCharCode.h
+file
+
+
+
+add
+
+Array.cc
+file
+
+
+
+add
+
+Lexer.cc
+file
+
+
+
+add
+
+Gfx.cc
+file
+
+
+
+add
+
+DCTStream.cc
+file
+
+
+
+add
+
+GfxState.h
+file
+
+
+
+add
+
+Sound.cc
+file
+
+
+
+add
+
+PDFDocFactory.h
+file
+
+
+
+add
+
+PageLabelInfo.h
+file
+
+
+
+add
+
+CurlCachedFile.h
+file
+
+
+
+add
+
+PDFDoc.h
+file
+
+
+
+add
+
+TextOutputDev.cc
+file
+
+
+
+add
+
+PDFDocEncoding.cc
+file
+
+
+
+add
+
+PopplerCache.h
+file
+
+
+
+add
+
+FlateStream.cc
+file
+
+
+
+add
+
+CairoFontEngine.cc
+file
+
+
+
+add
+
+Decrypt.cc
+file
+
+
+
+add
+
+SplashOutputDev.cc
+file
+
+
+
+add
+
+NameToCharCode.cc
+file
+
+
+
+add
+
+JPXStream.cc
+file
+
+
+
+add
+
+Annot.h
+file
+
+
+
+add
+
+OptionalContent.h
+file
+
+
+
+add
+
+CMap.h
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+Hints.cc
+file
+
+
+
+add
+
+ArthurOutputDev.h
+file
+
+
+
+add
+
+DateInfo.cc
+file
+
+
+
+add
+
+Rendition.cc
+file
+
+
+
+add
+
+Error.h
+file
+
+
+
+add
+
+BuiltinFont.cc
+file
+
+
+
+add
+
+Rendition.h
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+OutputDev.cc
+file
+
+
+
+add
+
+UnicodeCompTables.h
+file
+
+
+
+add
+
+UnicodeTypeTable.h
+file
+
+
+
+add
+
+Object.cc
+file
+
+
+
+add
+
+CairoRescaleBox.h
+file
+
+
+
+add
+
+CairoFontEngine.h
+file
+
+
+
+add
+
+Decrypt.h
+file
+
+
+
+add
+
+SplashOutputDev.h
+file
+
+
+
+add
+
+PSTokenizer.h
+file
+
+
+
+add
+
+Outline.cc
+file
+
+
+
+add
+
+Movie.cc
+file
+
+
+
+add
+
+CairoOutputDev.h
+file
+
+
+
+add
+
+GfxState.cc
+file
+
+
+
+add
+
+CurlCachedFile.cc
+file
+
+
+
+add
+
+Parser.h
+file
+
+
+
+add
+
+CurlPDFDocBuilder.h
+file
+
+
+
+add
+
+PSOutputDev.cc
+file
+
+
+
+add
+
+CharTypes.h
+file
+
+
+
+add
+
+PopplerCache.cc
+file
+
+
+
+add
+
+CachedFile.cc
+file
+
+
+
+add
+
+FontEncodingTables.cc
+file
+
+
+
+add
+
+StdinPDFDocBuilder.cc
+file
+
+
+
+add
+
+JBIG2Stream.cc
+file
+
+
+
+add
+
+CharCodeToUnicode.cc
+file
+
+
+
+add
+
+ArthurOutputDev.cc
+file
+
+
+
+add
+
+PageTransition.cc
+file
+
+
+
+add
+
+ProfileData.cc
+file
+
+
+
+add
+
+FileSpec.cc
+file
+
+
+
+add
+
+Sound.h
+file
+
+
+
+add
+
+poppler-config.h.in
+file
+
+
+
+add
+
+DateInfo.h
+file
+
+
+
+add
+
+Stream.cc
+file
+
+
+
+add
+
+Parser.cc
+file
+
+
+
+add
+
+CurlPDFDocBuilder.cc
+file
+
+
+
+add
+
+Stream.h
+file
+
+
+
+add
+
+JPEG2000Stream.cc
+file
+
+
+
+add
+
+PSOutputDev.h
+file
+
+
+
+add
+
+JPEG2000Stream.h
+file
+
+
+
+add
+
+CairoRescaleBox.cc
+file
+
+
+
+add
+
+GlobalParams.h
+file
+
+
+
+add
+
+Catalog.cc
+file
+
+
+
+add
+
+GfxFont.cc
+file
+
+
+
+add
+
+PSTokenizer.cc
+file
+
+
+
+add
+
+CairoOutputDev.cc
+file
+
+
+
+add
+
+GfxFont.h
+file
+
+
+
+add
+
+Lexer.h
+file
+
+
+
+add
+
+CharCodeToUnicode.h
+file
+
+
+
+add
+
+UnicodeMap.h
+file
+
+
+
+add
+
+PDFDocFactory.cc
+file
+
+
+
+add
+
+BuiltinFontTables.cc
+file
+
+
+
+add
+
+UTF8.h
+file
+
+
+
+add
+
+ABWOutputDev.cc
+file
+
+
+
+add
+
+ProfileData.h
+file
+
+
+
+add
+
+FileSpec.h
+file
+
+
+
+add
+
+PDFDoc.cc
+file
+
+
+
+add
+
+Link.h
+file
+
+
+
+add
+
+Stream-CCITT.h
+file
+
+
+
+add
+
+GlobalParams.cc
+file
+
+
+
+add
+
+SecurityHandler.h
+file
+
+
+
+add
+
+Linearization.cc
+file
+
+
+
+add
+
+ErrorCodes.h
+file
+
+
+
+add
+
+FlateStream.h
+file
+
+
+
+add
+
+GfxState_helpers.h
+file
+
+
+
+add
+
+PreScanOutputDev.cc
+file
+
+
+
+add
+
+JBIG2Stream.h
+file
+
+
+
+add
+
+Catalog.h
+file
+
+
+
+add
+
+UnicodeCClassTables.h
+file
+
+
+
+add
+
+PreScanOutputDev.h
+file
+
+
+
+add
+
+Annot.cc
+file
+
+
+
+add
+
+Array.h
+file
+
+
+
+add
+
+LocalPDFDocBuilder.cc
+file
+
+
+
+add
+
+FontInfo.cc
+file
+
+
+
+add
+
+Dict.cc
+file
+
+
+
+add
+
+UnicodeMap.cc
+file
+
+
+
+add
+
+Dict.h
+file
+
+
+
+add
+
+Function.h
+file
+
+
+
+add
+
+PageLabelInfo.cc
+file
+
+
+
+add
+
+DCTStream.h
+file
+
+
+
+add
+
+JArithmeticDecoder.cc
+file
+
+
+
+add
+

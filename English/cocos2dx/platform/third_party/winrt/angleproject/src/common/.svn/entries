@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/common
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+event_tracer.cpp
+file
+
+
+
+add
+
+RefCountObject.h
+file
+
+
+
+add
+
+winrtutils.cpp
+file
+
+
+
+add
+
+debug.cpp
+file
+
+
+
+add
+
+event_tracer.h
+file
+
+
+
+add
+
+system.h
+file
+
+
+
+add
+
+winrtutils.h
+file
+
+
+
+add
+
+version.h
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+angleutils.h
+file
+
+
+
+add
+
+RefCountObject.cpp
+file
+
+
+
+add
+

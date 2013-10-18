@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/lib
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libc.symbols
+file
+
+
+
+add
+
+sdl.cpp
+file
+
+
+
+add
+
+libcextra.symbols
+file
+
+
+
+add
+
+libcxxabi
+dir
+
+
+
+add
+
+dlmalloc.c
+file
+
+
+
+add
+
+libc
+dir
+
+
+
+add
+
+libcxx
+dir
+
+
+
+add
+
+sdl.symbols
+file
+
+
+
+add
+
+debugging.cpp
+file
+
+
+
+add
+
+compiler-rt
+dir
+
+
+
+add
+
+embind
+dir
+
+
+
+add
+

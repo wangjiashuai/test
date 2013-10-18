@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Json/lib_json
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+json_internalmap.inl
+file
+
+
+
+add
+
+json_lib.h
+file
+
+
+
+add
+
+json_internalarray.inl
+file
+
+
+
+add
+
+json_writer.cpp
+file
+
+
+
+add
+
+json_value.cpp
+file
+
+
+
+add
+
+sconscript
+file
+
+
+
+add
+
+reader.h
+file
+
+
+
+add
+
+config.h
+file
+
+
+
+add
+
+json_tool.h
+file
+
+
+
+add
+
+json_valueiterator.inl
+file
+
+
+
+add
+
+json_batchallocator.h
+file
+
+
+
+add
+
+value.h
+file
+
+
+
+add
+
+writer.h
+file
+
+
+
+add
+
+features.h
+file
+
+
+
+add
+
+json_reader.cpp
+file
+
+
+
+add
+
+autolink.h
+file
+
+
+
+add
+
+forwards.h
+file
+
+
+
+add
+

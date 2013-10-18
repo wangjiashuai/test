@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/sprite_nodes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCAnimationCache.h
+file
+
+
+
+add
+
+CCSpriteFrameCache.h
+file
+
+
+
+add
+
+CCSprite.h
+file
+
+
+
+add
+
+CCSpriteBatchNode.cpp
+file
+
+
+
+add
+
+CCAnimation.cpp
+file
+
+
+
+add
+
+CCSpriteFrame.cpp
+file
+
+
+
+add
+
+CCAnimationCache.cpp
+file
+
+
+
+add
+
+CCSpriteBatchNode.h
+file
+
+
+
+add
+
+CCAnimation.h
+file
+
+
+
+add
+
+CCSpriteFrameCache.cpp
+file
+
+
+
+add
+
+CCSprite.cpp
+file
+
+
+
+add
+
+CCSpriteFrame.h
+file
+
+
+
+add
+

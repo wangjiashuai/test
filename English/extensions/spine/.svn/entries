@@ -1,0 +1,329 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/spine
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCSkeletonAnimation.h
+file
+
+
+
+add
+
+CCSkeleton.h
+file
+
+
+
+add
+
+Atlas.cpp
+file
+
+
+
+add
+
+AtlasAttachmentLoader.cpp
+file
+
+
+
+add
+
+Skin.cpp
+file
+
+
+
+add
+
+spine-cocos2dx.h
+file
+
+
+
+add
+
+AnimationStateData.cpp
+file
+
+
+
+add
+
+SlotData.cpp
+file
+
+
+
+add
+
+Json.h
+file
+
+
+
+add
+
+Animation.cpp
+file
+
+
+
+add
+
+AnimationState.cpp
+file
+
+
+
+add
+
+extension.h
+file
+
+
+
+add
+
+Slot.cpp
+file
+
+
+
+add
+
+BoneData.h
+file
+
+
+
+add
+
+SkeletonData.h
+file
+
+
+
+add
+
+SkeletonJson.h
+file
+
+
+
+add
+
+AttachmentLoader.h
+file
+
+
+
+add
+
+Bone.h
+file
+
+
+
+add
+
+Attachment.cpp
+file
+
+
+
+add
+
+Skeleton.h
+file
+
+
+
+add
+
+CCSkeletonAnimation.cpp
+file
+
+
+
+add
+
+CCSkeleton.cpp
+file
+
+
+
+add
+
+spine-cocos2dx.cpp
+file
+
+
+
+add
+
+RegionAttachment.h
+file
+
+
+
+add
+
+Json.cpp
+file
+
+
+
+add
+
+Atlas.h
+file
+
+
+
+add
+
+AtlasAttachmentLoader.h
+file
+
+
+
+add
+
+Skin.h
+file
+
+
+
+add
+
+extension.cpp
+file
+
+
+
+add
+
+BoneData.cpp
+file
+
+
+
+add
+
+SkeletonData.cpp
+file
+
+
+
+add
+
+SkeletonJson.cpp
+file
+
+
+
+add
+
+AnimationStateData.h
+file
+
+
+
+add
+
+AttachmentLoader.cpp
+file
+
+
+
+add
+
+SlotData.h
+file
+
+
+
+add
+
+Bone.cpp
+file
+
+
+
+add
+
+spine.h
+file
+
+
+
+add
+
+Skeleton.cpp
+file
+
+
+
+add
+
+Animation.h
+file
+
+
+
+add
+
+AnimationState.h
+file
+
+
+
+add
+
+Slot.h
+file
+
+
+
+add
+
+RegionAttachment.cpp
+file
+
+
+
+add
+
+Attachment.h
+file
+
+
+
+add
+

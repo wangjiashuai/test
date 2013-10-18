@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/win32
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCFileUtilsWin32.h
+file
+
+
+
+add
+
+CCCommon.cpp
+file
+
+
+
+add
+
+compat
+dir
+
+
+
+add
+
+CCStdC.cpp
+file
+
+
+
+add
+
+CCDevice.cpp
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+CCApplication.cpp
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+CCApplication.h
+file
+
+
+
+add
+
+CCAccelerometer.cpp
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+CCImage.cpp
+file
+
+
+
+add
+
+CCFileUtilsWin32.cpp
+file
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/android/java
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+.classpath
+file
+
+
+
+add
+
+project.properties
+file
+
+
+
+add
+
+assets
+dir
+
+
+
+add
+
+.project
+file
+
+
+
+add
+
+proguard-project.txt
+file
+
+
+
+add
+
+AndroidManifest.xml
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+gen
+dir
+
+
+
+add
+
+res
+dir
+
+
+
+add
+
+ant.properties
+file
+
+
+
+add
+
+.settings
+dir
+
+
+
+add
+
+build.xml
+file
+
+
+
+add
+

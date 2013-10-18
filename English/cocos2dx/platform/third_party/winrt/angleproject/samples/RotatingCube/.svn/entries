@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/RotatingCube
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+RotatingCube_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+RotatingCube_phone.vcxproj.filters
+file
+
+
+
+add
+
+shader.frag
+file
+
+
+
+add
+
+shader.vert
+file
+
+
+
+add
+
+precompiler.bat
+file
+
+
+
+add
+
+CubeRenderer.cpp
+file
+
+
+
+add
+
+Package.appxmanifest
+file
+
+
+
+add
+
+pch.cpp
+file
+
+
+
+add
+
+CubeRenderer.h
+file
+
+
+
+add
+
+shader.h
+file
+
+
+
+add
+
+RotatingCube_TemporaryKey.pfx
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Package_2013.appxmanifest
+file
+
+
+
+add
+
+pch.h
+file
+
+
+
+add
+
+Assets
+dir
+
+
+
+add
+
+RotatingCube_winrt.vcxproj
+file
+
+
+
+add
+
+RotatingCube_winrt.sln
+file
+
+
+
+add
+
+RotatingCube.cpp
+file
+
+
+
+add
+
+BasicTimer.h
+file
+
+
+
+add
+
+RotatingCube_winrt_2013.vcxproj
+file
+
+
+
+add
+
+RotatingCube_phone.vcxproj
+file
+
+
+
+add
+
+RotatingCube_winrt_2013.sln
+file
+
+
+
+add
+
+RotatingCube_phone.sln
+file
+
+
+
+add
+
+RotatingCube_winrt.vcxproj.filters
+file
+
+
+
+add
+
+WMAppManifest.xml
+file
+
+
+
+add
+
+RotatingCube.h
+file
+
+
+
+add
+

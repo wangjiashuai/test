@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/angle/Simple_Instancing
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Simple_Instancing.vcxproj
+file
+
+
+
+add
+
+Simple_Instancing.c
+file
+
+
+
+add
+
+Simple_Instancing_winrt
+dir
+
+
+
+add
+

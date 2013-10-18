@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/libcxx/support/solaris
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+floatingpoint.h
+file
+
+
+
+add
+
+wchar.h
+file
+
+
+
+add
+
+xlocale.h
+file
+
+
+
+add
+

@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Armature/display
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCSkin.h
+file
+
+
+
+add
+
+CCDecorativeDisplay.cpp
+file
+
+
+
+add
+
+CCBatchNode.h
+file
+
+
+
+add
+
+CCDisplayFactory.cpp
+file
+
+
+
+add
+
+CCDecorativeDisplay.h
+file
+
+
+
+add
+
+CCDisplayManager.cpp
+file
+
+
+
+add
+
+CCDisplayFactory.h
+file
+
+
+
+add
+
+CCSkin.cpp
+file
+
+
+
+add
+
+CCDisplayManager.h
+file
+
+
+
+add
+
+CCBatchNode.cpp
+file
+
+
+
+add
+

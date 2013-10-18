@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/libtiff/source
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+tif_strip.c
+file
+
+
+
+add
+
+tif_lzma.c
+file
+
+
+
+add
+
+tif_warning.c
+file
+
+
+
+add
+
+tif_thunder.c
+file
+
+
+
+add
+
+tif_dirread.c
+file
+
+
+
+add
+
+tif_dumpmode.c
+file
+
+
+
+add
+
+tif_lzw.c
+file
+
+
+
+add
+
+tif_color.c
+file
+
+
+
+add
+
+tif_dir.c
+file
+
+
+
+add
+
+tif_getimage.c
+file
+
+
+
+add
+
+tif_version.c
+file
+
+
+
+add
+
+tif_jpeg_12.c
+file
+
+
+
+add
+
+tif_dirwrite.c
+file
+
+
+
+add
+
+tif_dirinfo.c
+file
+
+
+
+add
+
+tif_write.c
+file
+
+
+
+add
+
+tif_print.c
+file
+
+
+
+add
+
+tif_swab.c
+file
+
+
+
+add
+
+tif_aux.c
+file
+
+
+
+add
+
+tif_tile.c
+file
+
+
+
+add
+
+tif_packbits.c
+file
+
+
+
+add
+
+tif_open.c
+file
+
+
+
+add
+
+tif_fax3.c
+file
+
+
+
+add
+
+tif_fax3sm.c
+file
+
+
+
+add
+
+tif_win32.c
+file
+
+
+
+add
+
+tif_zip.c
+file
+
+
+
+add
+
+tif_ojpeg.c
+file
+
+
+
+add
+
+tif_close.c
+file
+
+
+
+add
+
+tif_luv.c
+file
+
+
+
+add
+
+tif_read.c
+file
+
+
+
+add
+
+tif_jbig.c
+file
+
+
+
+add
+
+tif_extension.c
+file
+
+
+
+add
+
+tif_codec.c
+file
+
+
+
+add
+
+tif_next.c
+file
+
+
+
+add
+
+tif_flush.c
+file
+
+
+
+add
+
+tif_unix.c
+file
+
+
+
+add
+
+tif_pixarlog.c
+file
+
+
+
+add
+
+tif_jpeg.c
+file
+
+
+
+add
+
+tif_error.c
+file
+
+
+
+add
+
+tif_predict.c
+file
+
+
+
+add
+
+tif_stream.c
+file
+
+
+
+add
+
+tif_compress.c
+file
+
+
+
+add
+

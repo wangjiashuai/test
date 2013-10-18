@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/Extras/ConvexDecomposition
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+fitsphere.h
+file
+
+
+
+add
+
+ConvexDecomposition.cpp
+file
+
+
+
+add
+
+concavity.cpp
+file
+
+
+
+add
+
+vlookup.cpp
+file
+
+
+
+add
+
+bestfit.cpp
+file
+
+
+
+add
+
+concavity.h
+file
+
+
+
+add
+
+ConvexDecomposition.h
+file
+
+
+
+add
+
+vlookup.h
+file
+
+
+
+add
+
+bestfit.h
+file
+
+
+
+add
+
+ConvexBuilder.cpp
+file
+
+
+
+add
+
+cd_hull.cpp
+file
+
+
+
+add
+
+raytri.cpp
+file
+
+
+
+add
+
+splitplane.cpp
+file
+
+
+
+add
+
+cd_vector.h
+file
+
+
+
+add
+
+ConvexBuilder.h
+file
+
+
+
+add
+
+float_math.cpp
+file
+
+
+
+add
+
+planetri.cpp
+file
+
+
+
+add
+
+cd_hull.h
+file
+
+
+
+add
+
+raytri.h
+file
+
+
+
+add
+
+splitplane.h
+file
+
+
+
+add
+
+cd_wavefront.cpp
+file
+
+
+
+add
+
+bestfitobb.cpp
+file
+
+
+
+add
+
+float_math.h
+file
+
+
+
+add
+
+planetri.h
+file
+
+
+
+add
+
+meshvolume.cpp
+file
+
+
+
+add
+
+cd_wavefront.h
+file
+
+
+
+add
+
+bestfitobb.h
+file
+
+
+
+add
+
+fitsphere.cpp
+file
+
+
+
+add
+
+meshvolume.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

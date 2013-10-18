@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/freetype/include/freetype/internal
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftvalid.h
+file
+
+
+
+add
+
+autohint.h
+file
+
+
+
+add
+
+ftcalc.h
+file
+
+
+
+add
+
+services
+dir
+
+
+
+add
+
+psaux.h
+file
+
+
+
+add
+
+ftmemory.h
+file
+
+
+
+add
+
+ftgloadr.h
+file
+
+
+
+add
+
+ftpic.h
+file
+
+
+
+add
+
+ftserv.h
+file
+
+
+
+add
+
+t1types.h
+file
+
+
+
+add
+
+sfnt.h
+file
+
+
+
+add
+
+internal.h
+file
+
+
+
+add
+
+tttypes.h
+file
+
+
+
+add
+
+ftrfork.h
+file
+
+
+
+add
+
+ftdebug.h
+file
+
+
+
+add
+
+ftstream.h
+file
+
+
+
+add
+
+ftdriver.h
+file
+
+
+
+add
+
+ftobjs.h
+file
+
+
+
+add
+
+fttrace.h
+file
+
+
+
+add
+
+pshints.h
+file
+
+
+
+add
+

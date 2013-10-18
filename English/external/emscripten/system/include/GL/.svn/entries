@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/GL
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+glut.h
+file
+
+
+
+add
+
+glew.h
+file
+
+
+
+add
+
+glfw.h
+file
+
+
+
+add
+
+gl.h
+file
+
+
+
+add
+
+glext.h
+file
+
+
+
+add
+
+freeglut_std.h
+file
+
+
+
+add
+
+glu.h
+file
+
+
+
+add
+

@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletSoftBody
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btSoftBodyConcaveCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btSoftBodySolvers.h
+file
+
+
+
+add
+
+btSoftBodyHelpers.cpp
+file
+
+
+
+add
+
+btSoftRigidCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btSoftBodyInternals.h
+file
+
+
+
+add
+
+btSoftBodyConcaveCollisionAlgorithm.h
+file
+
+
+
+add
+
+btSoftBodySolverVertexBuffer.h
+file
+
+
+
+add
+
+btSoftBodyHelpers.h
+file
+
+
+
+add
+
+btSoftRigidCollisionAlgorithm.h
+file
+
+
+
+add
+
+btSoftBodyData.h
+file
+
+
+
+add
+
+btSoftBody.cpp
+file
+
+
+
+add
+
+btDefaultSoftBodySolver.cpp
+file
+
+
+
+add
+
+btSoftBodyRigidBodyCollisionConfiguration.cpp
+file
+
+
+
+add
+
+btSoftRigidDynamicsWorld.cpp
+file
+
+
+
+add
+
+btSoftSoftCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btSoftBody.h
+file
+
+
+
+add
+
+btDefaultSoftBodySolver.h
+file
+
+
+
+add
+
+btSoftBodyRigidBodyCollisionConfiguration.h
+file
+
+
+
+add
+
+btSoftRigidDynamicsWorld.h
+file
+
+
+
+add
+
+btSoftSoftCollisionAlgorithm.h
+file
+
+
+
+add
+
+btSparseSDF.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

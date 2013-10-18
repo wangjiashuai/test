@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/libwebp/enc
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+tree.c
+file
+
+
+
+add
+
+histogram.h
+file
+
+
+
+add
+
+config.c
+file
+
+
+
+add
+
+vp8li.h
+file
+
+
+
+add
+
+cost.c
+file
+
+
+
+add
+
+picture.c
+file
+
+
+
+add
+
+layer.c
+file
+
+
+
+add
+
+cost.h
+file
+
+
+
+add
+
+backward_references.c
+file
+
+
+
+add
+
+vp8enci.h
+file
+
+
+
+add
+
+analysis.c
+file
+
+
+
+add
+
+webpenc.c
+file
+
+
+
+add
+
+backward_references.h
+file
+
+
+
+add
+
+filter.c
+file
+
+
+
+add
+
+alpha.c
+file
+
+
+
+add
+
+syntax.c
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+quant.c
+file
+
+
+
+add
+
+iterator.c
+file
+
+
+
+add
+
+vp8l.c
+file
+
+
+
+add
+
+frame.c
+file
+
+
+
+add
+
+histogram.c
+file
+
+
+
+add
+

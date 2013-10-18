@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/lib/libcxx
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+exception.cpp
+file
+
+
+
+add
+
+locale.cpp
+file
+
+
+
+add
+
+mutex.cpp
+file
+
+
+
+add
+
+stdexcept.cpp
+file
+
+
+
+add
+
+utility.cpp
+file
+
+
+
+add
+
+string.cpp
+file
+
+
+
+add
+
+symbols
+file
+
+
+
+add
+
+thread.cpp
+file
+
+
+
+add
+
+memory.cpp
+file
+
+
+
+add
+
+future.cpp
+file
+
+
+
+add
+
+regex.cpp
+file
+
+
+
+add
+
+bind.cpp
+file
+
+
+
+add
+
+LICENSE.txt
+file
+
+
+
+add
+
+random.cpp
+file
+
+
+
+add
+
+valarray.cpp
+file
+
+
+
+add
+
+iostream.cpp
+file
+
+
+
+add
+
+hash.cpp
+file
+
+
+
+add
+
+strstream.cpp
+file
+
+
+
+add
+
+debug.cpp
+file
+
+
+
+add
+
+algorithm.cpp
+file
+
+
+
+add
+
+chrono.cpp
+file
+
+
+
+add
+
+new.cpp
+file
+
+
+
+add
+
+ios.cpp
+file
+
+
+
+add
+
+CREDITS.TXT
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+condition_variable.cpp
+file
+
+
+
+add
+
+support
+dir
+
+
+
+add
+
+system_error.cpp
+file
+
+
+
+add
+
+typeinfo.cpp
+file
+
+
+
+add
+

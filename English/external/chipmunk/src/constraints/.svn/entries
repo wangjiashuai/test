@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/chipmunk/src/constraints
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cpDampedSpring.c
+file
+
+
+
+add
+
+cpDampedRotarySpring.c
+file
+
+
+
+add
+
+cpRatchetJoint.c
+file
+
+
+
+add
+
+cpGearJoint.c
+file
+
+
+
+add
+
+cpRotaryLimitJoint.c
+file
+
+
+
+add
+
+cpConstraint.c
+file
+
+
+
+add
+
+cpSlideJoint.c
+file
+
+
+
+add
+
+cpGrooveJoint.c
+file
+
+
+
+add
+
+cpPivotJoint.c
+file
+
+
+
+add
+
+cpPinJoint.c
+file
+
+
+
+add
+
+cpSimpleMotor.c
+file
+
+
+
+add
+

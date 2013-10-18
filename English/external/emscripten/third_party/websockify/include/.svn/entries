@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/third_party/websockify/include
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+base64.js
+file
+
+
+
+add
+
+wstelnet.js
+file
+
+
+
+add
+
+wsirc.js
+file
+
+
+
+add
+
+VT100.js
+file
+
+
+
+add
+
+webutil.js
+file
+
+
+
+add
+
+util.js
+file
+
+
+
+add
+
+websock.js
+file
+
+
+
+add
+
+keysym.js
+file
+
+
+
+add
+
+web-socket-js
+dir
+
+
+
+add
+

@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Integrate.cl
+file
+
+
+
+add
+
+ComputeBounds.cl
+file
+
+
+
+add
+
+ApplyForces.cl
+file
+
+
+
+add
+
+SolvePositionsSIMDBatched.cl
+file
+
+
+
+add
+
+UpdatePositions.cl
+file
+
+
+
+add
+
+SolveCollisionsAndUpdateVelocitiesSIMDBatched.cl
+file
+
+
+
+add
+
+PrepareLinks.cl
+file
+
+
+
+add
+
+SolvePositions.cl
+file
+
+
+
+add
+
+OutputToVertexArray.cl
+file
+
+
+
+add
+
+SolveCollisionsAndUpdateVelocities.cl
+file
+
+
+
+add
+
+UpdatePositionsFromVelocities.cl
+file
+
+
+
+add
+
+UpdateNodes.cl
+file
+
+
+
+add
+
+UpdateNormals.cl
+file
+
+
+
+add
+
+VSolveLinks.cl
+file
+
+
+
+add
+
+UpdateConstants.cl
+file
+
+
+
+add
+

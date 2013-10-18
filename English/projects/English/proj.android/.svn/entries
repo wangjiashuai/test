@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/projects/English/proj.android
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+jni
+dir
+
+
+
+add
+
+.project
+file
+
+
+
+add
+
+.cproject
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+res
+dir
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+build.xml
+file
+
+
+
+add
+
+.classpath
+file
+
+
+
+add
+
+project.properties
+file
+
+
+
+add
+
+assets
+dir
+
+
+
+add
+
+proguard-project.txt
+file
+
+
+
+add
+
+AndroidManifest.xml
+file
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+gen
+dir
+
+
+
+add
+
+ant.properties
+file
+
+
+
+add
+
+build_native.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.settings
+dir
+
+
+
+add
+

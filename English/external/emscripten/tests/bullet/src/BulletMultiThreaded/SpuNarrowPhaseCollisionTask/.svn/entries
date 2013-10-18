@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+SpuGatheringCollisionTask.cpp
+file
+
+
+
+add
+
+SpuMinkowskiPenetrationDepthSolver.h
+file
+
+
+
+add
+
+SpuGatheringCollisionTask.h
+file
+
+
+
+add
+
+SpuPreferredPenetrationDirections.h
+file
+
+
+
+add
+
+boxBoxDistance.cpp
+file
+
+
+
+add
+
+boxBoxDistance.h
+file
+
+
+
+add
+
+SpuContactResult.cpp
+file
+
+
+
+add
+
+SpuLocalSupport.h
+file
+
+
+
+add
+
+SpuContactResult.h
+file
+
+
+
+add
+
+SpuCollisionShapes.cpp
+file
+
+
+
+add
+
+SpuConvexPenetrationDepthSolver.h
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+SpuMinkowskiPenetrationDepthSolver.cpp
+file
+
+
+
+add
+
+SpuCollisionShapes.h
+file
+
+
+
+add
+
+Box.h
+file
+
+
+
+add
+

@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/Asteroids/src
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Makefile.in
+file
+
+
+
+add
+
+engine
+dir
+
+
+
+add
+
+main.cc
+file
+
+
+
+add
+
+game
+dir
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+res
+dir
+
+
+
+add
+

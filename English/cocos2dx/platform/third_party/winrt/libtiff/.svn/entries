@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/libtiff
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libtiff_2013.sln
+file
+
+
+
+add
+
+libtiff.vcxproj.filters
+file
+
+
+
+add
+
+tiffconf.h
+file
+
+
+
+add
+
+libtiff_2013.vcxproj.filters
+file
+
+
+
+add
+
+tiffio.h
+file
+
+
+
+add
+
+libtiff.vcxproj
+file
+
+
+
+add
+
+libtiff.sln
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+tif_config.h
+file
+
+
+
+add
+
+libtiff_2013.vcxproj
+file
+
+
+
+add
+
+tiff.h
+file
+
+
+
+add
+
+tiffvers.h
+file
+
+
+
+add
+

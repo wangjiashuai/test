@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/GUI/System
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+UILayer.h
+file
+
+
+
+add
+
+CocosGUI.h
+file
+
+
+
+add
+
+UIHelper.h
+file
+
+
+
+add
+
+UIInputManager.cpp
+file
+
+
+
+add
+
+UILayer.cpp
+file
+
+
+
+add
+
+CocosGUI.cpp
+file
+
+
+
+add
+
+UIHelper.cpp
+file
+
+
+
+add
+
+UIInputManager.h
+file
+
+
+
+add
+

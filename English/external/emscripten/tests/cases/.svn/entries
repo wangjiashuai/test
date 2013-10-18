@@ -1,0 +1,679 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/cases
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+typestr.ll
+file
+
+
+
+add
+
+phiself.py
+file
+
+
+
+add
+
+caall.ll
+file
+
+
+
+add
+
+extendedprecision.ll
+file
+
+
+
+add
+
+uadd_overflow_64_ta2.ll
+file
+
+
+
+add
+
+funcptr.ll
+file
+
+
+
+add
+
+inttoptr.ll
+file
+
+
+
+add
+
+aliasbitcast3_noasm.ll
+file
+
+
+
+add
+
+phientryimplicitmoar.txt
+file
+
+
+
+add
+
+legalizer_ta2.ll
+file
+
+
+
+add
+
+funcptr.txt
+file
+
+
+
+add
+
+phientryimplicit.ll
+file
+
+
+
+add
+
+trace.ll
+file
+
+
+
+add
+
+i64toi8star.ll
+file
+
+
+
+add
+
+storestruct.ll
+file
+
+
+
+add
+
+atomicrmw.ll
+file
+
+
+
+add
+
+alignedunaligned.txt
+file
+
+
+
+add
+
+phiself.txt
+file
+
+
+
+add
+
+longjmp_tiny_phi2.txt
+file
+
+
+
+add
+
+phi24_ta2.txt
+file
+
+
+
+add
+
+invokebitcast.ll
+file
+
+
+
+add
+
+longjmp_tiny_phi.ll
+file
+
+
+
+add
+
+storestruct.txt
+file
+
+
+
+add
+
+phientryimplicitmoar.ll
+file
+
+
+
+add
+
+ncurly.ll
+file
+
+
+
+add
+
+uadd_overflow_ta2.txt
+file
+
+
+
+add
+
+514_ta2.ll
+file
+
+
+
+add
+
+longjmp_tiny_phi.txt
+file
+
+
+
+add
+
+entry2.ll
+file
+
+
+
+add
+
+unannotated__noasm.txt
+file
+
+
+
+add
+
+callalias.ll
+file
+
+
+
+add
+
+allocavartop.ll
+file
+
+
+
+add
+
+cmpxchg_volatile.ll
+file
+
+
+
+add
+
+ptrtoint_blockaddr.ll
+file
+
+
+
+add
+
+phicubed.txt
+file
+
+
+
+add
+
+phi24_ta2.ll
+file
+
+
+
+add
+
+callundef.ll
+file
+
+
+
+add
+
+quoted.ll
+file
+
+
+
+add
+
+emptystruct.ll
+file
+
+
+
+add
+
+ptrtoi64.txt
+file
+
+
+
+add
+
+trunc.txt
+file
+
+
+
+add
+
+udiv.ll
+file
+
+
+
+add
+
+inttoptrfloat.ll
+file
+
+
+
+add
+
+atomicrmw.txt
+file
+
+
+
+add
+
+storestruct_q1.txt
+file
+
+
+
+add
+
+phientryimplicitmix.ll
+file
+
+
+
+add
+
+issue_39.txt
+file
+
+
+
+add
+
+unannotated__noasm.ll
+file
+
+
+
+add
+
+invokeundef.ll
+file
+
+
+
+add
+
+fp80.ll
+file
+
+
+
+add
+
+breakinthemiddle3.ll
+file
+
+
+
+add
+
+dash.ll
+file
+
+
+
+add
+
+selectstruct.ll
+file
+
+
+
+add
+
+indirectbrphi.ll
+file
+
+
+
+add
+
+uadd_overflow_64_ta2.txt
+file
+
+
+
+add
+
+frem.ll
+file
+
+
+
+add
+
+longjmp_tiny_phi2.ll
+file
+
+
+
+add
+
+longjmp_tiny_invoke.txt
+file
+
+
+
+add
+
+aliasbitcastdollar_noasm.ll
+file
+
+
+
+add
+
+frem.txt
+file
+
+
+
+add
+
+unaligneddouble.ll
+file
+
+
+
+add
+
+call_i64_noret.ll
+file
+
+
+
+add
+
+subnums.txt
+file
+
+
+
+add
+
+floatreturningfuncptr.ll
+file
+
+
+
+add
+
+structparam.ll
+file
+
+
+
+add
+
+sillybitcast.ll
+file
+
+
+
+add
+
+callalias2.ll
+file
+
+
+
+add
+
+complexphi.ll
+file
+
+
+
+add
+
+longjmp_tiny.ll
+file
+
+
+
+add
+
+breakinthemiddle2.ll
+file
+
+
+
+add
+
+structparam.txt
+file
+
+
+
+add
+
+longjmp_tiny.txt
+file
+
+
+
+add
+
+aliasbitcast2_noasm.ll
+file
+
+
+
+add
+
+phicubed.ll
+file
+
+
+
+add
+
+longjmp_tiny_invoke.ll
+file
+
+
+
+add
+
+loadbitcastgep.ll
+file
+
+
+
+add
+
+514_ta2.txt
+file
+
+
+
+add
+
+alignedunaligned.ll
+file
+
+
+
+add
+
+phiself.ll
+file
+
+
+
+add
+
+breakinthemiddle.ll
+file
+
+
+
+add
+
+entry2.txt
+file
+
+
+
+add
+
+ptrtoi64.ll
+file
+
+
+
+add
+
+trunc.ll
+file
+
+
+
+add
+
+legalizer_ta2.txt
+file
+
+
+
+add
+
+subnums.ll
+file
+
+
+
+add
+
+indirectbrphi.txt
+file
+
+
+
+add
+
+quotedlabel.ll
+file
+
+
+
+add
+
+issue_39.ll
+file
+
+
+
+add
+
+aliasbitcast.ll
+file
+
+
+
+add
+
+abs.ll
+file
+
+
+
+add
+
+uadd_overflow_ta2.ll
+file
+
+
+
+add
+
+i64toi8star.txt
+file
+
+
+
+add
+
+phinonexist.ll
+file
+
+
+
+add
+

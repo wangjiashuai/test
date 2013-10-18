@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Armature
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+animation
+dir
+
+
+
+add
+
+CCBone.h
+file
+
+
+
+add
+
+external_tool
+dir
+
+
+
+add
+
+utils
+dir
+
+
+
+add
+
+physics
+dir
+
+
+
+add
+
+display
+dir
+
+
+
+add
+
+CCArmature.cpp
+file
+
+
+
+add
+
+CCBone.cpp
+file
+
+
+
+add
+
+CCArmature.h
+file
+
+
+
+add
+
+datas
+dir
+
+
+
+add
+

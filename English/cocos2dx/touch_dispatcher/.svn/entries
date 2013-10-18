@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/touch_dispatcher
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCTouchDispatcher.cpp
+file
+
+
+
+add
+
+CCTouchDispatcher.h
+file
+
+
+
+add
+
+CCTouchHandler.cpp
+file
+
+
+
+add
+
+CCTouch.cpp
+file
+
+
+
+add
+
+CCTouchDelegateProtocol.h
+file
+
+
+
+add
+
+CCTouchHandler.h
+file
+
+
+
+add
+
+CCTouch.h
+file
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/libtiff/headers
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+tif_predict.h
+file
+
+
+
+add
+
+tiffconf.h
+file
+
+
+
+add
+
+tif_dir.h
+file
+
+
+
+add
+
+tiffio.h
+file
+
+
+
+add
+
+tiffio.hxx
+file
+
+
+
+add
+
+tiffiop.h
+file
+
+
+
+add
+
+tif_fax3.h
+file
+
+
+
+add
+
+uvcode.h
+file
+
+
+
+add
+
+t4.h
+file
+
+
+
+add
+
+tif_config.h
+file
+
+
+
+add
+
+tif_stream.cxx
+file
+
+
+
+add
+
+tiff.h
+file
+
+
+
+add
+
+tiffvers.h
+file
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/emscripten
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCApplication.h
+file
+
+
+
+add
+
+CCCommon.cpp
+file
+
+
+
+add
+
+CCFileUtilsEmscripten.cpp
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+CCDevice.cpp
+file
+
+
+
+add
+
+CCFileUtilsEmscripten.h
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+CCImage.cpp
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+CCApplication.cpp
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+

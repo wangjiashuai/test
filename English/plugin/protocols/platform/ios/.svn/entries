@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/protocols/platform/ios
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+PluginUtilsIOS.h
+file
+
+
+
+add
+
+InterfaceIAP.h
+file
+
+
+
+add
+
+ProtocolAnalytics.mm
+file
+
+
+
+add
+
+InterfaceSocial.h
+file
+
+
+
+add
+
+SocialWrapper.mm
+file
+
+
+
+add
+
+PluginProtocol.mm
+file
+
+
+
+add
+
+PluginFactory.mm
+file
+
+
+
+add
+
+InterfaceAnalytics.h
+file
+
+
+
+add
+
+SocialWrapper.h
+file
+
+
+
+add
+
+ProtocolAds.mm
+file
+
+
+
+add
+
+PluginUtilsIOS.mm
+file
+
+
+
+add
+
+ProtocolIAP.mm
+file
+
+
+
+add
+
+ProtocolSocial.mm
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+PluginOCMacros.h
+file
+
+
+
+add
+
+InterfaceAds.h
+file
+
+
+
+add
+

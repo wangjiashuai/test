@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/fofi
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+FoFiType1C.h
+file
+
+
+
+add
+
+FoFiEncodings.cc
+file
+
+
+
+add
+
+FoFiBase.cc
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+FoFiEncodings.h
+file
+
+
+
+add
+
+FoFiBase.h
+file
+
+
+
+add
+
+FoFiTrueType.cc
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+FoFiType1.cc
+file
+
+
+
+add
+
+FoFiTrueType.h
+file
+
+
+
+add
+
+FoFiType1.h
+file
+
+
+
+add
+
+FoFiType1C.cc
+file
+
+
+
+add
+

@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/Box2D
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+proj.emscripten
+dir
+
+
+
+add
+
+proj.nacl
+dir
+
+
+
+add
+
+Android.mk
+file
+
+
+
+add
+
+proj.wp8
+dir
+
+
+
+add
+
+Common
+dir
+
+
+
+add
+
+proj.blackberry
+dir
+
+
+
+add
+
+Collision
+dir
+
+
+
+add
+
+proj.marmalade
+dir
+
+
+
+add
+
+proj.tizen
+dir
+
+
+
+add
+
+Box2D.h
+file
+
+
+
+add
+
+Rope
+dir
+
+
+
+add
+
+Dynamics
+dir
+
+
+
+add
+
+proj.linux
+dir
+
+
+
+add
+
+proj.win32
+dir
+
+
+
+add
+
+proj.winrt
+dir
+
+
+
+add
+

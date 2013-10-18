@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Json
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+lib_json
+dir
+
+
+
+add
+
+CSContentJsonDictionary.cpp
+file
+
+
+
+add
+
+CSContentJsonDictionary.h
+file
+
+
+
+add
+
+DictionaryHelper.cpp
+file
+
+
+
+add
+
+DictionaryHelper.h
+file
+
+
+
+add
+

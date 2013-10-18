@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/android/java/src/org/cocos2dx/lib
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Cocos2dxEditText.java
+file
+
+
+
+add
+
+Cocos2dxActivity.java
+file
+
+
+
+add
+
+Cocos2dxETCLoader.java
+file
+
+
+
+add
+
+Cocos2dxRenderer.java
+file
+
+
+
+add
+
+Cocos2dxGLSurfaceView.java
+file
+
+
+
+add
+
+Cocos2dxAccelerometer.java
+file
+
+
+
+add
+
+Cocos2dxBitmap.java
+file
+
+
+
+add
+
+Cocos2dxHandler.java
+file
+
+
+
+add
+
+Cocos2dxEditBoxDialog.java
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Cocos2dxLocalStorage.java
+file
+
+
+
+add
+
+Cocos2dxHelper.java
+file
+
+
+
+add
+
+Cocos2dxMusic.java
+file
+
+
+
+add
+
+Cocos2dxTypefaces.java
+file
+
+
+
+add
+
+Cocos2dxTextInputWraper.java
+file
+
+
+
+add
+
+Cocos2dxSound.java
+file
+
+
+
+add
+

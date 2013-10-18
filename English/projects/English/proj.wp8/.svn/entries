@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/projects/English/proj.wp8
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+English.h
+file
+
+
+
+add
+
+Assets
+dir
+
+
+
+add
+
+English.vcxproj
+file
+
+
+
+add
+
+English.sln
+file
+
+
+
+add
+
+English.cpp
+file
+
+
+
+add
+
+English.vcxproj.filters
+file
+
+
+
+add
+
+WMAppManifest.xml
+file
+
+
+
+add
+

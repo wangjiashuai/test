@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/shaders/precompiled/wp8
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ShaderPositionColor.h
+file
+
+
+
+add
+
+ShaderPositionTextureColor.h
+file
+
+
+
+add
+
+ShaderPositionTexture.h
+file
+
+
+
+add
+
+ccShaders_wp8.h
+file
+
+
+
+add
+
+ShaderPositionLengthTextureColor.h
+file
+
+
+
+add
+
+ShaderPosition_uColor.h
+file
+
+
+
+add
+
+ShaderPositionTexture_uColor.h
+file
+
+
+
+add
+
+ShaderPositionTextureColorAlphaTest.h
+file
+
+
+
+add
+
+ShaderPositionTextureA8Color.h
+file
+
+
+
+add
+

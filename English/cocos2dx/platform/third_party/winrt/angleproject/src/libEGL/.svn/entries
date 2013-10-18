@@ -1,0 +1,182 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/libEGL
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libEGL.cpp
+file
+
+
+
+add
+
+libEGL_winrt_2013.vcxproj
+file
+
+
+
+add
+
+libEGL_phone.vcxproj
+file
+
+
+
+add
+
+libEGL_winrt.vcxproj.filters
+file
+
+
+
+add
+
+libEGL_phone.def
+file
+
+
+
+add
+
+Display.cpp
+file
+
+
+
+add
+
+Config.cpp
+file
+
+
+
+add
+
+libEGL_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+libEGL_phone.vcxproj.filters
+file
+
+
+
+add
+
+libEGL.vcxproj
+file
+
+
+
+add
+
+libEGL.def
+file
+
+
+
+add
+
+Display.h
+file
+
+
+
+add
+
+Config.h
+file
+
+
+
+add
+
+libEGL.vcxproj.filters
+file
+
+
+
+add
+
+libEGL.rc
+file
+
+
+
+add
+
+main.cpp
+file
+
+
+
+add
+
+Surface.cpp
+file
+
+
+
+add
+
+main.h
+file
+
+
+
+add
+
+libEGL_winrt.vcxproj
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+libEGL_winrt.def
+file
+
+
+
+add
+
+Surface.h
+file
+
+
+
+add
+

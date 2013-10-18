@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libtiff
+dir
+
+
+
+add
+
+third_party_versions.txt
+file
+
+
+
+add
+
+zlib
+dir
+
+
+
+add
+
+freetype
+dir
+
+
+
+add
+
+libwebp
+dir
+
+
+
+add
+
+third_party_libs_2012
+dir
+
+
+
+add
+
+third_party_libs_2013
+dir
+
+
+
+add
+
+libpng
+dir
+
+
+
+add
+
+libjpeg
+dir
+
+
+
+add
+
+libraries
+dir
+
+
+
+add
+
+angleproject
+dir
+
+
+
+add
+

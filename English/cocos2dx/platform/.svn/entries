@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+android
+dir
+
+
+
+add
+
+blackberry
+dir
+
+
+
+add
+
+CCCommon.h
+file
+
+
+
+add
+
+CCFileUtils.h
+file
+
+
+
+add
+
+CCThread.cpp
+file
+
+
+
+add
+
+mac
+dir
+
+
+
+add
+
+winrt
+dir
+
+
+
+add
+
+CCSAXParser.h
+file
+
+
+
+add
+
+emscripten
+dir
+
+
+
+add
+
+platform.h
+file
+
+
+
+add
+
+CCImage.h
+file
+
+
+
+add
+
+wp8
+dir
+
+
+
+add
+
+CCEGLViewProtocol.h
+file
+
+
+
+add
+
+CCApplicationProtocol.h
+file
+
+
+
+add
+
+marmalade
+dir
+
+
+
+add
+
+CCPlatformMacros.h
+file
+
+
+
+add
+
+CCFileUtils.cpp
+file
+
+
+
+add
+
+tizen
+dir
+
+
+
+add
+
+third_party
+dir
+
+
+
+add
+
+CCImageCommon_cpp.h
+file
+
+
+
+add
+
+ios
+dir
+
+
+
+add
+
+CCDevice.h
+file
+
+
+
+add
+
+linux
+dir
+
+
+
+add
+
+CCSAXParser.cpp
+file
+
+
+
+add
+
+CCImageCommonWebp.cpp
+file
+
+
+
+add
+
+CCAccelerometerDelegate.h
+file
+
+
+
+add
+
+win32
+dir
+
+
+
+add
+
+CCThread.h
+file
+
+
+
+add
+
+platform.cpp
+file
+
+
+
+add
+
+CCPlatformConfig.h
+file
+
+
+
+add
+
+CCEGLViewProtocol.cpp
+file
+
+
+
+add
+
+nacl
+dir
+
+
+
+add
+

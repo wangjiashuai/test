@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/jsbindings/manual
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+jsb_pluginx_extension_registration.h
+file
+
+
+
+add
+
+uthash.h
+file
+
+
+
+add
+
+jsb_pluginx_basic_conversions.h
+file
+
+
+
+add
+
+jsb_pluginx_manual_callback.h
+file
+
+
+
+add
+
+pluginxUTF8.h
+file
+
+
+
+add
+
+jsb_pluginx_manual_protocols.cpp
+file
+
+
+
+add
+
+jsb_pluginx_spidermonkey_specifics.cpp
+file
+
+
+
+add
+
+jsb_pluginx_extension_registration.cpp
+file
+
+
+
+add
+
+jsb_pluginx_manual_protocols.h
+file
+
+
+
+add
+
+jsb_pluginx_spidermonkey_specifics.h
+file
+
+
+
+add
+
+jsb_pluginx_basic_conversions.cpp
+file
+
+
+
+add
+
+jsb_pluginx_manual_callback.cpp
+file
+
+
+
+add
+
+pluginxUTF8.cpp
+file
+
+
+
+add
+

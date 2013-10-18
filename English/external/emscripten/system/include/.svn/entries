@@ -1,0 +1,280 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+gc.h
+file
+
+
+
+add
+
+netdb.h
+file
+
+
+
+add
+
+gfx
+dir
+
+
+
+add
+
+execinfo.h
+file
+
+
+
+add
+
+jansson_config.h
+file
+
+
+
+add
+
+libcxx
+dir
+
+
+
+add
+
+mntent.h
+file
+
+
+
+add
+
+poll.h
+file
+
+
+
+add
+
+features.h
+file
+
+
+
+add
+
+zconf.h
+file
+
+
+
+add
+
+bsd
+dir
+
+
+
+add
+
+semaphore.h
+file
+
+
+
+add
+
+libc
+dir
+
+
+
+add
+
+emscripten
+dir
+
+
+
+add
+
+X11
+dir
+
+
+
+add
+
+xlocale.h
+file
+
+
+
+add
+
+spawn.h
+file
+
+
+
+add
+
+err.h
+file
+
+
+
+add
+
+sysexits.h
+file
+
+
+
+add
+
+SDL
+dir
+
+
+
+add
+
+nl_types.h
+file
+
+
+
+add
+
+KHR
+dir
+
+
+
+add
+
+net
+dir
+
+
+
+add
+
+zlib.h
+file
+
+
+
+add
+
+GLES
+dir
+
+
+
+add
+
+unwind.h
+file
+
+
+
+add
+
+stdbool.h
+file
+
+
+
+add
+
+AL
+dir
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+jansson.h
+file
+
+
+
+add
+
+pty.h
+file
+
+
+
+add
+
+GL
+dir
+
+
+
+add
+
+EGL
+dir
+
+
+
+add
+
+dlfcn.h
+file
+
+
+
+add
+
+GLES2
+dir
+
+
+
+add
+
+sys
+dir
+
+
+
+add
+

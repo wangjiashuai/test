@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/tizen/rootstraps/tizen-emulator-2.2.native/usr/include
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+pngconf.h
+file
+
+
+
+add
+
+jmorecfg.h
+file
+
+
+
+add
+
+tiffconf.h
+file
+
+
+
+add
+
+tiffio.hxx
+file
+
+
+
+add
+
+zlib.h
+file
+
+
+
+add
+
+jerror.h
+file
+
+
+
+add
+
+fontconfig
+dir
+
+
+
+add
+
+ft2build.h
+file
+
+
+
+add
+
+jpeglib.h
+file
+
+
+
+add
+
+jconfig.h
+file
+
+
+
+add
+
+freetype2
+dir
+
+
+
+add
+
+curl
+dir
+
+
+
+add
+
+zconf.h
+file
+
+
+
+add
+
+tiffio.h
+file
+
+
+
+add
+
+png.h
+file
+
+
+
+add
+
+tiffvers.h
+file
+
+
+
+add
+
+tiff.h
+file
+
+
+
+add
+

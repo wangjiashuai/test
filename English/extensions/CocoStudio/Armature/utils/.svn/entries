@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Armature/utils
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCTweenFunction.cpp
+file
+
+
+
+add
+
+CCTransformHelp.h
+file
+
+
+
+add
+
+CCArmatureDataManager.h
+file
+
+
+
+add
+
+CCSpriteFrameCacheHelper.h
+file
+
+
+
+add
+
+CCArmatureDefine.cpp
+file
+
+
+
+add
+
+CCDataReaderHelper.cpp
+file
+
+
+
+add
+
+CCUtilMath.h
+file
+
+
+
+add
+
+CCTweenFunction.h
+file
+
+
+
+add
+
+CCArmatureDefine.h
+file
+
+
+
+add
+
+CCDataReaderHelper.h
+file
+
+
+
+add
+
+CCTransformHelp.cpp
+file
+
+
+
+add
+
+CCArmatureDataManager.cpp
+file
+
+
+
+add
+
+CCSpriteFrameCacheHelper.cpp
+file
+
+
+
+add
+
+CCUtilMath.cpp
+file
+
+
+
+add
+

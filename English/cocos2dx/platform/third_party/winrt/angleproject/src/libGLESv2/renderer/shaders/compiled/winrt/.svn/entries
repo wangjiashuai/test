@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/libGLESv2/renderer/shaders/compiled/winrt
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+standardvs.h
+file
+
+
+
+add
+
+passthroughlum11ps.h
+file
+
+
+
+add
+
+passthroughps.h
+file
+
+
+
+add
+
+flipyvs.h
+file
+
+
+
+add
+
+clearsingle11ps.h
+file
+
+
+
+add
+
+luminanceps.h
+file
+
+
+
+add
+
+passthroughlumalpha11ps.h
+file
+
+
+
+add
+
+clear11vs.h
+file
+
+
+
+add
+
+componentmaskps.h
+file
+
+
+
+add
+
+passthrough11vs.h
+file
+
+
+
+add
+
+clearmultiple11ps.h
+file
+
+
+
+add
+
+passthroughrgb11ps.h
+file
+
+
+
+add
+
+passthroughrgba11ps.h
+file
+
+
+
+add
+

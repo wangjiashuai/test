@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/proj.win32
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libExtensions.vcxproj
+file
+
+
+
+add
+
+Win32InputBox.h
+file
+
+
+
+add
+
+libExtensions.vcxproj.filters
+file
+
+
+
+add
+
+Win32InputBox.cpp
+file
+
+
+
+add
+
+libExtensions.vcxproj.user
+file
+
+
+
+add
+

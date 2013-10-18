@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freealut/admin
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+VisualStudio6
+dir
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+pkgconfig
+dir
+
+
+
+add
+
+autotools
+dir
+
+
+
+add
+
+CMakeModules
+dir
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+VisualStudioDotNET
+dir
+
+
+
+add
+
+RPM
+dir
+
+
+
+add
+

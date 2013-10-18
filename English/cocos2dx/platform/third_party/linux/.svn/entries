@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/linux
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libtiff
+dir
+
+
+
+add
+
+libwebp
+dir
+
+
+
+add
+
+curl
+dir
+
+
+
+add
+
+libpng
+dir
+
+
+
+add
+
+libfreetype2
+dir
+
+
+
+add
+
+libjpeg
+dir
+
+
+
+add
+
+libraries
+dir
+
+
+
+add
+
+include64
+dir
+
+
+
+add
+

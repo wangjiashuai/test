@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/EGL
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+eglplatform.h
+file
+
+
+
+add
+
+egl.h
+file
+
+
+
+add
+
+eglext.h
+file
+
+
+
+add
+

@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/compiler/preprocessor
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+preprocessor_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+preprocessor_phone.vcxproj.filters
+file
+
+
+
+add
+
+DirectiveParser.h
+file
+
+
+
+add
+
+Macro.cpp
+file
+
+
+
+add
+
+DiagnosticsBase.cpp
+file
+
+
+
+add
+
+Input.h
+file
+
+
+
+add
+
+DirectiveHandlerBase.cpp
+file
+
+
+
+add
+
+numeric_lex.h
+file
+
+
+
+add
+
+Tokenizer.h
+file
+
+
+
+add
+
+ExpressionParser.h
+file
+
+
+
+add
+
+Tokenizer.l
+file
+
+
+
+add
+
+Lexer.h
+file
+
+
+
+add
+
+Token.h
+file
+
+
+
+add
+
+Preprocessor.h
+file
+
+
+
+add
+
+DirectiveParser.cpp
+file
+
+
+
+add
+
+MacroExpander.h
+file
+
+
+
+add
+
+generate_parser.sh
+file
+
+
+
+add
+
+SourceLocation.h
+file
+
+
+
+add
+
+preprocessor.vcxproj
+file
+
+
+
+add
+
+Input.cpp
+file
+
+
+
+add
+
+ExpressionParser.y
+file
+
+
+
+add
+
+pp_utils.h
+file
+
+
+
+add
+
+preprocessor.vcxproj.filters
+file
+
+
+
+add
+
+Macro.h
+file
+
+
+
+add
+
+64bit-tokenizer-safety.patch
+file
+
+
+
+add
+
+DiagnosticsBase.h
+file
+
+
+
+add
+
+length_limits.h
+file
+
+
+
+add
+
+Tokenizer.cpp
+file
+
+
+
+add
+
+DirectiveHandlerBase.h
+file
+
+
+
+add
+
+ExpressionParser.cpp
+file
+
+
+
+add
+
+Lexer.cpp
+file
+
+
+
+add
+
+Token.cpp
+file
+
+
+
+add
+
+preprocessor_winrt.vcxproj
+file
+
+
+
+add
+
+Preprocessor.cpp
+file
+
+
+
+add
+
+preprocessor_winrt_2013.vcxproj
+file
+
+
+
+add
+
+preprocessor_phone.vcxproj
+file
+
+
+
+add
+
+MacroExpander.cpp
+file
+
+
+
+add
+
+preprocessor_winrt.vcxproj.filters
+file
+
+
+
+add
+

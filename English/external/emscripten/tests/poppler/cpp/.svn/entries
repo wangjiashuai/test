@@ -1,0 +1,266 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/cpp
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+poppler-page.h
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+poppler-image.cpp
+file
+
+
+
+add
+
+poppler-page-renderer.h
+file
+
+
+
+add
+
+poppler-page-private.h
+file
+
+
+
+add
+
+poppler-toc.h
+file
+
+
+
+add
+
+poppler-version.h
+file
+
+
+
+add
+
+poppler-version.h.in
+file
+
+
+
+add
+
+poppler-toc-private.h
+file
+
+
+
+add
+
+tests
+dir
+
+
+
+add
+
+poppler-rectangle.cpp
+file
+
+
+
+add
+
+poppler-global.h
+file
+
+
+
+add
+
+poppler-font.cpp
+file
+
+
+
+add
+
+poppler-page-transition.h
+file
+
+
+
+add
+
+poppler-embedded-file.h
+file
+
+
+
+add
+
+poppler-page.cpp
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+poppler-private.h
+file
+
+
+
+add
+
+poppler-page-renderer.cpp
+file
+
+
+
+add
+
+poppler-document.h
+file
+
+
+
+add
+
+poppler-embedded-file-private.h
+file
+
+
+
+add
+
+poppler-version.cpp
+file
+
+
+
+add
+
+poppler-toc.cpp
+file
+
+
+
+add
+
+poppler-image.h
+file
+
+
+
+add
+
+poppler-document-private.h
+file
+
+
+
+add
+
+poppler-image-private.h
+file
+
+
+
+add
+
+poppler-global.cpp
+file
+
+
+
+add
+
+poppler-page-transition.cpp
+file
+
+
+
+add
+
+poppler-embedded-file.cpp
+file
+
+
+
+add
+
+poppler-rectangle.h
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+poppler-private.cpp
+file
+
+
+
+add
+
+poppler-font.h
+file
+
+
+
+add
+
+poppler-document.cpp
+file
+
+
+
+add
+

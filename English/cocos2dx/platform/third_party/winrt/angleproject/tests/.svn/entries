@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/tests
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+build_tests.gyp
+file
+
+
+
+add
+
+preprocessor_tests
+dir
+
+
+
+add
+
+compiler_tests
+dir
+
+
+
+add
+

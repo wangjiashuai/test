@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/gzip
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+infcodes.h
+file
+
+
+
+add
+
+inffixed.h
+file
+
+
+
+add
+
+ftgzip.c
+file
+
+
+
+add
+
+zlib.h
+file
+
+
+
+add
+
+zutil.c
+file
+
+
+
+add
+
+infutil.c
+file
+
+
+
+add
+
+zutil.h
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+infutil.h
+file
+
+
+
+add
+
+inftrees.c
+file
+
+
+
+add
+
+inflate.c
+file
+
+
+
+add
+
+zconf.h
+file
+
+
+
+add
+
+inftrees.h
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+infblock.c
+file
+
+
+
+add
+
+infcodes.c
+file
+
+
+
+add
+
+infblock.h
+file
+
+
+
+add
+
+adler32.c
+file
+
+
+
+add
+

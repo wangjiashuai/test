@@ -1,0 +1,1036 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/plugins/nd91/proj.android/DependProject/res/layout
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+nd3_home_portrait.xml
+file
+
+
+
+add
+
+nd3_myfriend.xml
+file
+
+
+
+add
+
+nd3_more_consume_detail.xml
+file
+
+
+
+add
+
+nd3_blank_listview.xml
+file
+
+
+
+add
+
+nd3_game_main.xml
+file
+
+
+
+add
+
+nd3_leaderboard_list_item.xml
+file
+
+
+
+add
+
+nd3_more_consumes.xml
+file
+
+
+
+add
+
+nd_softpromotion_slider_item.xml
+file
+
+
+
+add
+
+nd_leaderboard_switcher_landscape_1.xml
+file
+
+
+
+add
+
+nd_leaderboard_list_header.xml
+file
+
+
+
+add
+
+nd_bind_phone_number_unactivity_tip.xml
+file
+
+
+
+add
+
+nd3_achieve_detail.xml
+file
+
+
+
+add
+
+nd3_home_land.xml
+file
+
+
+
+add
+
+nd3_version_update.xml
+file
+
+
+
+add
+
+nd3_frame.xml
+file
+
+
+
+add
+
+nd3_share_unbind_account_item.xml
+file
+
+
+
+add
+
+nd3_account_register.xml
+file
+
+
+
+add
+
+nd_goods_list_item.xml
+file
+
+
+
+add
+
+nd3_account_official_landscape.xml
+file
+
+
+
+add
+
+nd3_person_info_detail.xml
+file
+
+
+
+add
+
+nd3_game_content.xml
+file
+
+
+
+add
+
+nd3_friend_remark_setting.xml
+file
+
+
+
+add
+
+nd3_personinfo.xml
+file
+
+
+
+add
+
+nd3_more_records.xml
+file
+
+
+
+add
+
+nd3_more_recharge_detail.xml
+file
+
+
+
+add
+
+nd3_account_login.xml
+file
+
+
+
+add
+
+nd3_app_property.xml
+file
+
+
+
+add
+
+nd3_more_bean_recharge.xml
+file
+
+
+
+add
+
+nd3_share_bind_account_item.xml
+file
+
+
+
+add
+
+nd3_account_oauth_bind.xml
+file
+
+
+
+add
+
+nd3_account_official.xml
+file
+
+
+
+add
+
+nd3_more_about.xml
+file
+
+
+
+add
+
+nd3_banner_layout.xml
+file
+
+
+
+add
+
+nd3_invite_friend_item.xml
+file
+
+
+
+add
+
+nd_bind_phone_number_tip.xml
+file
+
+
+
+add
+
+nd3_activity_head_reg.xml
+file
+
+
+
+add
+
+nd3_account_official_portrait.xml
+file
+
+
+
+add
+
+nd3_activity_detail.xml
+file
+
+
+
+add
+
+nd3_pay_pass.xml
+file
+
+
+
+add
+
+nd_login_director.xml
+file
+
+
+
+add
+
+nd_account_list_item.xml
+file
+
+
+
+add
+
+nd3_more_info_edit_head_dialog.xml
+file
+
+
+
+add
+
+nd3_more_more.xml
+file
+
+
+
+add
+
+nd3_activity_action_template.xml
+file
+
+
+
+add
+
+nd3_account_bind_bind.xml
+file
+
+
+
+add
+
+nd_bind_phone_number_result.xml
+file
+
+
+
+add
+
+nd3_message_main.xml
+file
+
+
+
+add
+
+nd_bind_phone_number.xml
+file
+
+
+
+add
+
+nd3_user_fangle.xml
+file
+
+
+
+add
+
+nd_set_password.xml
+file
+
+
+
+add
+
+nd3_user_item.xml
+file
+
+
+
+add
+
+nd3_sysmessage_detail_no_action.xml
+file
+
+
+
+add
+
+nd3_mesg_main.xml
+file
+
+
+
+add
+
+nd3_invite_friend_choice.xml
+file
+
+
+
+add
+
+nd3_user_item_divider.xml
+file
+
+
+
+add
+
+nd3_sysmessage_detail_action.xml
+file
+
+
+
+add
+
+nd3_account_login_item.xml
+file
+
+
+
+add
+
+nd3_searchfriend_condition.xml
+file
+
+
+
+add
+
+nd3_account_sina.xml
+file
+
+
+
+add
+
+nd_softpromotion_slider_h.xml
+file
+
+
+
+add
+
+nd3_user_fangle_ext.xml
+file
+
+
+
+add
+
+nd3_more_permission.xml
+file
+
+
+
+add
+
+nd3_account_secret_set.xml
+file
+
+
+
+add
+
+nd3_normal_search.xml
+file
+
+
+
+add
+
+nd3_friend_home.xml
+file
+
+
+
+add
+
+nd3_activity_no_action_template.xml
+file
+
+
+
+add
+
+nd_account_manage.xml
+file
+
+
+
+add
+
+nd3_account_email_item.xml
+file
+
+
+
+add
+
+nd3_message_friendmsge_list.xml
+file
+
+
+
+add
+
+nd3_invite_friend.xml
+file
+
+
+
+add
+
+nd_softpromotion_slider_v.xml
+file
+
+
+
+add
+
+nd3_account_bind_register.xml
+file
+
+
+
+add
+
+nd3_activity_content_reg_template_1.xml
+file
+
+
+
+add
+
+nd3_activity_content_reg_template_3.xml
+file
+
+
+
+add
+
+nd3_leaderboard_category.xml
+file
+
+
+
+add
+
+nd_goods_detail.xml
+file
+
+
+
+add
+
+nd3_message_send_item.xml
+file
+
+
+
+add
+
+nd3_share_sina.xml
+file
+
+
+
+add
+
+nd3_more_info.xml
+file
+
+
+
+add
+
+nd3_activity_content_reg_template_2_ext.xml
+file
+
+
+
+add
+
+nd_goods_list.xml
+file
+
+
+
+add
+
+nd3_app_feedback.xml
+file
+
+
+
+add
+
+nd3_pay_products_item.xml
+file
+
+
+
+add
+
+nd3_category_item.xml
+file
+
+
+
+add
+
+nd3_home_personal.xml
+file
+
+
+
+add
+
+nd_leaderboard_switcher_portrait_1.xml
+file
+
+
+
+add
+
+nd3_write_message.xml
+file
+
+
+
+add
+
+nd3_app_item.xml
+file
+
+
+
+add
+
+nd3_friend_section_list_item.xml
+file
+
+
+
+add
+
+nd_softpromotion_listitem.xml
+file
+
+
+
+add
+
+nd3_recharge_record.xml
+file
+
+
+
+add
+
+nd3_more_account.xml
+file
+
+
+
+add
+
+nd3_control_center.xml
+file
+
+
+
+add
+
+nd_leaderboard.xml
+file
+
+
+
+add
+
+nd3_activity_detail_plus_image.xml
+file
+
+
+
+add
+
+nd3_account_other_login.xml
+file
+
+
+
+add
+
+nd3_account_register_phone.xml
+file
+
+
+
+add
+
+nd3_account_register_quick.xml
+file
+
+
+
+add
+
+nd3_message_send.xml
+file
+
+
+
+add
+
+nd_check_version.xml
+file
+
+
+
+add
+
+nd3_message_record_item.xml
+file
+
+
+
+add
+
+nd3_category_plus_image_item.xml
+file
+
+
+
+add
+
+nd3_more_records_item.xml
+file
+
+
+
+add
+
+nd3_account_secret_find.xml
+file
+
+
+
+add
+
+nd3_network_error.xml
+file
+
+
+
+add
+
+nd3_account_login_other_item.xml
+file
+
+
+
+add
+
+nd_bind_phone_lottery.xml
+file
+
+
+
+add
+
+nd3_message_receive_item.xml
+file
+
+
+
+add
+
+nd3_title_bar.xml
+file
+
+
+
+add
+
+nd3_sysmessage_detail_app.xml
+file
+
+
+
+add
+
+nd3_account_login_portrait.xml
+file
+
+
+
+add
+
+nd3_friend_section_panel.xml
+file
+
+
+
+add
+
+nd3_pay_select_friend.xml
+file
+
+
+
+add
+
+nd_find_password.xml
+file
+
+
+
+add
+
+nd3_more_no_password.xml
+file
+
+
+
+add
+
+nd3_account_login_land.xml
+file
+
+
+
+add
+
+nd_softpromotion_flipitem.xml
+file
+
+
+
+add
+
+nd3_progressbar.xml
+file
+
+
+
+add
+
+nd3_user_message_switcher.xml
+file
+
+
+
+add
+
+nd3_thirdplatform_item.xml
+file
+
+
+
+add
+
+nd3_listview_template.xml
+file
+
+
+
+add
+
+nd3_listview_template_no_divider.xml
+file
+
+
+
+add
+
+nd3_dispatch_search_friend.xml
+file
+
+
+
+add
+
+nd3_activity_detail_plus_list.xml
+file
+
+
+
+add
+
+nd_softwarepromotion.xml
+file
+
+
+
+add
+
+nd3_user_message.xml
+file
+
+
+
+add
+
+nd3_pay_template.xml
+file
+
+
+
+add
+
+nd3_more_password.xml
+file
+
+
+
+add
+
+nd3_empty_listview.xml
+file
+
+
+
+add
+
+nd3_listview_footer.xml
+file
+
+
+
+add
+
+nd3_more_recharges.xml
+file
+
+
+
+add
+
+nd3_account_register_agreement.xml
+file
+
+
+
+add
+
+nd3_bottom_bar.xml
+file
+
+
+
+add
+
+nd3_home.xml
+file
+
+
+
+add
+
+nd3_friend_section.xml
+file
+
+
+
+add
+
+nd3_activity_detail_plus_list_ext.xml
+file
+
+
+
+add
+
+nd3_stranger_home.xml
+file
+
+
+
+add
+
+nd_unbind_phone_number.xml
+file
+
+
+
+add
+
+nd3_pay_friend_item.xml
+file
+
+
+
+add
+
+nd3_activity_content_reg_template_2.xml
+file
+
+
+
+add
+
+nd3_sysmessage_head_reg.xml
+file
+
+
+
+add
+
+nd3_activity_content_reg_template_4.xml
+file
+
+
+
+add
+
+nd3_listview_footer_ext.xml
+file
+
+
+
+add
+
+nd3_pay_password_check.xml
+file
+
+
+
+add
+

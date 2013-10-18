@@ -1,0 +1,364 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletCollision/CollisionDispatch
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btConvex2dConvex2dAlgorithm.cpp
+file
+
+
+
+add
+
+btGhostObject.cpp
+file
+
+
+
+add
+
+btCompoundCollisionAlgorithm.h
+file
+
+
+
+add
+
+btSimulationIslandManager.h
+file
+
+
+
+add
+
+btSphereSphereCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+SphereTriangleDetector.cpp
+file
+
+
+
+add
+
+btActivatingCollisionAlgorithm.h
+file
+
+
+
+add
+
+btConvexConcaveCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btEmptyCollisionAlgorithm.h
+file
+
+
+
+add
+
+btCollisionObject.h
+file
+
+
+
+add
+
+btSphereBoxCollisionAlgorithm.h
+file
+
+
+
+add
+
+btDefaultCollisionConfiguration.cpp
+file
+
+
+
+add
+
+btBoxBoxCollisionAlgorithm.h
+file
+
+
+
+add
+
+btInternalEdgeUtility.h
+file
+
+
+
+add
+
+btConvexConvexAlgorithm.cpp
+file
+
+
+
+add
+
+btManifoldResult.h
+file
+
+
+
+add
+
+btUnionFind.h
+file
+
+
+
+add
+
+btSphereTriangleCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btBox2dBox2dCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btBoxBoxDetector.h
+file
+
+
+
+add
+
+btCollisionCreateFunc.h
+file
+
+
+
+add
+
+btCollisionDispatcher.cpp
+file
+
+
+
+add
+
+btCompoundCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btCollisionWorld.h
+file
+
+
+
+add
+
+btConvexPlaneCollisionAlgorithm.h
+file
+
+
+
+add
+
+btSimulationIslandManager.cpp
+file
+
+
+
+add
+
+btActivatingCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btConvex2dConvex2dAlgorithm.h
+file
+
+
+
+add
+
+btGhostObject.h
+file
+
+
+
+add
+
+btEmptyCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btCollisionObject.cpp
+file
+
+
+
+add
+
+btSphereBoxCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btBoxBoxCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btInternalEdgeUtility.cpp
+file
+
+
+
+add
+
+btSphereSphereCollisionAlgorithm.h
+file
+
+
+
+add
+
+SphereTriangleDetector.h
+file
+
+
+
+add
+
+btCollisionConfiguration.h
+file
+
+
+
+add
+
+btManifoldResult.cpp
+file
+
+
+
+add
+
+btConvexConcaveCollisionAlgorithm.h
+file
+
+
+
+add
+
+btUnionFind.cpp
+file
+
+
+
+add
+
+btBoxBoxDetector.cpp
+file
+
+
+
+add
+
+btDefaultCollisionConfiguration.h
+file
+
+
+
+add
+
+btConvexConvexAlgorithm.h
+file
+
+
+
+add
+
+btCollisionWorld.cpp
+file
+
+
+
+add
+
+btSphereTriangleCollisionAlgorithm.h
+file
+
+
+
+add
+
+btConvexPlaneCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+btBox2dBox2dCollisionAlgorithm.h
+file
+
+
+
+add
+
+btCollisionDispatcher.h
+file
+
+
+
+add
+

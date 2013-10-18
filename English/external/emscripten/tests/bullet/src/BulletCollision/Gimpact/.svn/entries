@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletCollision/Gimpact
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+gim_clip_polygon.h
+file
+
+
+
+add
+
+btGImpactQuantizedBvh.cpp
+file
+
+
+
+add
+
+btGImpactMassUtil.h
+file
+
+
+
+add
+
+btGImpactCollisionAlgorithm.h
+file
+
+
+
+add
+
+gim_box_set.h
+file
+
+
+
+add
+
+gim_box_collision.h
+file
+
+
+
+add
+
+gim_tri_collision.cpp
+file
+
+
+
+add
+
+gim_memory.h
+file
+
+
+
+add
+
+gim_geom_types.h
+file
+
+
+
+add
+
+btTriangleShapeEx.h
+file
+
+
+
+add
+
+btContactProcessing.cpp
+file
+
+
+
+add
+
+btGImpactBvh.h
+file
+
+
+
+add
+
+btQuantization.h
+file
+
+
+
+add
+
+gim_linear_math.h
+file
+
+
+
+add
+
+gim_hash_table.h
+file
+
+
+
+add
+
+gim_bitset.h
+file
+
+
+
+add
+
+gim_contact.h
+file
+
+
+
+add
+
+btGImpactCollisionAlgorithm.cpp
+file
+
+
+
+add
+
+gim_box_set.cpp
+file
+
+
+
+add
+
+btBoxCollision.h
+file
+
+
+
+add
+
+gim_basic_geometry_operations.h
+file
+
+
+
+add
+
+btGImpactShape.h
+file
+
+
+
+add
+
+btGenericPoolAllocator.h
+file
+
+
+
+add
+
+btGImpactQuantizedBvh.h
+file
+
+
+
+add
+
+gim_memory.cpp
+file
+
+
+
+add
+
+btTriangleShapeEx.cpp
+file
+
+
+
+add
+
+btGImpactBvh.cpp
+file
+
+
+
+add
+
+gim_tri_collision.h
+file
+
+
+
+add
+
+gim_array.h
+file
+
+
+
+add
+
+gim_radixsort.h
+file
+
+
+
+add
+
+btContactProcessing.h
+file
+
+
+
+add
+
+gim_contact.cpp
+file
+
+
+
+add
+
+btClipPolygon.h
+file
+
+
+
+add
+
+btGeometryOperations.h
+file
+
+
+
+add
+
+gim_math.h
+file
+
+
+
+add
+
+btGImpactShape.cpp
+file
+
+
+
+add
+
+gim_geometry.h
+file
+
+
+
+add
+
+btGenericPoolAllocator.cpp
+file
+
+
+
+add
+

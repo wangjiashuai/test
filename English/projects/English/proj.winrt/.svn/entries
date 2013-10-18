@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/projects/English/proj.winrt
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+App.xaml
+file
+
+
+
+add
+
+MainPage.xaml
+file
+
+
+
+add
+
+English.vcxproj
+file
+
+
+
+add
+
+English.sln
+file
+
+
+
+add
+
+Common
+dir
+
+
+
+add
+
+Package.appxmanifest
+file
+
+
+
+add
+
+English.vcxproj.filters
+file
+
+
+
+add
+
+pch.cpp
+file
+
+
+
+add
+
+pch.h
+file
+
+
+
+add
+
+English_TemporaryKey.pfx
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+App.xaml.cpp
+file
+
+
+
+add
+
+MainPage.xaml.cpp
+file
+
+
+
+add
+
+Assets
+dir
+
+
+
+add
+
+App.xaml.h
+file
+
+
+
+add
+
+MainPage.xaml.h
+file
+
+
+
+add
+

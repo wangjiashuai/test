@@ -1,0 +1,224 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cocos2d-wp8.vc2012.sln
+file
+
+
+
+add
+
+README.mdown
+file
+
+
+
+add
+
+external
+dir
+
+
+
+add
+
+build-nacl.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+cocos2dx
+dir
+
+
+
+add
+
+AUTHORS
+file
+
+
+
+add
+
+Makefile.emscripten
+file
+
+
+
+add
+
+.travis.yml
+file
+
+
+
+add
+
+CHANGELOG
+file
+
+
+
+add
+
+projects
+dir
+
+
+
+add
+
+.gitmodules
+file
+
+
+
+add
+
+make-all-linux-project.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CocosDenshion
+dir
+
+
+
+add
+
+plugin
+dir
+
+
+
+add
+
+extensions
+dir
+
+
+
+add
+
+cocos2d-win32.vc2010.sln
+file
+
+
+
+add
+
+cocos2d-win32.vc2012.sln
+file
+
+
+
+add
+
+cocos2d-winrt.vc2012.sln
+file
+
+
+
+add
+
+build-win32.bat
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+install-deps-linux.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+licenses
+dir
+
+
+
+add
+
+Emscripten.TODO
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+document
+dir
+
+
+
+add
+

@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/HLSL
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+UpdateNormals.hlsl
+file
+
+
+
+add
+
+VSolveLinks.hlsl
+file
+
+
+
+add
+
+UpdateConstants.hlsl
+file
+
+
+
+add
+
+Integrate.hlsl
+file
+
+
+
+add
+
+ComputeBounds.hlsl
+file
+
+
+
+add
+
+ApplyForces.hlsl
+file
+
+
+
+add
+
+SolvePositionsSIMDBatched.hlsl
+file
+
+
+
+add
+
+UpdatePositions.hlsl
+file
+
+
+
+add
+
+solveCollisionsAndUpdateVelocitiesSIMDBatched.hlsl
+file
+
+
+
+add
+
+PrepareLinks.hlsl
+file
+
+
+
+add
+
+SolvePositions.hlsl
+file
+
+
+
+add
+
+OutputToVertexArray.hlsl
+file
+
+
+
+add
+
+solveCollisionsAndUpdateVelocities.hlsl
+file
+
+
+
+add
+
+UpdatePositionsFromVelocities.hlsl
+file
+
+
+
+add
+
+UpdateNodes.hlsl
+file
+
+
+
+add
+

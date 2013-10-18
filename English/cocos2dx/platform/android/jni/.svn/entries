@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/android/jni
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+IMEJni.h
+file
+
+
+
+add
+
+JniHelper.cpp
+file
+
+
+
+add
+
+Java_org_cocos2dx_lib_Cocos2dxAccelerometer.cpp
+file
+
+
+
+add
+
+DPIJni.h
+file
+
+
+
+add
+
+Java_org_cocos2dx_lib_Cocos2dxBitmap.cpp
+file
+
+
+
+add
+
+JniHelper.h
+file
+
+
+
+add
+
+Java_org_cocos2dx_lib_Cocos2dxHelper.cpp
+file
+
+
+
+add
+
+Java_org_cocos2dx_lib_Cocos2dxBitmap.h
+file
+
+
+
+add
+
+IMEJni.cpp
+file
+
+
+
+add
+
+Java_org_cocos2dx_lib_Cocos2dxHelper.h
+file
+
+
+
+add
+
+TouchesJni.cpp
+file
+
+
+
+add
+
+DPIJni.cpp
+file
+
+
+
+add
+
+Java_org_cocos2dx_lib_Cocos2dxRenderer.cpp
+file
+
+
+
+add
+

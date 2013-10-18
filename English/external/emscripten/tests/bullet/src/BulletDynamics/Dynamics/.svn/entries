@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletDynamics/Dynamics
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Bullet-C-API.cpp
+file
+
+
+
+add
+
+btSimpleDynamicsWorld.cpp
+file
+
+
+
+add
+
+btContinuousDynamicsWorld.h
+file
+
+
+
+add
+
+btRigidBody.cpp
+file
+
+
+
+add
+
+btSimpleDynamicsWorld.h
+file
+
+
+
+add
+
+btRigidBody.h
+file
+
+
+
+add
+
+btDiscreteDynamicsWorld.cpp
+file
+
+
+
+add
+
+btActionInterface.h
+file
+
+
+
+add
+
+btDynamicsWorld.h
+file
+
+
+
+add
+
+btContinuousDynamicsWorld.cpp
+file
+
+
+
+add
+
+btDiscreteDynamicsWorld.h
+file
+
+
+
+add
+

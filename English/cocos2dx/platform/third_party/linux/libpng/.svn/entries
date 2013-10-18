@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/linux/libpng
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+pngconf.h
+file
+
+
+
+add
+
+cexcept.h
+file
+
+
+
+add
+
+writepng.h
+file
+
+
+
+add
+
+readpng.h
+file
+
+
+
+add
+
+readpng2.h
+file
+
+
+
+add
+
+png.h
+file
+
+
+
+add
+
+PngFile.h
+file
+
+
+
+add
+
+config.h
+file
+
+
+
+add
+
+pngpriv.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+

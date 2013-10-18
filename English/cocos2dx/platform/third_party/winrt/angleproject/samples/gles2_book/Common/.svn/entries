@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/gles2_book/Common
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+esShapes_winrt.cpp
+file
+
+
+
+add
+
+esShader.c
+file
+
+
+
+add
+
+esUtil_winrt.vcxproj
+file
+
+
+
+add
+
+esTransform.c
+file
+
+
+
+add
+
+esUtil.c
+file
+
+
+
+add
+
+esUtil_winrt_2013.vcxproj
+file
+
+
+
+add
+
+esUtil_phone.vcxproj
+file
+
+
+
+add
+
+esUtil_winrt.vcxproj.filters
+file
+
+
+
+add
+
+esUtil.h
+file
+
+
+
+add
+
+esShapes.c
+file
+
+
+
+add
+
+esUtil_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+esUtil_phone.vcxproj.filters
+file
+
+
+
+add
+
+esUtil.vcxproj
+file
+
+
+
+add
+
+esShader_winrt.cpp
+file
+
+
+
+add
+
+Win32
+dir
+
+
+
+add
+
+esUtil.vcxproj.filters
+file
+
+
+
+add
+
+esTransform_winrt.cpp
+file
+
+
+
+add
+
+esUtil_win.h
+file
+
+
+
+add
+
+esUtil_winrt.cpp
+file
+
+
+
+add
+

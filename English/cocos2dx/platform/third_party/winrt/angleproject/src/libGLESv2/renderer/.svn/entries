@@ -1,0 +1,616 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/libGLESv2/renderer
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Renderer9.cpp
+file
+
+
+
+add
+
+Blit.h
+file
+
+
+
+add
+
+ShaderExecutable9.cpp
+file
+
+
+
+add
+
+Query9.h
+file
+
+
+
+add
+
+BufferStorage11.h
+file
+
+
+
+add
+
+VertexBuffer.cpp
+file
+
+
+
+add
+
+IndexRangeCache.cpp
+file
+
+
+
+add
+
+VertexBuffer11.cpp
+file
+
+
+
+add
+
+Renderer.h
+file
+
+
+
+add
+
+ShaderExecutable11.h
+file
+
+
+
+add
+
+RenderTarget9.cpp
+file
+
+
+
+add
+
+SwapChain.h
+file
+
+
+
+add
+
+Image11.cpp
+file
+
+
+
+add
+
+SwapChain11.h
+file
+
+
+
+add
+
+RenderTarget.h
+file
+
+
+
+add
+
+BufferStorage9.h
+file
+
+
+
+add
+
+IndexDataManager.cpp
+file
+
+
+
+add
+
+BufferStorage.cpp
+file
+
+
+
+add
+
+ShaderCache.h
+file
+
+
+
+add
+
+VertexDataManager.cpp
+file
+
+
+
+add
+
+IndexBuffer.h
+file
+
+
+
+add
+
+SwapChain9.cpp
+file
+
+
+
+add
+
+shaders
+dir
+
+
+
+add
+
+Renderer11.cpp
+file
+
+
+
+add
+
+IndexBuffer11.h
+file
+
+
+
+add
+
+IndexRangeCache.h
+file
+
+
+
+add
+
+SwapChain11.cpp
+file
+
+
+
+add
+
+renderer9_utils.h
+file
+
+
+
+add
+
+InputLayoutCache.h
+file
+
+
+
+add
+
+BufferStorage9.cpp
+file
+
+
+
+add
+
+RenderTarget11.cpp
+file
+
+
+
+add
+
+renderer11_utils.cpp
+file
+
+
+
+add
+
+Image11.h
+file
+
+
+
+add
+
+IndexBuffer9.cpp
+file
+
+
+
+add
+
+TextureStorage.h
+file
+
+
+
+add
+
+TextureStorage11.h
+file
+
+
+
+add
+
+VertexBuffer9.cpp
+file
+
+
+
+add
+
+IndexBuffer.cpp
+file
+
+
+
+add
+
+IndexDataManager.h
+file
+
+
+
+add
+
+BufferStorage.h
+file
+
+
+
+add
+
+IndexBuffer11.cpp
+file
+
+
+
+add
+
+RenderStateCache.cpp
+file
+
+
+
+add
+
+generatemip.h
+file
+
+
+
+add
+
+VertexDataManager.h
+file
+
+
+
+add
+
+SwapChain9.h
+file
+
+
+
+add
+
+Query11.h
+file
+
+
+
+add
+
+VertexDeclarationCache.h
+file
+
+
+
+add
+
+ShaderExecutable.h
+file
+
+
+
+add
+
+Renderer11.h
+file
+
+
+
+add
+
+Fence9.h
+file
+
+
+
+add
+
+TextureStorage9.cpp
+file
+
+
+
+add
+
+renderer9_utils.cpp
+file
+
+
+
+add
+
+Image9.h
+file
+
+
+
+add
+
+InputLayoutCache.cpp
+file
+
+
+
+add
+
+Image.cpp
+file
+
+
+
+add
+
+Fence11.cpp
+file
+
+
+
+add
+
+TextureStorage.cpp
+file
+
+
+
+add
+
+TextureStorage11.cpp
+file
+
+
+
+add
+
+vertexconversion.h
+file
+
+
+
+add
+
+Blit.cpp
+file
+
+
+
+add
+
+RenderTarget11.h
+file
+
+
+
+add
+
+renderer11_utils.h
+file
+
+
+
+add
+
+Query9.cpp
+file
+
+
+
+add
+
+IndexBuffer9.h
+file
+
+
+
+add
+
+BufferStorage11.cpp
+file
+
+
+
+add
+
+Renderer9.h
+file
+
+
+
+add
+
+VertexBuffer9.h
+file
+
+
+
+add
+
+ShaderExecutable9.h
+file
+
+
+
+add
+
+Renderer.cpp
+file
+
+
+
+add
+
+Query11.cpp
+file
+
+
+
+add
+
+FenceImpl.h
+file
+
+
+
+add
+
+VertexDeclarationCache.cpp
+file
+
+
+
+add
+
+RenderStateCache.h
+file
+
+
+
+add
+
+Fence9.cpp
+file
+
+
+
+add
+
+ShaderExecutable11.cpp
+file
+
+
+
+add
+
+Image9.cpp
+file
+
+
+
+add
+
+VertexBuffer.h
+file
+
+
+
+add
+
+VertexBuffer11.h
+file
+
+
+
+add
+
+ImageSSE2.cpp
+file
+
+
+
+add
+
+TextureStorage9.h
+file
+
+
+
+add
+
+RenderTarget9.h
+file
+
+
+
+add
+
+Fence11.h
+file
+
+
+
+add
+
+Image.h
+file
+
+
+
+add
+
+QueryImpl.h
+file
+
+
+
+add
+

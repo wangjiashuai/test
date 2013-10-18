@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/shaders
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ccShaders.cpp
+file
+
+
+
+add
+
+CCGLProgram.cpp
+file
+
+
+
+add
+
+CCShaderCache.cpp
+file
+
+
+
+add
+
+ccGLStateCache.h
+file
+
+
+
+add
+
+ccShader_PositionColor_frag.h
+file
+
+
+
+add
+
+ccShader_PositionColor_vert.h
+file
+
+
+
+add
+
+ccShaders.h
+file
+
+
+
+add
+
+CCGLProgram.h
+file
+
+
+
+add
+
+CCShaderCache.h
+file
+
+
+
+add
+
+ccShader_PositionTexture_uColor_frag.h
+file
+
+
+
+add
+
+ccShader_PositionTexture_uColor_vert.h
+file
+
+
+
+add
+
+ccShaderEx_SwitchMask_frag.h
+file
+
+
+
+add
+
+ccShader_PositionTextureA8Color_frag.h
+file
+
+
+
+add
+
+ccShader_PositionTextureA8Color_vert.h
+file
+
+
+
+add
+
+precompiled
+dir
+
+
+
+add
+
+ccShader_PositionTextureColor_frag.h
+file
+
+
+
+add
+
+ccShader_PositionTexture_frag.h
+file
+
+
+
+add
+
+ccShader_PositionTextureColor_vert.h
+file
+
+
+
+add
+
+ccShader_PositionTexture_vert.h
+file
+
+
+
+add
+
+ccShader_PositionColorLengthTexture_frag.h
+file
+
+
+
+add
+
+ccShader_PositionColorLengthTexture_vert.h
+file
+
+
+
+add
+
+ccShader_Position_uColor_frag.h
+file
+
+
+
+add
+
+ccShader_Position_uColor_vert.h
+file
+
+
+
+add
+
+ccShader_PositionTextureColorAlphaTest_frag.h
+file
+
+
+
+add
+
+ccGLStateCache.cpp
+file
+
+
+
+add
+

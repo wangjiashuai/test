@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+samples.sln
+file
+
+
+
+add
+
+build_samples.gyp
+file
+
+
+
+add
+
+samples_winrt.sln
+file
+
+
+
+add
+
+d3dcompiler
+dir
+
+
+
+add
+
+angle
+dir
+
+
+
+add
+
+gles2_book
+dir
+
+
+
+add
+
+RotatingCube
+dir
+
+
+
+add
+
+samples_winrt_2013.sln
+file
+
+
+
+add
+
+translator
+dir
+
+
+
+add
+
+Asteroids
+dir
+
+
+
+add
+

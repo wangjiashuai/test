@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/psaux
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+afmparse.c
+file
+
+
+
+add
+
+psobjs.c
+file
+
+
+
+add
+
+psauxmod.c
+file
+
+
+
+add
+
+psaux.c
+file
+
+
+
+add
+
+afmparse.h
+file
+
+
+
+add
+
+psobjs.h
+file
+
+
+
+add
+
+psauxmod.h
+file
+
+
+
+add
+
+psconv.c
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+psconv.h
+file
+
+
+
+add
+
+psauxerr.h
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+t1cmap.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+t1decode.c
+file
+
+
+
+add
+
+t1cmap.h
+file
+
+
+
+add
+
+t1decode.h
+file
+
+
+
+add
+

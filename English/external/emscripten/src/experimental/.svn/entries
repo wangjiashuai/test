@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/src/experimental
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+stringCache.diff
+file
+
+
+
+add
+
+multiple_heaps.diff
+file
+
+
+
+add
+
+remove__label__s.diff
+file
+
+
+
+add
+
+renderer_cache_hash.diff
+file
+
+
+
+add
+
+sdl_key_forwarding.diff
+file
+
+
+
+add
+
+batching.diff
+file
+
+
+
+add
+
+functypeopt.diff
+file
+
+
+
+add
+
+noncallgraphprofiling.diff
+file
+
+
+
+add
+
+allow_loopvars_from_memsetcpy_inasm.diff
+file
+
+
+
+add
+
+simplifyGeneratedFunctionsDetection.diff
+file
+
+
+
+add
+
+optimize_memcpy_for_ta1.diff
+file
+
+
+
+add
+

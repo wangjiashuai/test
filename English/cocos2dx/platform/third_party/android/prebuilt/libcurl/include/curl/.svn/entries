@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+stdcheaders.h
+file
+
+
+
+add
+
+typecheck-gcc.h
+file
+
+
+
+add
+
+multi.h
+file
+
+
+
+add
+
+mprintf.h
+file
+
+
+
+add
+
+curlrules.h
+file
+
+
+
+add
+
+easy.h
+file
+
+
+
+add
+
+curlver.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+curl.h
+file
+
+
+
+add
+
+curlbuild.h
+file
+
+
+
+add
+

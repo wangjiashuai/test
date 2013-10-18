@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/CocosDenshion/mac
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CDConfig.h
+file
+
+
+
+add
+
+CocosDenshion.h
+file
+
+
+
+add
+
+SimpleAudioEngine_objc.h
+file
+
+
+
+add
+
+CDOpenALSupport.h
+file
+
+
+
+add
+
+CDAudioManager.h
+file
+
+
+
+add
+
+CocosDenshion.m
+file
+
+
+
+add
+
+SimpleAudioEngine.mm
+file
+
+
+
+add
+
+SimpleAudioEngine_objc.m
+file
+
+
+
+add
+
+CDXMacOSXSupport.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CDOpenALSupport.m
+file
+
+
+
+add
+
+CDAudioManager.m
+file
+
+
+
+add
+
+CDXMacOSXSupport.mm
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/Asteroids/src/engine
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+scriber.h
+file
+
+
+
+add
+
+dj.cc
+file
+
+
+
+add
+
+teges_object.cc
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+dj.h
+file
+
+
+
+add
+
+teges_object.h
+file
+
+
+
+add
+
+model.cc
+file
+
+
+
+add
+
+teges_loop.cc
+file
+
+
+
+add
+
+model.h
+file
+
+
+
+add
+
+objector.cc
+file
+
+
+
+add
+
+teges.cc
+file
+
+
+
+add
+
+objector.h
+file
+
+
+
+add
+
+teges.h
+file
+
+
+
+add
+
+manager.cc
+file
+
+
+
+add
+
+manager.h
+file
+
+
+
+add
+
+shadower.cc
+file
+
+
+
+add
+
+interactive.cc
+file
+
+
+
+add
+
+shadower.h
+file
+
+
+
+add
+
+interactive.h
+file
+
+
+
+add
+
+logger.h
+file
+
+
+
+add
+
+teges_gameinterface.cc
+file
+
+
+
+add
+
+texturer.cc
+file
+
+
+
+add
+
+texturer.h
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+scriber.cc
+file
+
+
+
+add
+

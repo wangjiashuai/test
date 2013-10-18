@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/chipmunk/include/chipmunk
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cpArbiter.h
+file
+
+
+
+add
+
+chipmunk.h
+file
+
+
+
+add
+
+cpSpace.h
+file
+
+
+
+add
+
+chipmunk_unsafe.h
+file
+
+
+
+add
+
+cpBody.h
+file
+
+
+
+add
+
+constraints
+dir
+
+
+
+add
+
+chipmunk_ffi.h
+file
+
+
+
+add
+
+chipmunk_types.h
+file
+
+
+
+add
+
+cpShape.h
+file
+
+
+
+add
+
+cpVect.h
+file
+
+
+
+add
+
+cpBB.h
+file
+
+
+
+add
+
+cpPolyShape.h
+file
+
+
+
+add
+
+chipmunk_private.h
+file
+
+
+
+add
+
+cpSpatialIndex.h
+file
+
+
+
+add
+

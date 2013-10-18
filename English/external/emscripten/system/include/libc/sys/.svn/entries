@@ -1,0 +1,252 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/libc/sys
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+iconvnls.h
+file
+
+
+
+add
+
+syslimits.h
+file
+
+
+
+add
+
+_types.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+wait.h
+file
+
+
+
+add
+
+config.h
+file
+
+
+
+add
+
+string.h
+file
+
+
+
+add
+
+fcntl.h
+file
+
+
+
+add
+
+stat.h
+file
+
+
+
+add
+
+reent.h
+file
+
+
+
+add
+
+features.h
+file
+
+
+
+add
+
+stdio.h
+file
+
+
+
+add
+
+utime.h
+file
+
+
+
+add
+
+cdefs.h
+file
+
+
+
+add
+
+dirent.h
+file
+
+
+
+add
+
+sched.h
+file
+
+
+
+add
+
+resource.h
+file
+
+
+
+add
+
+lock.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+timeb.h
+file
+
+
+
+add
+
+param.h
+file
+
+
+
+add
+
+unistd.h
+file
+
+
+
+add
+
+ttydefaults.h
+file
+
+
+
+add
+
+_default_fcntl.h
+file
+
+
+
+add
+
+custom_file.h
+file
+
+
+
+add
+
+signal.h
+file
+
+
+
+add
+
+dir.h
+file
+
+
+
+add
+
+file.h
+file
+
+
+
+add
+
+times.h
+file
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+queue.h
+file
+
+
+
+add
+
+errno.h
+file
+
+
+
+add
+

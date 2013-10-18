@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/qt4/demos
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+fonts.h
+file
+
+
+
+add
+
+info.h
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+viewer.cpp
+file
+
+
+
+add
+
+optcontent.h
+file
+
+
+
+add
+
+main_viewer.cpp
+file
+
+
+
+add
+
+thumbnails.cpp
+file
+
+
+
+add
+
+viewer.h
+file
+
+
+
+add
+
+pageview.cpp
+file
+
+
+
+add
+
+permissions.cpp
+file
+
+
+
+add
+
+thumbnails.h
+file
+
+
+
+add
+
+embeddedfiles.cpp
+file
+
+
+
+add
+
+pageview.h
+file
+
+
+
+add
+
+metadata.cpp
+file
+
+
+
+add
+
+abstractinfodock.cpp
+file
+
+
+
+add
+
+permissions.h
+file
+
+
+
+add
+
+embeddedfiles.h
+file
+
+
+
+add
+
+navigationtoolbar.cpp
+file
+
+
+
+add
+
+abstractinfodock.h
+file
+
+
+
+add
+
+metadata.h
+file
+
+
+
+add
+
+toc.cpp
+file
+
+
+
+add
+
+documentobserver.cpp
+file
+
+
+
+add
+
+navigationtoolbar.h
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+fonts.cpp
+file
+
+
+
+add
+
+toc.h
+file
+
+
+
+add
+
+info.cpp
+file
+
+
+
+add
+
+documentobserver.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+optcontent.cpp
+file
+
+
+
+add
+

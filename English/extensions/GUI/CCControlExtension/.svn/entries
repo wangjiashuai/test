@@ -1,0 +1,203 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/GUI/CCControlExtension
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCControlSlider.h
+file
+
+
+
+add
+
+CCControlStepper.h
+file
+
+
+
+add
+
+CCControlPotentiometer.cpp
+file
+
+
+
+add
+
+CCControlUtils.cpp
+file
+
+
+
+add
+
+CCControlColourPicker.cpp
+file
+
+
+
+add
+
+CCControlSwitch.cpp
+file
+
+
+
+add
+
+CCControlPotentiometer.h
+file
+
+
+
+add
+
+CCControlExtensions.h
+file
+
+
+
+add
+
+CCControlUtils.h
+file
+
+
+
+add
+
+CCControlColourPicker.h
+file
+
+
+
+add
+
+CCControlSwitch.h
+file
+
+
+
+add
+
+CCScale9Sprite.cpp
+file
+
+
+
+add
+
+CCInvocation.cpp
+file
+
+
+
+add
+
+CCControlButton.cpp
+file
+
+
+
+add
+
+CCScale9Sprite.h
+file
+
+
+
+add
+
+CCInvocation.h
+file
+
+
+
+add
+
+CCControlHuePicker.cpp
+file
+
+
+
+add
+
+CCControl.cpp
+file
+
+
+
+add
+
+CCControlSaturationBrightnessPicker.cpp
+file
+
+
+
+add
+
+CCControlButton.h
+file
+
+
+
+add
+
+CCControlSlider.cpp
+file
+
+
+
+add
+
+CCControlStepper.cpp
+file
+
+
+
+add
+
+CCControlHuePicker.h
+file
+
+
+
+add
+
+CCControl.h
+file
+
+
+
+add
+
+CCControlSaturationBrightnessPicker.h
+file
+
+
+
+add
+

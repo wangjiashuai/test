@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/src/lzw
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+rules.mk
+file
+
+
+
+add
+
+ftzopen.c
+file
+
+
+
+add
+
+ftlzw.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+ftzopen.h
+file
+
+
+
+add
+

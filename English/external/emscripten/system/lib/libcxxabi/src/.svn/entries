@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/lib/libcxxabi/src
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cxa_exception.hpp
+file
+
+
+
+add
+
+exception.cpp
+file
+
+
+
+add
+
+cxa_unexpected.cpp
+file
+
+
+
+add
+
+cxa_handlers.hpp
+file
+
+
+
+add
+
+stdexcept.cpp
+file
+
+
+
+add
+
+cxa_personality.cpp
+file
+
+
+
+add
+
+cxa_new_delete.cpp
+file
+
+
+
+add
+
+cxa_demangle.cpp
+file
+
+
+
+add
+
+abort_message.cpp
+file
+
+
+
+add
+
+cxa_exception_storage.cpp
+file
+
+
+
+add
+
+abort_message.h
+file
+
+
+
+add
+
+cxa_virtual.cpp
+file
+
+
+
+add
+
+private_typeinfo.cpp
+file
+
+
+
+add
+
+cxa_exception.cpp
+file
+
+
+
+add
+
+cxa_handlers.cpp
+file
+
+
+
+add
+
+cxa_aux_runtime.cpp
+file
+
+
+
+add
+
+fallback_malloc.ipp
+file
+
+
+
+add
+
+private_typeinfo.h
+file
+
+
+
+add
+
+cxa_vector.cpp
+file
+
+
+
+add
+
+cxa_guard.cpp
+file
+
+
+
+add
+
+typeinfo.cpp
+file
+
+
+
+add
+

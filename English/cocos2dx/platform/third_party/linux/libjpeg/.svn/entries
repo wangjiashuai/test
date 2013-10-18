@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/linux/libjpeg
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cdjpeg.h
+file
+
+
+
+add
+
+jmorecfg.h
+file
+
+
+
+add
+
+jpeglib.h
+file
+
+
+
+add
+
+transupp.h
+file
+
+
+
+add
+
+jinclude.h
+file
+
+
+
+add
+
+jconfig.h
+file
+
+
+
+add
+
+jversion.h
+file
+
+
+
+add
+
+cderror.h
+file
+
+
+
+add
+
+jpegint.h
+file
+
+
+
+add
+
+jerror.h
+file
+
+
+
+add
+
+jdct.h
+file
+
+
+
+add
+
+jchuff.h
+file
+
+
+
+add
+
+jdhuff.h
+file
+
+
+
+add
+
+jmemsys.h
+file
+
+
+
+add
+

@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/truetype
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ttgload.c
+file
+
+
+
+add
+
+ttgxvar.c
+file
+
+
+
+add
+
+ttgload.h
+file
+
+
+
+add
+
+ttdriver.c
+file
+
+
+
+add
+
+ttgxvar.h
+file
+
+
+
+add
+
+ttobjs.c
+file
+
+
+
+add
+
+ttpload.c
+file
+
+
+
+add
+
+ttdriver.h
+file
+
+
+
+add
+
+ttinterp.c
+file
+
+
+
+add
+
+ttobjs.h
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+ttpload.h
+file
+
+
+
+add
+
+ttinterp.h
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+truetype.c
+file
+
+
+
+add
+
+ttpic.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+ttpic.h
+file
+
+
+
+add
+
+tterrors.h
+file
+
+
+
+add
+

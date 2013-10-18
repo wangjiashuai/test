@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/linux/libtiff/include
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+tif_predict.h
+file
+
+
+
+add
+
+tiffconf.h
+file
+
+
+
+add
+
+tiffiop.h
+file
+
+
+
+add
+
+tiffconf.wince.h
+file
+
+
+
+add
+
+tif_fax3.h
+file
+
+
+
+add
+
+tiffconf.vc.h
+file
+
+
+
+add
+
+tif_config.h
+file
+
+
+
+add
+
+tif_config.wince.h
+file
+
+
+
+add
+
+tif_config.vc.h
+file
+
+
+
+add
+
+tiffio.h
+file
+
+
+
+add
+
+tif_dir.h
+file
+
+
+
+add
+
+uvcode.h
+file
+
+
+
+add
+
+t4.h
+file
+
+
+
+add
+
+tiffvers.h
+file
+
+
+
+add
+
+tiff.h
+file
+
+
+
+add
+

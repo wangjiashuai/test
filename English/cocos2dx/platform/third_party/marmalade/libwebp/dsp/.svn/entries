@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/libwebp/dsp
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+upsampling.c
+file
+
+
+
+add
+
+enc_sse2.c
+file
+
+
+
+add
+
+yuv.c
+file
+
+
+
+add
+
+enc.c
+file
+
+
+
+add
+
+cpu.c
+file
+
+
+
+add
+
+dec_sse2.c
+file
+
+
+
+add
+
+lossless.c
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+yuv.h
+file
+
+
+
+add
+
+dec_neon.c
+file
+
+
+
+add
+
+dec.c
+file
+
+
+
+add
+
+dsp.h
+file
+
+
+
+add
+
+upsampling_sse2.c
+file
+
+
+
+add
+
+lossless.h
+file
+
+
+
+add
+

@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/builds
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+toplevel.mk
+file
+
+
+
+add
+
+newline
+file
+
+
+
+add
+
+unix
+dir
+
+
+
+add
+
+link_dos.mk
+file
+
+
+
+add
+
+freetype.mk
+file
+
+
+
+add
+
+exports.mk
+file
+
+
+
+add
+
+link_std.mk
+file
+
+
+
+add
+
+detect.mk
+file
+
+
+
+add
+
+modules.mk
+file
+
+
+
+add
+

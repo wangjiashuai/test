@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/libpng
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+pngconf.h
+file
+
+
+
+add
+
+libpng_2013.vcxproj.filters
+file
+
+
+
+add
+
+libpng.vcxproj
+file
+
+
+
+add
+
+libpng.sln
+file
+
+
+
+add
+
+libpng_2013.vcxproj
+file
+
+
+
+add
+
+png.h
+file
+
+
+
+add
+
+libpng_2013.sln
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+libpng.vcxproj.filters
+file
+
+
+
+add
+

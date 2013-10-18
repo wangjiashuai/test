@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/chipmunk/src
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cpSpaceComponent.c
+file
+
+
+
+add
+
+cpArray.c
+file
+
+
+
+add
+
+cpSpaceQuery.c
+file
+
+
+
+add
+
+cpBB.c
+file
+
+
+
+add
+
+cpSpatialIndex.c
+file
+
+
+
+add
+
+cpSpaceStep.c
+file
+
+
+
+add
+
+cpArbiter.c
+file
+
+
+
+add
+
+cpSpace.c
+file
+
+
+
+add
+
+cpCollision.c
+file
+
+
+
+add
+
+chipmunk.c
+file
+
+
+
+add
+
+cpBody.c
+file
+
+
+
+add
+
+prime.h
+file
+
+
+
+add
+
+cpSpaceHash.c
+file
+
+
+
+add
+
+cpHashSet.c
+file
+
+
+
+add
+
+cpShape.c
+file
+
+
+
+add
+
+cpVect.c
+file
+
+
+
+add
+
+cpBBTree.c
+file
+
+
+
+add
+
+constraints
+dir
+
+
+
+add
+
+cpPolyShape.c
+file
+
+
+
+add
+
+cpSweep1D.c
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

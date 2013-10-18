@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/wp8/libjpeg
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+jconfig_win.h
+file
+
+
+
+add
+
+jmorecfg.h
+file
+
+
+
+add
+
+jpeglib.h
+file
+
+
+
+add
+
+jconfig_linux.h
+file
+
+
+
+add
+
+jconfig.h
+file
+
+
+
+add
+
+libjpeg.vcxproj
+file
+
+
+
+add
+
+libjpeg.sln
+file
+
+
+
+add
+
+jerror.h
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+libjpeg.vcxproj.filters
+file
+
+
+
+add
+

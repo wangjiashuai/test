@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/tools
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+chktrcmp.py
+file
+
+
+
+add
+
+test_afm.c
+file
+
+
+
+add
+
+docmaker
+dir
+
+
+
+add
+
+test_trig.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+cordic.py
+file
+
+
+
+add
+
+ftrandom
+dir
+
+
+
+add
+
+test_bbox.c
+file
+
+
+
+add
+
+glnames.py
+file
+
+
+
+add
+
+apinames.c
+file
+
+
+
+add
+

@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/ios
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCLock.cpp
+file
+
+
+
+add
+
+CCEGLView.mm
+file
+
+
+
+add
+
+CCES2Renderer.m
+file
+
+
+
+add
+
+CCApplication.mm
+file
+
+
+
+add
+
+CCLock.h
+file
+
+
+
+add
+
+Simulation
+dir
+
+
+
+add
+
+CCThread.mm
+file
+
+
+
+add
+
+CCAccelerometer.mm
+file
+
+
+
+add
+
+CCFileUtilsIOS.mm
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+EAGLView.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCESRenderer.h
+file
+
+
+
+add
+
+CCDirectorCaller.h
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+AccelerometerDelegateWrapper.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
+CCApplication.h
+file
+
+
+
+add
+
+CCImage.mm
+file
+
+
+
+add
+
+CCCommon.mm
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+OpenGL_Internal.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCFileUtilsIOS.h
+file
+
+
+
+add
+
+EAGLView.mm
+file
+
+
+
+add
+
+CCES2Renderer.h
+file
+
+
+
+add
+
+CCDirectorCaller.mm
+file
+
+
+
+add
+
+CCDevice.mm
+file
+
+
+
+add
+
+AccelerometerDelegateWrapper.mm
+file
+
+
+
+add
+

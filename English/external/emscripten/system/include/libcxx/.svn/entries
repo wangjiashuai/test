@@ -1,0 +1,728 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/libcxx
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+iostream
+file
+
+
+
+add
+
+cstdio
+file
+
+
+
+add
+
+cstdarg
+file
+
+
+
+add
+
+__hash_table
+file
+
+
+
+add
+
+tuple
+file
+
+
+
+add
+
+__mutex_base
+file
+
+
+
+add
+
+iomanip
+file
+
+
+
+add
+
+complex.h
+file
+
+
+
+add
+
+system_error
+file
+
+
+
+add
+
+ext
+dir
+
+
+
+add
+
+numeric
+file
+
+
+
+add
+
+utility
+file
+
+
+
+add
+
+cwchar
+file
+
+
+
+add
+
+__undef_min_max
+file
+
+
+
+add
+
+thread
+file
+
+
+
+add
+
+type_traits
+file
+
+
+
+add
+
+cstdint
+file
+
+
+
+add
+
+memory
+file
+
+
+
+add
+
+cstdbool
+file
+
+
+
+add
+
+cstddef
+file
+
+
+
+add
+
+atomic
+file
+
+
+
+add
+
+map
+file
+
+
+
+add
+
+ratio
+file
+
+
+
+add
+
+__split_buffer
+file
+
+
+
+add
+
+cstdlib
+file
+
+
+
+add
+
+unordered_map
+file
+
+
+
+add
+
+cctype
+file
+
+
+
+add
+
+chrono
+file
+
+
+
+add
+
+iterator
+file
+
+
+
+add
+
+__bit_reference
+file
+
+
+
+add
+
+bitset
+file
+
+
+
+add
+
+iosfwd
+file
+
+
+
+add
+
+condition_variable
+file
+
+
+
+add
+
+set
+file
+
+
+
+add
+
+cmath
+file
+
+
+
+add
+
+LICENSE.txt
+file
+
+
+
+add
+
+limits
+file
+
+
+
+add
+
+functional
+file
+
+
+
+add
+
+__sso_allocator
+file
+
+
+
+add
+
+__functional_03
+file
+
+
+
+add
+
+mutex
+file
+
+
+
+add
+
+unordered_set
+file
+
+
+
+add
+
+istream
+file
+
+
+
+add
+
+csetjmp
+file
+
+
+
+add
+
+stack
+file
+
+
+
+add
+
+string
+file
+
+
+
+add
+
+complex
+file
+
+
+
+add
+
+cfloat
+file
+
+
+
+add
+
+typeindex
+file
+
+
+
+add
+
+ccomplex
+file
+
+
+
+add
+
+ostream
+file
+
+
+
+add
+
+tgmath.h
+file
+
+
+
+add
+
+CREDITS.TXT
+file
+
+
+
+add
+
+scoped_allocator
+file
+
+
+
+add
+
+initializer_list
+file
+
+
+
+add
+
+sstream
+file
+
+
+
+add
+
+csignal
+file
+
+
+
+add
+
+valarray
+file
+
+
+
+add
+
+cinttypes
+file
+
+
+
+add
+
+algorithm
+file
+
+
+
+add
+
+ctgmath
+file
+
+
+
+add
+
+__functional_base
+file
+
+
+
+add
+
+ciso646
+file
+
+
+
+add
+
+typeinfo
+file
+
+
+
+add
+
+exception
+file
+
+
+
+add
+
+forward_list
+file
+
+
+
+add
+
+locale
+file
+
+
+
+add
+
+cfenv
+file
+
+
+
+add
+
+vector
+file
+
+
+
+add
+
+deque
+file
+
+
+
+add
+
+__config
+file
+
+
+
+add
+
+stdexcept
+file
+
+
+
+add
+
+climits
+file
+
+
+
+add
+
+cstring
+file
+
+
+
+add
+
+future
+file
+
+
+
+add
+
+regex
+file
+
+
+
+add
+
+list
+file
+
+
+
+add
+
+cwctype
+file
+
+
+
+add
+
+random
+file
+
+
+
+add
+
+__debug
+file
+
+
+
+add
+
+queue
+file
+
+
+
+add
+
+strstream
+file
+
+
+
+add
+
+codecvt
+file
+
+
+
+add
+
+__tuple
+file
+
+
+
+add
+
+cerrno
+file
+
+
+
+add
+
+streambuf
+file
+
+
+
+add
+
+__tuple_03
+file
+
+
+
+add
+
+new
+file
+
+
+
+add
+
+ios
+file
+
+
+
+add
+
+__functional_base_03
+file
+
+
+
+add
+
+__tree
+file
+
+
+
+add
+
+__locale
+file
+
+
+
+add
+
+fstream
+file
+
+
+
+add
+
+ctime
+file
+
+
+
+add
+
+clocale
+file
+
+
+
+add
+
+__std_stream
+file
+
+
+
+add
+
+cassert
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+support
+dir
+
+
+
+add
+
+array
+file
+
+
+
+add
+

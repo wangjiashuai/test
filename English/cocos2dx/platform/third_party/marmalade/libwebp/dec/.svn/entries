@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/libwebp/dec
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+tree.c
+file
+
+
+
+add
+
+idec.c
+file
+
+
+
+add
+
+vp8li.h
+file
+
+
+
+add
+
+io.c
+file
+
+
+
+add
+
+buffer.c
+file
+
+
+
+add
+
+webpi.h
+file
+
+
+
+add
+
+layer.c
+file
+
+
+
+add
+
+vp8.c
+file
+
+
+
+add
+
+decode_vp8.h
+file
+
+
+
+add
+
+alpha.c
+file
+
+
+
+add
+
+quant.c
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+vp8l.c
+file
+
+
+
+add
+
+frame.c
+file
+
+
+
+add
+
+vp8i.h
+file
+
+
+
+add
+
+webp.c
+file
+
+
+
+add
+

@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/cache
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftcmru.c
+file
+
+
+
+add
+
+ftccache.c
+file
+
+
+
+add
+
+ftcmru.h
+file
+
+
+
+add
+
+ftccback.h
+file
+
+
+
+add
+
+ftccache.h
+file
+
+
+
+add
+
+ftccmap.c
+file
+
+
+
+add
+
+ftcbasic.c
+file
+
+
+
+add
+
+ftcimage.c
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+ftcmanag.c
+file
+
+
+
+add
+
+ftcglyph.c
+file
+
+
+
+add
+
+ftcsbits.c
+file
+
+
+
+add
+
+ftcimage.h
+file
+
+
+
+add
+
+ftcmanag.h
+file
+
+
+
+add
+
+ftcglyph.h
+file
+
+
+
+add
+
+ftcsbits.h
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+ftcerror.h
+file
+
+
+
+add
+
+ftcache.c
+file
+
+
+
+add
+

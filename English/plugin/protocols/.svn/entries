@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/protocols
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+jsb_protocols.ini
+file
+
+
+
+add
+
+PluginParam.cpp
+file
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+proj.ios
+dir
+
+
+
+add
+
+platform
+dir
+
+
+
+add
+
+proj.android
+dir
+
+
+
+add
+
+PluginManager.cpp
+file
+
+
+
+add
+

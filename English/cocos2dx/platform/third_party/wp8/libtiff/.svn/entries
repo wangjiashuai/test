@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/wp8/libtiff
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+libtiff.vcxproj.filters
+file
+
+
+
+add
+
+tiffconf.h
+file
+
+
+
+add
+
+tiffio.h
+file
+
+
+
+add
+
+libtiff.vcxproj
+file
+
+
+
+add
+
+libtiff.sln
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+tif_config.h
+file
+
+
+
+add
+
+tiff.h
+file
+
+
+
+add
+
+tiffvers.h
+file
+
+
+
+add
+

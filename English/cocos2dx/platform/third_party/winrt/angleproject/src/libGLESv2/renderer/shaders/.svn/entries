@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/libGLESv2/renderer/shaders
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Blit.vs
+file
+
+
+
+add
+
+generate_shaders.bat
+file
+
+
+
+add
+
+Clear11.hlsl
+file
+
+
+
+add
+
+Passthrough11.hlsl
+file
+
+
+
+add
+
+Blit.ps
+file
+
+
+
+add
+
+compiled
+dir
+
+
+
+add
+

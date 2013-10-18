@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+LocalStorage
+dir
+
+
+
+add
+
+proj.emscripten
+dir
+
+
+
+add
+
+GUI
+dir
+
+
+
+add
+
+proj.nacl
+dir
+
+
+
+add
+
+Android.mk
+file
+
+
+
+add
+
+proj.wp8
+dir
+
+
+
+add
+
+proj.blackberry
+dir
+
+
+
+add
+
+network
+dir
+
+
+
+add
+
+cocos-ext.h
+file
+
+
+
+add
+
+proj.marmalade
+dir
+
+
+
+add
+
+AssetsManager
+dir
+
+
+
+add
+
+proj.tizen
+dir
+
+
+
+add
+
+ExtensionMacros.h
+file
+
+
+
+add
+
+proj.linux
+dir
+
+
+
+add
+
+physics_nodes
+dir
+
+
+
+add
+
+CCBReader
+dir
+
+
+
+add
+
+CocoStudio
+dir
+
+
+
+add
+
+proj.win32
+dir
+
+
+
+add
+
+proj.winrt
+dir
+
+
+
+add
+
+spine
+dir
+
+
+
+add
+

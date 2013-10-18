@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/tizen/rootstraps/tizen-device-2.2.native/usr/include/freetype2/freetype/config
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftstdlib.h
+file
+
+
+
+add
+
+ftconfig.h
+file
+
+
+
+add
+
+ftmodule.h
+file
+
+
+
+add
+
+ftconfig-32.h
+file
+
+
+
+add
+
+ftheader.h
+file
+
+
+
+add
+
+ftoption.h
+file
+
+
+
+add
+

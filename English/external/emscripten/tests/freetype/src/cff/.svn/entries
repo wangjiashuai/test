@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/src/cff
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cffparse.h
+file
+
+
+
+add
+
+cffload.c
+file
+
+
+
+add
+
+cff.c
+file
+
+
+
+add
+
+cfferrs.h
+file
+
+
+
+add
+
+cffcmap.c
+file
+
+
+
+add
+
+cffpic.h
+file
+
+
+
+add
+
+cffload.h
+file
+
+
+
+add
+
+cffcmap.h
+file
+
+
+
+add
+
+cfftoken.h
+file
+
+
+
+add
+
+cffgload.c
+file
+
+
+
+add
+
+cffdrivr.c
+file
+
+
+
+add
+
+cffgload.h
+file
+
+
+
+add
+
+cffdrivr.h
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+cffobjs.c
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+cffobjs.h
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+cfftypes.h
+file
+
+
+
+add
+
+cffparse.c
+file
+
+
+
+add
+
+cffpic.c
+file
+
+
+
+add
+

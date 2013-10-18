@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ANGLE.sln
+file
+
+
+
+add
+
+build_angle.gyp
+file
+
+
+
+add
+
+glslPrecompiler
+dir
+
+
+
+add
+
+ANGLE_winrt.sln
+file
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+ANGLE_winrt_2013.sln
+file
+
+
+
+add
+
+libGLESv2
+dir
+
+
+
+add
+
+third_party
+dir
+
+
+
+add
+
+ANGLE_phone.sln
+file
+
+
+
+add
+
+compiler
+dir
+
+
+
+add
+
+build_angle.gypi
+file
+
+
+
+add
+
+libEGL
+dir
+
+
+
+add
+

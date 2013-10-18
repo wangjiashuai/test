@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/include
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCEventType.h
+file
+
+
+
+add
+
+ccMacros.h
+file
+
+
+
+add
+
+CCProtocols.h
+file
+
+
+
+add
+
+ccTypes.h
+file
+
+
+
+add
+
+ccConfig.h
+file
+
+
+
+add
+
+cocos2d.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ccTypeInfo.h
+file
+
+
+
+add
+

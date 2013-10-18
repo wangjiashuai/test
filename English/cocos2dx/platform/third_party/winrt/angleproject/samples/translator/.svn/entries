@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/translator
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+essl_to_hlsl.vcxproj
+file
+
+
+
+add
+
+essl_to_hlsl_winrt.vcxproj
+file
+
+
+
+add
+
+translator.cpp
+file
+
+
+
+add
+
+essl_to_glsl.vcproj
+file
+
+
+
+add
+
+essl_to_hlsl.vcxproj.filters
+file
+
+
+
+add
+
+essl_to_hlsl_winrt
+dir
+
+
+
+add
+
+essl_to_hlsl_winrt.vcxproj.filters
+file
+
+
+
+add
+

@@ -1,0 +1,273 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/gxvalid
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+gxvalid.c
+file
+
+
+
+add
+
+gxvalid.h
+file
+
+
+
+add
+
+gxvprop.c
+file
+
+
+
+add
+
+gxvmort.c
+file
+
+
+
+add
+
+gxvmorx.c
+file
+
+
+
+add
+
+gxvjust.c
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+gxvmort.h
+file
+
+
+
+add
+
+gxvmorx.h
+file
+
+
+
+add
+
+gxvbsln.c
+file
+
+
+
+add
+
+gxverror.h
+file
+
+
+
+add
+
+gxvmort0.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+gxvmort1.c
+file
+
+
+
+add
+
+gxvmort2.c
+file
+
+
+
+add
+
+gxvmorx0.c
+file
+
+
+
+add
+
+gxvmort4.c
+file
+
+
+
+add
+
+gxvmorx1.c
+file
+
+
+
+add
+
+gxvmort5.c
+file
+
+
+
+add
+
+gxvmorx2.c
+file
+
+
+
+add
+
+gxvmorx4.c
+file
+
+
+
+add
+
+gxvcommn.c
+file
+
+
+
+add
+
+gxvmorx5.c
+file
+
+
+
+add
+
+gxvcommn.h
+file
+
+
+
+add
+
+gxvfeat.c
+file
+
+
+
+add
+
+gxvfgen.c
+file
+
+
+
+add
+
+gxvmod.c
+file
+
+
+
+add
+
+gxvlcar.c
+file
+
+
+
+add
+
+gxvopbd.c
+file
+
+
+
+add
+
+gxvfeat.h
+file
+
+
+
+add
+
+gxvmod.h
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+gxvkern.c
+file
+
+
+
+add
+
+gxvtrak.c
+file
+
+
+
+add
+

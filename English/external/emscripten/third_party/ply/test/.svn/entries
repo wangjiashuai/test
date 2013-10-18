@@ -1,0 +1,602 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/third_party/ply/test
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+yacc_simple.py
+file
+
+
+
+add
+
+yacc_unused_rule.py
+file
+
+
+
+add
+
+lex_state_noerror.py
+file
+
+
+
+add
+
+lex_re2.py
+file
+
+
+
+add
+
+yacc_badid.py
+file
+
+
+
+add
+
+yacc_badargs.py
+file
+
+
+
+add
+
+lex_rule3.py
+file
+
+
+
+add
+
+cleanup.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+lex_token2.py
+file
+
+
+
+add
+
+yacc_error3.py
+file
+
+
+
+add
+
+calclex.py
+file
+
+
+
+add
+
+lex_state_norule.py
+file
+
+
+
+add
+
+lex_state4.py
+file
+
+
+
+add
+
+testyacc.py
+file
+
+
+
+add
+
+yacc_nested.py
+file
+
+
+
+add
+
+yacc_badprec3.py
+file
+
+
+
+add
+
+yacc_rr.py
+file
+
+
+
+add
+
+yacc_sr.py
+file
+
+
+
+add
+
+lex_error3.py
+file
+
+
+
+add
+
+lex_literal1.py
+file
+
+
+
+add
+
+lex_state_try.py
+file
+
+
+
+add
+
+yacc_dup.py
+file
+
+
+
+add
+
+lex_module.py
+file
+
+
+
+add
+
+lex_doc1.py
+file
+
+
+
+add
+
+lex_re1.py
+file
+
+
+
+add
+
+yacc_uprec2.py
+file
+
+
+
+add
+
+lex_rule2.py
+file
+
+
+
+add
+
+lex_empty.py
+file
+
+
+
+add
+
+lex_token1.py
+file
+
+
+
+add
+
+yacc_error2.py
+file
+
+
+
+add
+
+lex_state3.py
+file
+
+
+
+add
+
+lex_token5.py
+file
+
+
+
+add
+
+yacc_badprec2.py
+file
+
+
+
+add
+
+lex_error2.py
+file
+
+
+
+add
+
+lex_dup3.py
+file
+
+
+
+add
+
+lex_closure.py
+file
+
+
+
+add
+
+testlex.py
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+yacc_missing1.py
+file
+
+
+
+add
+
+yacc_literal.py
+file
+
+
+
+add
+
+lex_optimize3.py
+file
+
+
+
+add
+
+yacc_badprec.py
+file
+
+
+
+add
+
+lex_many_tokens.py
+file
+
+
+
+add
+
+lex_rule1.py
+file
+
+
+
+add
+
+yacc_nodoc.py
+file
+
+
+
+add
+
+lex_hedit.py
+file
+
+
+
+add
+
+lex_optimize.py
+file
+
+
+
+add
+
+yacc_error1.py
+file
+
+
+
+add
+
+lex_state2.py
+file
+
+
+
+add
+
+yacc_notfunc.py
+file
+
+
+
+add
+
+lex_token4.py
+file
+
+
+
+add
+
+lex_ignore2.py
+file
+
+
+
+add
+
+lex_object.py
+file
+
+
+
+add
+
+lex_error1.py
+file
+
+
+
+add
+
+lex_dup2.py
+file
+
+
+
+add
+
+yacc_term1.py
+file
+
+
+
+add
+
+yacc_notok.py
+file
+
+
+
+add
+
+lex_optimize2.py
+file
+
+
+
+add
+
+lex_ignore.py
+file
+
+
+
+add
+
+yacc_nop.py
+file
+
+
+
+add
+
+yacc_misplaced.py
+file
+
+
+
+add
+
+lex_token_dup.py
+file
+
+
+
+add
+
+lex_re3.py
+file
+
+
+
+add
+
+yacc_unused.py
+file
+
+
+
+add
+
+yacc_badtok.py
+file
+
+
+
+add
+
+yacc_rr_unused.py
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+lex_state1.py
+file
+
+
+
+add
+
+yacc_prec1.py
+file
+
+
+
+add
+
+yacc_inf.py
+file
+
+
+
+add
+
+lex_token3.py
+file
+
+
+
+add
+
+yacc_error4.py
+file
+
+
+
+add
+
+yacc_badrule.py
+file
+
+
+
+add
+
+lex_state5.py
+file
+
+
+
+add
+
+yacc_uprec.py
+file
+
+
+
+add
+
+lex_dup1.py
+file
+
+
+
+add
+
+lex_opt_alias.py
+file
+
+
+
+add
+
+lex_error4.py
+file
+
+
+
+add
+
+yacc_noerror.py
+file
+
+
+
+add
+
+lex_literal2.py
+file
+
+
+
+add
+
+lex_module_import.py
+file
+
+
+
+add
+

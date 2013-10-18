@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/samples/Asteroids/glm/gtc
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+matrix_transform.inl
+file
+
+
+
+add
+
+matrix_inverse.inl
+file
+
+
+
+add
+
+half_float.inl
+file
+
+
+
+add
+
+ulp.inl
+file
+
+
+
+add
+
+type_precision.hpp
+file
+
+
+
+add
+
+matrix_transform.hpp
+file
+
+
+
+add
+
+matrix_inverse.hpp
+file
+
+
+
+add
+
+half_float.hpp
+file
+
+
+
+add
+
+ulp.hpp
+file
+
+
+
+add
+
+type_ptr.inl
+file
+
+
+
+add
+
+swizzle.inl
+file
+
+
+
+add
+
+epsilon.inl
+file
+
+
+
+add
+
+type_ptr.hpp
+file
+
+
+
+add
+
+constants.inl
+file
+
+
+
+add
+
+swizzle.hpp
+file
+
+
+
+add
+
+noise.inl
+file
+
+
+
+add
+
+epsilon.hpp
+file
+
+
+
+add
+
+random.inl
+file
+
+
+
+add
+
+constants.hpp
+file
+
+
+
+add
+
+noise.hpp
+file
+
+
+
+add
+
+reciprocal.inl
+file
+
+
+
+add
+
+matrix_access.inl
+file
+
+
+
+add
+
+quaternion.inl
+file
+
+
+
+add
+
+random.hpp
+file
+
+
+
+add
+
+matrix_integer.hpp
+file
+
+
+
+add
+
+reciprocal.hpp
+file
+
+
+
+add
+
+matrix_access.hpp
+file
+
+
+
+add
+
+quaternion.hpp
+file
+
+
+
+add
+
+type_precision.inl
+file
+
+
+
+add
+

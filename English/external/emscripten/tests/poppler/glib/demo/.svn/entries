@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/glib/demo
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+layers.c
+file
+
+
+
+add
+
+utils.c
+file
+
+
+
+add
+
+print.h
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+annots.c
+file
+
+
+
+add
+
+layers.h
+file
+
+
+
+add
+
+utils.h
+file
+
+
+
+add
+
+annots.h
+file
+
+
+
+add
+
+page.c
+file
+
+
+
+add
+
+transitions.c
+file
+
+
+
+add
+
+page.h
+file
+
+
+
+add
+
+transitions.h
+file
+
+
+
+add
+
+text.c
+file
+
+
+
+add
+
+fonts.c
+file
+
+
+
+add
+
+text.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+fonts.h
+file
+
+
+
+add
+
+info.cc
+file
+
+
+
+add
+
+info.h
+file
+
+
+
+add
+
+images.c
+file
+
+
+
+add
+
+selections.c
+file
+
+
+
+add
+
+images.h
+file
+
+
+
+add
+
+attachments.c
+file
+
+
+
+add
+
+selections.h
+file
+
+
+
+add
+
+render.c
+file
+
+
+
+add
+
+outline.c
+file
+
+
+
+add
+
+links.c
+file
+
+
+
+add
+
+attachments.h
+file
+
+
+
+add
+
+find.c
+file
+
+
+
+add
+
+render.h
+file
+
+
+
+add
+
+outline.h
+file
+
+
+
+add
+
+main.c
+file
+
+
+
+add
+
+links.h
+file
+
+
+
+add
+
+find.h
+file
+
+
+
+add
+
+forms.c
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+forms.h
+file
+
+
+
+add
+
+print.c
+file
+
+
+
+add
+

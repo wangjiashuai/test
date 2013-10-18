@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/cocoa
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCDataVisitor.cpp
+file
+
+
+
+add
+
+CCAffineTransform.h
+file
+
+
+
+add
+
+CCGeometry.cpp
+file
+
+
+
+add
+
+CCSet.cpp
+file
+
+
+
+add
+
+CCDataVisitor.h
+file
+
+
+
+add
+
+CCGeometry.h
+file
+
+
+
+add
+
+CCBool.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCSet.h
+file
+
+
+
+add
+
+CCInteger.h
+file
+
+
+
+add
+
+CCAutoreleasePool.cpp
+file
+
+
+
+add
+
+CCDictionary.cpp
+file
+
+
+
+add
+
+CCObject.cpp
+file
+
+
+
+add
+
+CCString.cpp
+file
+
+
+
+add
+
+CCAutoreleasePool.h
+file
+
+
+
+add
+
+CCFloat.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCDictionary.h
+file
+
+
+
+add
+
+CCObject.h
+file
+
+
+
+add
+
+CCString.h
+file
+
+
+
+add
+
+CCZone.cpp
+file
+
+
+
+add
+
+CCArray.cpp
+file
+
+
+
+add
+
+CCDouble.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CCNS.cpp
+file
+
+
+
+add
+
+CCZone.h
+file
+
+
+
+add
+
+CCArray.h
+file
+
+
+
+add
+
+CCAffineTransform.cpp
+file
+
+
+
+add
+
+CCNS.h
+file
+
+
+
+add
+

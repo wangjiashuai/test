@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/chipmunk
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+proj.emscripten
+dir
+
+
+
+add
+
+include
+dir
+
+
+
+add
+
+proj.nacl
+dir
+
+
+
+add
+
+Android.mk
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+proj.wp8
+dir
+
+
+
+add
+
+proj.blackberry
+dir
+
+
+
+add
+
+LICENSE.txt
+file
+
+
+
+add
+
+proj.tizen
+dir
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
+chipmunk-docs.html
+file
+
+
+
+add
+
+proj.linux
+dir
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+proj.win32
+dir
+
+
+
+add
+
+proj.winrt
+dir
+
+
+
+add
+

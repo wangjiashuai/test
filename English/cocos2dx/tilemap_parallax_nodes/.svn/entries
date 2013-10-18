@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/tilemap_parallax_nodes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCTMXTiledMap.cpp
+file
+
+
+
+add
+
+CCParallaxNode.cpp
+file
+
+
+
+add
+
+CCTMXLayer.h
+file
+
+
+
+add
+
+CCTMXXMLParser.h
+file
+
+
+
+add
+
+CCTMXObjectGroup.cpp
+file
+
+
+
+add
+
+CCTMXTiledMap.h
+file
+
+
+
+add
+
+CCParallaxNode.h
+file
+
+
+
+add
+
+CCTileMapAtlas.cpp
+file
+
+
+
+add
+
+CCTMXObjectGroup.h
+file
+
+
+
+add
+
+CCTileMapAtlas.h
+file
+
+
+
+add
+
+CCTMXLayer.cpp
+file
+
+
+
+add
+
+CCTMXXMLParser.cpp
+file
+
+
+
+add
+

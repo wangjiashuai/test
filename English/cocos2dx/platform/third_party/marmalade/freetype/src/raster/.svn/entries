@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/marmalade/freetype/src/raster
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftraster.h
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+raster.c
+file
+
+
+
+add
+
+ftrend1.c
+file
+
+
+
+add
+
+rastpic.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+ftrend1.h
+file
+
+
+
+add
+
+ftmisc.h
+file
+
+
+
+add
+
+ftraster.c
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+rasterrs.h
+file
+
+
+
+add
+
+rastpic.h
+file
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/protocols/platform/android
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+PluginJavaData.h
+file
+
+
+
+add
+
+PluginJniHelper.cpp
+file
+
+
+
+add
+
+PluginUtils.cpp
+file
+
+
+
+add
+
+PluginProtocol.cpp
+file
+
+
+
+add
+
+PluginJniHelper.h
+file
+
+
+
+add
+
+PluginUtils.h
+file
+
+
+
+add
+
+PluginFactory.cpp
+file
+
+
+
+add
+
+PluginJniMacros.h
+file
+
+
+
+add
+
+ProtocolAds.cpp
+file
+
+
+
+add
+
+ProtocolAnalytics.cpp
+file
+
+
+
+add
+
+ProtocolIAP.cpp
+file
+
+
+
+add
+
+ProtocolSocial.cpp
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

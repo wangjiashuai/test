@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/src/autofit
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+aflatin2.c
+file
+
+
+
+add
+
+afhints.h
+file
+
+
+
+add
+
+afmodule.h
+file
+
+
+
+add
+
+afindic.h
+file
+
+
+
+add
+
+afdummy.c
+file
+
+
+
+add
+
+aflatin2.h
+file
+
+
+
+add
+
+afglobal.c
+file
+
+
+
+add
+
+afdummy.h
+file
+
+
+
+add
+
+module.mk
+file
+
+
+
+add
+
+autofit.c
+file
+
+
+
+add
+
+afglobal.h
+file
+
+
+
+add
+
+afloader.c
+file
+
+
+
+add
+
+aflatin.c
+file
+
+
+
+add
+
+afcjk.c
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+afangles.c
+file
+
+
+
+add
+
+aftypes.h
+file
+
+
+
+add
+
+afwarp.c
+file
+
+
+
+add
+
+afloader.h
+file
+
+
+
+add
+
+afpic.c
+file
+
+
+
+add
+
+aflatin.h
+file
+
+
+
+add
+
+afcjk.h
+file
+
+
+
+add
+
+afangles.h
+file
+
+
+
+add
+
+afwarp.h
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+afpic.h
+file
+
+
+
+add
+
+aferrors.h
+file
+
+
+
+add
+
+afhints.c
+file
+
+
+
+add
+
+afmodule.c
+file
+
+
+
+add
+
+afindic.c
+file
+
+
+
+add
+

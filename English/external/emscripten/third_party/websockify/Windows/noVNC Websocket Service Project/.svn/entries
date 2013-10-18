@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/third_party/websockify/Windows/noVNC%20Websocket%20Service%20Project
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ProjectInstaller.resx
+file
+
+
+
+add
+
+Service1.Designer.cs
+file
+
+
+
+add
+
+noVNC Websocket.sln
+file
+
+
+
+add
+
+Service1.cs
+file
+
+
+
+add
+
+ProjectInstaller.Designer.cs
+file
+
+
+
+add
+
+ProjectInstaller.cs
+file
+
+
+
+add
+
+noVNC Websocket.csproj
+file
+
+
+
+add
+
+Program.cs
+file
+
+
+
+add
+
+Properties
+dir
+
+
+
+add
+

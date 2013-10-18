@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/glib/reference
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+poppler-overrides.txt
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+html
+dir
+
+
+
+add
+
+poppler-sections.txt
+file
+
+
+
+add
+
+poppler.types
+file
+
+
+
+add
+
+version.xml
+file
+
+
+
+add
+
+poppler-docs.sgml
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+version.xml.in
+file
+
+
+
+add
+

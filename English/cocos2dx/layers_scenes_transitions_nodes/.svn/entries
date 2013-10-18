@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/layers_scenes_transitions_nodes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCTransition.cpp
+file
+
+
+
+add
+
+CCLayer.cpp
+file
+
+
+
+add
+
+CCScene.cpp
+file
+
+
+
+add
+
+CCTransition.h
+file
+
+
+
+add
+
+CCTransitionProgress.cpp
+file
+
+
+
+add
+
+CCTransitionPageTurn.cpp
+file
+
+
+
+add
+
+CCLayer.h
+file
+
+
+
+add
+
+CCScene.h
+file
+
+
+
+add
+
+CCTransitionProgress.h
+file
+
+
+
+add
+
+CCTransitionPageTurn.h
+file
+
+
+
+add
+

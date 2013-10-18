@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/android
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCCommon.cpp
+file
+
+
+
+add
+
+jni
+dir
+
+
+
+add
+
+java
+dir
+
+
+
+add
+
+CCDevice.cpp
+file
+
+
+
+add
+
+CCFileUtilsAndroid.cpp
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+CCApplication.cpp
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+CCFileUtilsAndroid.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+CCApplication.h
+file
+
+
+
+add
+
+CCAccelerometer.cpp
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+CCImage.cpp
+file
+
+
+
+add
+

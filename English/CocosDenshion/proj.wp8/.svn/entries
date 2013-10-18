@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/CocosDenshion/proj.wp8
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CocosDenshion.vcxproj.filters
+file
+
+
+
+add
+
+pch.h
+file
+
+
+
+add
+
+CocosDenshion.vcxproj
+file
+
+
+
+add
+
+CocosDenshion.sln
+file
+
+
+
+add
+
+pch.cpp
+file
+
+
+
+add
+

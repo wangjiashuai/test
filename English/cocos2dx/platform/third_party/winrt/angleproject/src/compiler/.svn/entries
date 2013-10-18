@@ -1,0 +1,861 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/compiler
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+DetectDiscontinuity.cpp
+file
+
+
+
+add
+
+glslang_lex.cpp
+file
+
+
+
+add
+
+glslang.l
+file
+
+
+
+add
+
+QualifierAlive.cpp
+file
+
+
+
+add
+
+translator_common_winrt_2013.vcxproj
+file
+
+
+
+add
+
+Initialize.h
+file
+
+
+
+add
+
+depgraph
+dir
+
+
+
+add
+
+translator_common_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+64bit-lexer-safety.patch
+file
+
+
+
+add
+
+VariablePacker.cpp
+file
+
+
+
+add
+
+Diagnostics.h
+file
+
+
+
+add
+
+ForLoopUnroll.cpp
+file
+
+
+
+add
+
+OutputGLSLBase.cpp
+file
+
+
+
+add
+
+glslang.y
+file
+
+
+
+add
+
+SymbolTable.cpp
+file
+
+
+
+add
+
+translator_hlsl_phone.vcxproj
+file
+
+
+
+add
+
+InitializeGLPosition.h
+file
+
+
+
+add
+
+ossource_win.cpp
+file
+
+
+
+add
+
+ParseHelper.h
+file
+
+
+
+add
+
+Uniform.cpp
+file
+
+
+
+add
+
+RemoveTree.h
+file
+
+
+
+add
+
+util.h
+file
+
+
+
+add
+
+OutputHLSL.cpp
+file
+
+
+
+add
+
+ossource_posix.cpp
+file
+
+
+
+add
+
+translator_hlsl_phone.vcxproj.filters
+file
+
+
+
+add
+
+CodeGenGLSL.cpp
+file
+
+
+
+add
+
+debug.h
+file
+
+
+
+add
+
+OutputESSL.h
+file
+
+
+
+add
+
+DetectCallDepth.h
+file
+
+
+
+add
+
+Initialize.cpp
+file
+
+
+
+add
+
+DetectDiscontinuity.h
+file
+
+
+
+add
+
+translator_common_phone.vcxproj
+file
+
+
+
+add
+
+BaseTypes.h
+file
+
+
+
+add
+
+InitializeParseContext.h
+file
+
+
+
+add
+
+ValidateLimitations.cpp
+file
+
+
+
+add
+
+ConstantUnion.h
+file
+
+
+
+add
+
+Diagnostics.cpp
+file
+
+
+
+add
+
+QualifierAlive.h
+file
+
+
+
+add
+
+ShaderLang.cpp
+file
+
+
+
+add
+
+InitializeGLPosition.cpp
+file
+
+
+
+add
+
+Types.h
+file
+
+
+
+add
+
+IntermTraverse.cpp
+file
+
+
+
+add
+
+Compiler.cpp
+file
+
+
+
+add
+
+translator_common_phone.vcxproj.filters
+file
+
+
+
+add
+
+HashNames.h
+file
+
+
+
+add
+
+DirectiveHandler.cpp
+file
+
+
+
+add
+
+translator_hlsl_winrt_2013.vcxproj
+file
+
+
+
+add
+
+TranslatorHLSL.cpp
+file
+
+
+
+add
+
+RemoveTree.cpp
+file
+
+
+
+add
+
+util.cpp
+file
+
+
+
+add
+
+intermediate.h
+file
+
+
+
+add
+
+TranslatorGLSL.h
+file
+
+
+
+add
+
+ForLoopUnroll.h
+file
+
+
+
+add
+
+parseConst.cpp
+file
+
+
+
+add
+
+OutputGLSL.cpp
+file
+
+
+
+add
+
+RenameFunction.h
+file
+
+
+
+add
+
+translator_hlsl_winrt_2013.vcxproj.filters
+file
+
+
+
+add
+
+PoolAlloc.cpp
+file
+
+
+
+add
+
+translator_hlsl.vcxproj
+file
+
+
+
+add
+
+OutputESSL.cpp
+file
+
+
+
+add
+
+DetectCallDepth.cpp
+file
+
+
+
+add
+
+BuiltInFunctionEmulator.h
+file
+
+
+
+add
+
+UnfoldShortCircuit.cpp
+file
+
+
+
+add
+
+translator_hlsl.vcxproj.filters
+file
+
+
+
+add
+
+MMap.h
+file
+
+
+
+add
+
+InitializeParseContext.cpp
+file
+
+
+
+add
+
+ExtensionBehavior.h
+file
+
+
+
+add
+
+DetectRecursion.cpp
+file
+
+
+
+add
+
+VariableInfo.h
+file
+
+
+
+add
+
+translator_hlsl_winrt.vcxproj
+file
+
+
+
+add
+
+InitializeGlobals.h
+file
+
+
+
+add
+
+translator_common.vcxproj
+file
+
+
+
+add
+
+TranslatorGLSL.cpp
+file
+
+
+
+add
+
+ValidateLimitations.h
+file
+
+
+
+add
+
+VersionGLSL.h
+file
+
+
+
+add
+
+translator_hlsl_winrt.vcxproj.filters
+file
+
+
+
+add
+
+InfoSink.cpp
+file
+
+
+
+add
+
+TranslatorESSL.cpp
+file
+
+
+
+add
+
+DirectiveHandler.h
+file
+
+
+
+add
+
+translator_common.vcxproj.filters
+file
+
+
+
+add
+
+TranslatorHLSL.h
+file
+
+
+
+add
+
+glslang_tab.h
+file
+
+
+
+add
+
+BuiltInFunctionEmulator.cpp
+file
+
+
+
+add
+
+intermOut.cpp
+file
+
+
+
+add
+
+OutputGLSL.h
+file
+
+
+
+add
+
+PoolAlloc.h
+file
+
+
+
+add
+
+MapLongVariableNames.h
+file
+
+
+
+add
+
+Common.h
+file
+
+
+
+add
+
+translator_common_winrt.vcxproj
+file
+
+
+
+add
+
+generate_parser.sh
+file
+
+
+
+add
+
+UnfoldShortCircuit.h
+file
+
+
+
+add
+
+SearchSymbol.h
+file
+
+
+
+add
+
+VariableInfo.cpp
+file
+
+
+
+add
+
+InitializeDll.h
+file
+
+
+
+add
+
+translator_common_winrt.vcxproj.filters
+file
+
+
+
+add
+
+preprocessor
+dir
+
+
+
+add
+
+timing
+dir
+
+
+
+add
+
+DetectRecursion.h
+file
+
+
+
+add
+
+VersionGLSL.cpp
+file
+
+
+
+add
+
+Intermediate.cpp
+file
+
+
+
+add
+
+ParseHelper.cpp
+file
+
+
+
+add
+
+Pragma.h
+file
+
+
+
+add
+
+glslang_tab.cpp
+file
+
+
+
+add
+
+VariablePacker.h
+file
+
+
+
+add
+
+OutputGLSLBase.h
+file
+
+
+
+add
+
+SymbolTable.h
+file
+
+
+
+add
+
+Uniform.h
+file
+
+
+
+add
+
+InfoSink.h
+file
+
+
+
+add
+
+TranslatorESSL.h
+file
+
+
+
+add
+
+debug.cpp
+file
+
+
+
+add
+
+MapLongVariableNames.cpp
+file
+
+
+
+add
+
+CodeGenHLSL.cpp
+file
+
+
+
+add
+
+OutputHLSL.h
+file
+
+
+
+add
+
+osinclude.h
+file
+
+
+
+add
+
+localintermediate.h
+file
+
+
+
+add
+
+SearchSymbol.cpp
+file
+
+
+
+add
+
+ShHandle.h
+file
+
+
+
+add
+
+glslang.h
+file
+
+
+
+add
+
+InitializeDll.cpp
+file
+
+
+
+add
+

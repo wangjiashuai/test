@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/Action
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCActionFrame.cpp
+file
+
+
+
+add
+
+CCActionManager.cpp
+file
+
+
+
+add
+
+CCActionNode.h
+file
+
+
+
+add
+
+CCActionObject.h
+file
+
+
+
+add
+
+CCActionFrame.h
+file
+
+
+
+add
+
+CCActionManager.h
+file
+
+
+
+add
+
+CCActionFrameEasing.cpp
+file
+
+
+
+add
+
+CCActionNode.cpp
+file
+
+
+
+add
+
+CCActionFrameEasing.h
+file
+
+
+
+add
+
+CCActionObject.cpp
+file
+
+
+
+add
+

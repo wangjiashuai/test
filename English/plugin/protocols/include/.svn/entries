@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/protocols/include
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+PluginManager.h
+file
+
+
+
+add
+
+ProtocolAds.h
+file
+
+
+
+add
+
+ProtocolAnalytics.h
+file
+
+
+
+add
+
+ProtocolIAP.h
+file
+
+
+
+add
+
+ProtocolSocial.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+PluginParam.h
+file
+
+
+
+add
+
+PluginProtocol.h
+file
+
+
+
+add
+
+PluginFactory.h
+file
+
+
+
+add
+

@@ -1,0 +1,175 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/openjpeg/codec
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+j2k_to_image.dsp
+file
+
+
+
+add
+
+image_to_j2k.dsp
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+j2k_to_image.sln
+file
+
+
+
+add
+
+image_to_j2k.sln
+file
+
+
+
+add
+
+j2k_to_image.dsw
+file
+
+
+
+add
+
+image_to_j2k.dsw
+file
+
+
+
+add
+
+index.c
+file
+
+
+
+add
+
+windirent.h
+file
+
+
+
+add
+
+j2k_dump.c
+file
+
+
+
+add
+
+image_to_j2k.vcproj
+file
+
+
+
+add
+
+j2k_to_image.vcproj
+file
+
+
+
+add
+
+index.h
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+convert.c
+file
+
+
+
+add
+
+convert.h
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+Makefile.nix
+file
+
+
+
+add
+
+j2k_to_image.c
+file
+
+
+
+add
+
+image_to_j2k.c
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freetype/src/base
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ftsynth.c
+file
+
+
+
+add
+
+ftstroke.c
+file
+
+
+
+add
+
+ftfstype.c
+file
+
+
+
+add
+
+ftpic.c
+file
+
+
+
+add
+
+basepic.c
+file
+
+
+
+add
+
+ftbitmap.c
+file
+
+
+
+add
+
+basepic.h
+file
+
+
+
+add
+
+ftrfork.c
+file
+
+
+
+add
+
+ftglyph.c
+file
+
+
+
+add
+
+ftsnames.c
+file
+
+
+
+add
+
+ftgasp.c
+file
+
+
+
+add
+
+ftbdf.c
+file
+
+
+
+add
+
+ftdbgmem.c
+file
+
+
+
+add
+
+Jamfile
+file
+
+
+
+add
+
+ftcalc.c
+file
+
+
+
+add
+
+fttype1.c
+file
+
+
+
+add
+
+ftinit.c
+file
+
+
+
+add
+
+ftwinfnt.c
+file
+
+
+
+add
+
+ftgloadr.c
+file
+
+
+
+add
+
+ftmm.c
+file
+
+
+
+add
+
+ftapi.c
+file
+
+
+
+add
+
+ftbase.c
+file
+
+
+
+add
+
+ftutil.c
+file
+
+
+
+add
+
+ftbase.h
+file
+
+
+
+add
+
+ftgxval.c
+file
+
+
+
+add
+
+ftsystem.c
+file
+
+
+
+add
+
+ftotval.c
+file
+
+
+
+add
+
+rules.mk
+file
+
+
+
+add
+
+ftdebug.c
+file
+
+
+
+add
+
+ftpfr.c
+file
+
+
+
+add
+
+ftbbox.c
+file
+
+
+
+add
+
+ftstream.c
+file
+
+
+
+add
+
+ftpatent.c
+file
+
+
+
+add
+
+ftxf86.c
+file
+
+
+
+add
+
+ftadvanc.c
+file
+
+
+
+add
+
+ftobjs.c
+file
+
+
+
+add
+
+ftlcdfil.c
+file
+
+
+
+add
+
+ftcid.c
+file
+
+
+
+add
+
+ftmac.c
+file
+
+
+
+add
+
+ftoutln.c
+file
+
+
+
+add
+
+fttrigon.c
+file
+
+
+
+add
+

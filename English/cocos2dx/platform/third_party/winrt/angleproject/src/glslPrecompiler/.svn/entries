@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/third_party/winrt/angleproject/src/glslPrecompiler
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+glslPrecompiler.vcxproj.filters
+file
+
+
+
+add
+
+shader.frag
+file
+
+
+
+add
+
+main.cpp
+file
+
+
+
+add
+
+shader.vert
+file
+
+
+
+add
+
+precompiler.bat
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+glslPrecompiler.vcxproj
+file
+
+
+
+add
+
+glslPrecompiler.sln
+file
+
+
+
+add
+

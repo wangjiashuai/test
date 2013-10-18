@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CocoStudio/GUI/BaseClasses
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+UIWidget.cpp
+file
+
+
+
+add
+
+UIRootWidget.cpp
+file
+
+
+
+add
+
+UIWidget.h
+file
+
+
+
+add
+
+UIRootWidget.h
+file
+
+
+
+add
+

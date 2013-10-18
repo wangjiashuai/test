@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletCollision
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CollisionShapes
+dir
+
+
+
+add
+
+Doxyfile
+file
+
+
+
+add
+
+BroadphaseCollision
+dir
+
+
+
+add
+
+Gimpact
+dir
+
+
+
+add
+
+NarrowPhaseCollision
+dir
+
+
+
+add
+
+ibmsdk
+dir
+
+
+
+add
+
+CollisionDispatch
+dir
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

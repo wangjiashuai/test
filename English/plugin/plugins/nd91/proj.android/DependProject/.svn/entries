@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/plugin/plugins/nd91/proj.android/DependProject
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+.classpath
+file
+
+
+
+add
+
+project.properties
+file
+
+
+
+add
+
+.project
+file
+
+
+
+add
+
+AndroidManifest.xml
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+res
+dir
+
+
+
+add
+

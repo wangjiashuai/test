@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btSoftBodySolverLinkData_DX11SIMDAware.h
+file
+
+
+
+add
+
+HLSL
+dir
+
+
+
+add
+
+btSoftBodySolver_DX11SIMDAware.cpp
+file
+
+
+
+add
+
+btSoftBodySolverLinkData_DX11.h
+file
+
+
+
+add
+
+btSoftBodySolverVertexBuffer_DX11.h
+file
+
+
+
+add
+
+btSoftBodySolverVertexData_DX11.h
+file
+
+
+
+add
+
+btSoftBodySolverBuffer_DX11.h
+file
+
+
+
+add
+
+btSoftBodySolver_DX11.cpp
+file
+
+
+
+add
+
+btSoftBodySolver_DX11SIMDAware.h
+file
+
+
+
+add
+
+btSoftBodySolver_DX11.h
+file
+
+
+
+add
+
+btSoftBodySolverTriangleData_DX11.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+

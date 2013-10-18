@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/libc/machine
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ansi.h
+file
+
+
+
+add
+
+ieeefp.h
+file
+
+
+
+add
+
+setjmp-dj.h
+file
+
+
+
+add
+
+endian.h
+file
+
+
+
+add
+
+time.h
+file
+
+
+
+add
+
+param.h
+file
+
+
+
+add
+
+stdlib.h
+file
+
+
+
+add
+
+setjmp.h
+file
+
+
+
+add
+
+termios.h
+file
+
+
+
+add
+
+_types.h
+file
+
+
+
+add
+
+types.h
+file
+
+
+
+add
+
+_default_types.h
+file
+
+
+
+add
+
+fastmath.h
+file
+
+
+
+add
+
+malloc.h
+file
+
+
+
+add
+

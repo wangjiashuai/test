@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/sys
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ioctl.h
+file
+
+
+
+add
+
+statvfs.h
+file
+
+
+
+add
+
+uio.h
+file
+
+
+
+add
+
+bitypes.h
+file
+
+
+
+add
+
+select.h
+file
+
+
+
+add
+
+socketvar.h
+file
+
+
+
+add
+
+sysctl.h
+file
+
+
+
+add
+
+un.h
+file
+
+
+
+add
+
+poll.h
+file
+
+
+
+add
+
+io.h
+file
+
+
+
+add
+
+socket.h
+file
+
+
+
+add
+

@@ -1,0 +1,490 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/SDL
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+SDL_clipboard.h
+file
+
+
+
+add
+
+SDL_input.h
+file
+
+
+
+add
+
+SDL_shape.h
+file
+
+
+
+add
+
+SDL_audio.h
+file
+
+
+
+add
+
+SDL_assert.h
+file
+
+
+
+add
+
+SDL_events.h
+file
+
+
+
+add
+
+SDL_haptic.h
+file
+
+
+
+add
+
+SDL_atomic.h
+file
+
+
+
+add
+
+SDL_gesture.h
+file
+
+
+
+add
+
+SDL_timer.h
+file
+
+
+
+add
+
+COPYING
+file
+
+
+
+add
+
+SDL_log.h
+file
+
+
+
+add
+
+SDL_touch.h
+file
+
+
+
+add
+
+SDL_keycode.h
+file
+
+
+
+add
+
+SDL_compat.h
+file
+
+
+
+add
+
+SDL_opengl.h
+file
+
+
+
+add
+
+SDL_mouse.h
+file
+
+
+
+add
+
+close_code.h
+file
+
+
+
+add
+
+SDL_gfxPrimitives.h
+file
+
+
+
+add
+
+SDL_copying.h
+file
+
+
+
+add
+
+SDL_name.h
+file
+
+
+
+add
+
+SDL.h
+file
+
+
+
+add
+
+SDL_image.h
+file
+
+
+
+add
+
+SDL_platform.h
+file
+
+
+
+add
+
+SDL_blendmode.h
+file
+
+
+
+add
+
+SDL_error.h
+file
+
+
+
+add
+
+SDL_ttf.h
+file
+
+
+
+add
+
+SDL_rect.h
+file
+
+
+
+add
+
+SDL_cpuinfo.h
+file
+
+
+
+add
+
+SDL_pixels.h
+file
+
+
+
+add
+
+SDL_video.h
+file
+
+
+
+add
+
+SDL_thread.h
+file
+
+
+
+add
+
+SDL_rwops.h
+file
+
+
+
+add
+
+SDL_config.h.in
+file
+
+
+
+add
+
+SDL_opengles.h
+file
+
+
+
+add
+
+begin_code.h
+file
+
+
+
+add
+
+SDL_scancode.h
+file
+
+
+
+add
+
+SDL_render.h
+file
+
+
+
+add
+
+SDL_stdinc.h
+file
+
+
+
+add
+
+SDL_mixer.h
+file
+
+
+
+add
+
+SDL_main.h
+file
+
+
+
+add
+
+SDL_version.h
+file
+
+
+
+add
+
+SDL_surface.h
+file
+
+
+
+add
+
+SDL_rotozoom.h
+file
+
+
+
+add
+
+SDL_config_nintendods.h
+file
+
+
+
+add
+
+SDL_power.h
+file
+
+
+
+add
+
+SDL_revision.h.orig
+file
+
+
+
+add
+
+SDL_revision.h
+file
+
+
+
+add
+
+SDL_opengles2.h
+file
+
+
+
+add
+
+SDL_config_wiz.h
+file
+
+
+
+add
+
+SDL_endian.h
+file
+
+
+
+add
+
+SDL_joystick.h
+file
+
+
+
+add
+
+SDL_keyboard.h
+file
+
+
+
+add
+
+SDL_mutex.h
+file
+
+
+
+add
+
+SDL_types.h
+file
+
+
+
+add
+
+SDL_config_android.h
+file
+
+
+
+add
+
+SDL_config.h
+file
+
+
+
+add
+
+SDL_config_iphoneos.h
+file
+
+
+
+add
+
+SDL_config_pandora.h
+file
+
+
+
+add
+
+SDL_config_minimal.h
+file
+
+
+
+add
+
+SDL_config_macosx.h
+file
+
+
+
+add
+
+SDL_config_windows.h
+file
+
+
+
+add
+
+SDL_loadso.h
+file
+
+
+
+add
+
+SDL_syswm.h
+file
+
+
+
+add
+
+SDL_quit.h
+file
+
+
+
+add
+
+SDL_hints.h
+file
+
+
+
+add
+

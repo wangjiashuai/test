@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/Box2D/Dynamics/Contacts
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+b2EdgeAndPolygonContact.cpp
+file
+
+
+
+add
+
+b2CircleContact.cpp
+file
+
+
+
+add
+
+b2PolygonAndCircleContact.h
+file
+
+
+
+add
+
+b2EdgeAndPolygonContact.h
+file
+
+
+
+add
+
+b2CircleContact.h
+file
+
+
+
+add
+
+b2EdgeAndCircleContact.cpp
+file
+
+
+
+add
+
+b2ContactSolver.cpp
+file
+
+
+
+add
+
+b2ChainAndPolygonContact.cpp
+file
+
+
+
+add
+
+b2EdgeAndCircleContact.h
+file
+
+
+
+add
+
+b2ContactSolver.h
+file
+
+
+
+add
+
+b2Contact.cpp
+file
+
+
+
+add
+
+b2ChainAndPolygonContact.h
+file
+
+
+
+add
+
+b2Contact.h
+file
+
+
+
+add
+
+b2ChainAndCircleContact.cpp
+file
+
+
+
+add
+
+b2PolygonContact.cpp
+file
+
+
+
+add
+
+b2PolygonAndCircleContact.cpp
+file
+
+
+
+add
+
+b2ChainAndCircleContact.h
+file
+
+
+
+add
+
+b2PolygonContact.h
+file
+
+
+
+add
+

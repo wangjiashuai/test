@@ -1,0 +1,140 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/freealut/src
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Makefile.in
+file
+
+
+
+add
+
+alutInputStream.c
+file
+
+
+
+add
+
+alutOutputStream.c
+file
+
+
+
+add
+
+alutUtil.c
+file
+
+
+
+add
+
+alutCodec.c
+file
+
+
+
+add
+
+alutInternal.h
+file
+
+
+
+add
+
+alutVersion.c
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+alutWaveform.c
+file
+
+
+
+add
+
+alutError.c
+file
+
+
+
+add
+
+helloworld.wav
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Makefile.am
+file
+
+
+
+add
+
+alutInit.c
+file
+
+
+
+add
+
+alutBufferData.c
+file
+
+
+
+add
+
+alutLoader.c
+file
+
+
+
+add
+

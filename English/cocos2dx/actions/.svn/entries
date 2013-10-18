@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/actions
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCActionGrid.h
+file
+
+
+
+add
+
+CCActionCamera.h
+file
+
+
+
+add
+
+CCActionProgressTimer.cpp
+file
+
+
+
+add
+
+CCActionTiledGrid.cpp
+file
+
+
+
+add
+
+CCActionManager.cpp
+file
+
+
+
+add
+
+CCActionProgressTimer.h
+file
+
+
+
+add
+
+CCActionGrid3D.cpp
+file
+
+
+
+add
+
+CCActionPageTurn3D.cpp
+file
+
+
+
+add
+
+CCActionTiledGrid.h
+file
+
+
+
+add
+
+CCActionEase.cpp
+file
+
+
+
+add
+
+CCActionCatmullRom.cpp
+file
+
+
+
+add
+
+CCAction.cpp
+file
+
+
+
+add
+
+CCActionManager.h
+file
+
+
+
+add
+
+CCActionInstant.cpp
+file
+
+
+
+add
+
+CCActionGrid3D.h
+file
+
+
+
+add
+
+CCActionPageTurn3D.h
+file
+
+
+
+add
+
+CCActionEase.h
+file
+
+
+
+add
+
+CCActionTween.cpp
+file
+
+
+
+add
+
+CCActionInterval.cpp
+file
+
+
+
+add
+
+CCActionCatmullRom.h
+file
+
+
+
+add
+
+CCAction.h
+file
+
+
+
+add
+
+CCActionInstant.h
+file
+
+
+
+add
+
+CCActionGrid.cpp
+file
+
+
+
+add
+
+CCActionTween.h
+file
+
+
+
+add
+
+CCActionCamera.cpp
+file
+
+
+
+add
+
+CCActionInterval.h
+file
+
+
+
+add
+

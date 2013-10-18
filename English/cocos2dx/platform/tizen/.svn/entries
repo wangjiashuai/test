@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/tizen
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCCommon.cpp
+file
+
+
+
+add
+
+CCOspApplication.h
+file
+
+
+
+add
+
+CCOspForm.h
+file
+
+
+
+add
+
+CCDevice.cpp
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+CCApplication.cpp
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+CCApplication.h
+file
+
+
+
+add
+
+CCFileUtilsTizen.cpp
+file
+
+
+
+add
+
+CCAccelerometer.cpp
+file
+
+
+
+add
+
+CCFileUtilsTizen.h
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+CCImage.cpp
+file
+
+
+
+add
+
+CCOspForm.cpp
+file
+
+
+
+add
+
+CCOspApplication.cpp
+file
+
+
+
+add
+

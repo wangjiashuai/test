@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/third_party/ply
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+test
+dir
+
+
+
+add
+
+ply
+dir
+
+
+
+add
+
+doc
+dir
+
+
+
+add
+
+TODO
+file
+
+
+
+add
+
+ANNOUNCE
+file
+
+
+
+add
+
+setup.py
+file
+
+
+
+add
+
+CHANGES
+file
+
+
+
+add
+
+PKG-INFO
+file
+
+
+
+add
+
+example
+dir
+
+
+
+add
+
+README
+file
+
+
+
+add
+

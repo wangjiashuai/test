@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletDynamics/ConstraintSolver
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+btSequentialImpulseConstraintSolver.cpp
+file
+
+
+
+add
+
+btSolve2LinearConstraint.cpp
+file
+
+
+
+add
+
+btUniversalConstraint.cpp
+file
+
+
+
+add
+
+btSequentialImpulseConstraintSolver.h
+file
+
+
+
+add
+
+btSolve2LinearConstraint.h
+file
+
+
+
+add
+
+btHinge2Constraint.cpp
+file
+
+
+
+add
+
+btUniversalConstraint.h
+file
+
+
+
+add
+
+btGeneric6DofSpringConstraint.cpp
+file
+
+
+
+add
+
+btConstraintSolver.h
+file
+
+
+
+add
+
+btConeTwistConstraint.cpp
+file
+
+
+
+add
+
+btSolverConstraint.h
+file
+
+
+
+add
+
+btHinge2Constraint.h
+file
+
+
+
+add
+
+btSliderConstraint.cpp
+file
+
+
+
+add
+
+btGeneric6DofSpringConstraint.h
+file
+
+
+
+add
+
+btConeTwistConstraint.h
+file
+
+
+
+add
+
+btPoint2PointConstraint.cpp
+file
+
+
+
+add
+
+btTypedConstraint.cpp
+file
+
+
+
+add
+
+btSliderConstraint.h
+file
+
+
+
+add
+
+btJacobianEntry.h
+file
+
+
+
+add
+
+btSolverBody.h
+file
+
+
+
+add
+
+btHingeConstraint.cpp
+file
+
+
+
+add
+
+btPoint2PointConstraint.h
+file
+
+
+
+add
+
+btTypedConstraint.h
+file
+
+
+
+add
+
+btGeneric6DofConstraint.cpp
+file
+
+
+
+add
+
+btContactConstraint.cpp
+file
+
+
+
+add
+
+btHingeConstraint.h
+file
+
+
+
+add
+
+btGeneric6DofConstraint.h
+file
+
+
+
+add
+
+btContactConstraint.h
+file
+
+
+
+add
+
+btContactSolverInfo.h
+file
+
+
+
+add
+

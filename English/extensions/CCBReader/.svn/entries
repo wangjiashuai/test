@@ -1,0 +1,392 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/CCBReader
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCNode+CCBRelativePositioning.h
+file
+
+
+
+add
+
+CCSpriteLoader.cpp
+file
+
+
+
+add
+
+CCScale9SpriteLoader.cpp
+file
+
+
+
+add
+
+CCMenuLoader.h
+file
+
+
+
+add
+
+CCNodeLoaderLibrary.cpp
+file
+
+
+
+add
+
+CCLayerColorLoader.cpp
+file
+
+
+
+add
+
+CCControlLoader.cpp
+file
+
+
+
+add
+
+CCControlButtonLoader.h
+file
+
+
+
+add
+
+CCLayerLoader.h
+file
+
+
+
+add
+
+CCData.cpp
+file
+
+
+
+add
+
+CCBReader.h
+file
+
+
+
+add
+
+CCBKeyframe.h
+file
+
+
+
+add
+
+CCBSequence.cpp
+file
+
+
+
+add
+
+CCBAnimationManager.cpp
+file
+
+
+
+add
+
+CCBFileLoader.h
+file
+
+
+
+add
+
+CCMenuItemImageLoader.cpp
+file
+
+
+
+add
+
+CCBValue.cpp
+file
+
+
+
+add
+
+CCMenuItemLoader.h
+file
+
+
+
+add
+
+CCParticleSystemQuadLoader.h
+file
+
+
+
+add
+
+CCLabelBMFontLoader.h
+file
+
+
+
+add
+
+CCNodeLoader.h
+file
+
+
+
+add
+
+CCBSequenceProperty.h
+file
+
+
+
+add
+
+CCScrollViewLoader.h
+file
+
+
+
+add
+
+CCLayerGradientLoader.h
+file
+
+
+
+add
+
+CCNode+CCBRelativePositioning.cpp
+file
+
+
+
+add
+
+CCLabelTTFLoader.h
+file
+
+
+
+add
+
+CCSpriteLoader.h
+file
+
+
+
+add
+
+CCLayerLoader.cpp
+file
+
+
+
+add
+
+CCControlButtonLoader.cpp
+file
+
+
+
+add
+
+CCScale9SpriteLoader.h
+file
+
+
+
+add
+
+CCBReader.cpp
+file
+
+
+
+add
+
+CCBKeyframe.cpp
+file
+
+
+
+add
+
+CCNodeLoaderLibrary.h
+file
+
+
+
+add
+
+CCLayerColorLoader.h
+file
+
+
+
+add
+
+CCBFileLoader.cpp
+file
+
+
+
+add
+
+CCBSelectorResolver.h
+file
+
+
+
+add
+
+CCMenuItemLoader.cpp
+file
+
+
+
+add
+
+CCParticleSystemQuadLoader.cpp
+file
+
+
+
+add
+
+CCLabelBMFontLoader.cpp
+file
+
+
+
+add
+
+CCControlLoader.h
+file
+
+
+
+add
+
+CCNodeLoader.cpp
+file
+
+
+
+add
+
+CCData.h
+file
+
+
+
+add
+
+CCBSequence.h
+file
+
+
+
+add
+
+CCBSequenceProperty.cpp
+file
+
+
+
+add
+
+CCBMemberVariableAssigner.h
+file
+
+
+
+add
+
+CCScrollViewLoader.cpp
+file
+
+
+
+add
+
+CCLayerGradientLoader.cpp
+file
+
+
+
+add
+
+CCBAnimationManager.h
+file
+
+
+
+add
+
+CCMenuItemImageLoader.h
+file
+
+
+
+add
+
+CCBValue.h
+file
+
+
+
+add
+
+CCLabelTTFLoader.cpp
+file
+
+
+
+add
+
+CCNodeLoaderListener.h
+file
+
+
+
+add
+

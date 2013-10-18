@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/chipmunk/include/chipmunk/constraints
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+cpPinJoint.h
+file
+
+
+
+add
+
+cpSimpleMotor.h
+file
+
+
+
+add
+
+util.h
+file
+
+
+
+add
+
+cpDampedSpring.h
+file
+
+
+
+add
+
+cpDampedRotarySpring.h
+file
+
+
+
+add
+
+cpRatchetJoint.h
+file
+
+
+
+add
+
+cpGearJoint.h
+file
+
+
+
+add
+
+cpRotaryLimitJoint.h
+file
+
+
+
+add
+
+cpConstraint.h
+file
+
+
+
+add
+
+cpSlideJoint.h
+file
+
+
+
+add
+
+cpGrooveJoint.h
+file
+
+
+
+add
+
+cpPivotJoint.h
+file
+
+
+
+add
+

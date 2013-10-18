@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/nacl
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCCommon.cpp
+file
+
+
+
+add
+
+CCModule.h
+file
+
+
+
+add
+
+CCFileUtilsNaCl.cpp
+file
+
+
+
+add
+
+CCDevice.cpp
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+CCStdC.h
+file
+
+
+
+add
+
+CCFileUtilsNaCl.h
+file
+
+
+
+add
+
+CCApplication.cpp
+file
+
+
+
+add
+
+CCPlatformDefine.h
+file
+
+
+
+add
+
+CCInstance.cpp
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+memory.h
+file
+
+
+
+add
+
+CCApplication.h
+file
+
+
+
+add
+
+CCInstance.h
+file
+
+
+
+add
+
+CCAccelerometer.h
+file
+
+
+
+add
+
+CCImage.cpp
+file
+
+
+
+add
+

@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/utils
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+pdftotext.1
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+pdftohtml.cc
+file
+
+
+
+add
+
+pdf2xml.dtd
+file
+
+
+
+add
+
+ImageOutputDev.h
+file
+
+
+
+add
+
+pdftohtml.1
+file
+
+
+
+add
+
+pdftops.cc
+file
+
+
+
+add
+
+HtmlFonts.h
+file
+
+
+
+add
+
+pdffonts.cc
+file
+
+
+
+add
+
+pdfinfo.cc
+file
+
+
+
+add
+
+printencodings.cc
+file
+
+
+
+add
+
+HtmlOutputDev.h
+file
+
+
+
+add
+
+parseargs.cc
+file
+
+
+
+add
+
+pdftoppm.cc
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+parseargs.h
+file
+
+
+
+add
+
+pdftops.1
+file
+
+
+
+add
+
+pdffonts.1
+file
+
+
+
+add
+
+pdfimages.cc
+file
+
+
+
+add
+
+pdfinfo.1
+file
+
+
+
+add
+
+ImageOutputDev.cc
+file
+
+
+
+add
+
+pdftoppm.1
+file
+
+
+
+add
+
+HtmlLinks.cc
+file
+
+
+
+add
+
+pdftoabw.cc
+file
+
+
+
+add
+
+HtmlLinks.h
+file
+
+
+
+add
+
+pdfimages.1
+file
+
+
+
+add
+
+HtmlFonts.cc
+file
+
+
+
+add
+
+pdftotext.cc
+file
+
+
+
+add
+
+HtmlOutputDev.cc
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+
+printencodings.h
+file
+
+
+
+add
+

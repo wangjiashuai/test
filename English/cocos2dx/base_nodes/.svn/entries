@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/base_nodes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCAtlasNode.cpp
+file
+
+
+
+add
+
+CCNode.h
+file
+
+
+
+add
+
+CCGLBufferedNode.cpp
+file
+
+
+
+add
+
+CCAtlasNode.h
+file
+
+
+
+add
+
+CCGLBufferedNode.h
+file
+
+
+
+add
+
+CCNode.cpp
+file
+
+
+
+add
+

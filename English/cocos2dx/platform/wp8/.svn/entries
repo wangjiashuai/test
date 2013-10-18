@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/platform/wp8
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+ModalLayer.h
+file
+
+
+
+add
+
+WP8Keyboard.cpp
+file
+
+
+
+add
+
+Direct3DBase.h
+file
+
+
+
+add
+
+DirectXBase.h
+file
+
+
+
+add
+
+WP8Keyboard.h
+file
+
+
+
+add
+
+CCEGLView.cpp
+file
+
+
+
+add
+
+ModalLayer.cpp
+file
+
+
+
+add
+
+Direct3DBase.cpp
+file
+
+
+
+add
+
+CCEGLView.h
+file
+
+
+
+add
+
+DirectXBase.cpp
+file
+
+
+
+add
+

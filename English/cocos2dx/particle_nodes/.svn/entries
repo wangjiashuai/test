@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/cocos2dx/particle_nodes
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+CCParticleSystem.cpp
+file
+
+
+
+add
+
+CCParticleSystemQuad.h
+file
+
+
+
+add
+
+CCParticleBatchNode.cpp
+file
+
+
+
+add
+
+CCParticleSystem.h
+file
+
+
+
+add
+
+CCParticleBatchNode.h
+file
+
+
+
+add
+
+CCParticleExamples.cpp
+file
+
+
+
+add
+
+CCParticleSystemQuad.cpp
+file
+
+
+
+add
+
+firePngData.h
+file
+
+
+
+add
+
+CCParticleExamples.h
+file
+
+
+
+add
+

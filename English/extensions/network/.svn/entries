@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/extensions/network
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+HttpClient.cpp
+file
+
+
+
+add
+
+HttpClient.h
+file
+
+
+
+add
+
+HttpResponse.h
+file
+
+
+
+add
+
+WebSocket.cpp
+file
+
+
+
+add
+
+WebSocket.h
+file
+
+
+
+add
+
+HttpRequest.h
+file
+
+
+
+add
+

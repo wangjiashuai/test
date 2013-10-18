@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+OpenCL
+dir
+
+
+
+add
+
+CPU
+dir
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+DX11
+dir
+
+
+
+add
+

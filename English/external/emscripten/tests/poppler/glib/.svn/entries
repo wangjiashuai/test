@@ -1,0 +1,280 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/glib
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+poppler-page.cc
+file
+
+
+
+add
+
+poppler-layer.cc
+file
+
+
+
+add
+
+poppler-date.cc
+file
+
+
+
+add
+
+poppler-page.h
+file
+
+
+
+add
+
+poppler-layer.h
+file
+
+
+
+add
+
+poppler-media.cc
+file
+
+
+
+add
+
+Makefile.in
+file
+
+
+
+add
+
+poppler-action.h
+file
+
+
+
+add
+
+poppler-annot.cc
+file
+
+
+
+add
+
+Poppler-0.16.gir
+file
+
+
+
+add
+
+poppler-movie.h
+file
+
+
+
+add
+
+demo
+dir
+
+
+
+add
+
+poppler-attachment.cc
+file
+
+
+
+add
+
+poppler-attachment.h
+file
+
+
+
+add
+
+poppler-enums.c.template
+file
+
+
+
+add
+
+poppler.cc
+file
+
+
+
+add
+
+poppler.h
+file
+
+
+
+add
+
+CMakeLists.txt
+file
+
+
+
+add
+
+poppler-private.h
+file
+
+
+
+add
+
+poppler-action.cc
+file
+
+
+
+add
+
+poppler-document.cc
+file
+
+
+
+add
+
+poppler-movie.cc
+file
+
+
+
+add
+
+poppler-date.h
+file
+
+
+
+add
+
+poppler-document.h
+file
+
+
+
+add
+
+poppler-media.h
+file
+
+
+
+add
+
+poppler-annot.h
+file
+
+
+
+add
+
+poppler-form-field.cc
+file
+
+
+
+add
+
+poppler-enums.c
+file
+
+
+
+add
+
+poppler-features.h.in
+file
+
+
+
+add
+
+poppler-form-field.h
+file
+
+
+
+add
+
+poppler-enums.h
+file
+
+
+
+add
+
+test-poppler-glib.cc
+file
+
+
+
+add
+
+reference
+dir
+
+
+
+add
+
+poppler-features.h.cmake
+file
+
+
+
+add
+
+poppler-enums.h.template
+file
+
+
+
+add
+
+Makefile.am
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/system/include/X11
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+Xosdefs.h
+file
+
+
+
+add
+
+Xlib.h
+file
+
+
+
+add
+
+keysymdef.h
+file
+
+
+
+add
+
+keysym.h
+file
+
+
+
+add
+
+Xutil.h
+file
+
+
+
+add
+
+X.h
+file
+
+
+
+add
+
+Xfuncproto.h
+file
+
+
+
+add
+
+Xatom.h
+file
+
+
+
+add
+

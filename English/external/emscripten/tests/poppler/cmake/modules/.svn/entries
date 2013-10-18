@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://wangjiashuai@github.com/wangjiashuai/English.git/English/external/emscripten/tests/poppler/cmake/modules
+https://wangjiashuai@github.com/wangjiashuai/English.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c02232f0-f36d-4594-ce14-ce57b7db7bff
+
+GObjectIntrospectionMacros.cmake
+file
+
+
+
+add
+
+FindGDK.cmake
+file
+
+
+
+add
+
+FindQt3.cmake
+file
+
+
+
+add
+
+FindQt4.cmake
+file
+
+
+
+add
+
+PopplerDefaults.cmake
+file
+
+
+
+add
+
+FindGLIB.cmake
+file
+
+
+
+add
+
+FindIconv.cmake
+file
+
+
+
+add
+
+MacroBoolTo01.cmake
+file
+
+
+
+add
+
+MacroOptionalFindPackage.cmake
+file
+
+
+
+add
+
+FindGTK.cmake
+file
+
+
+
+add
+
+PopplerMacros.cmake
+file
+
+
+
+add
+
+MacroEnsureVersion.cmake
+file
+
+
+
+add
+
+COPYING-CMAKE-SCRIPTS
+file
+
+
+
+add
+
+FindFontconfig.cmake
+file
+
+
+
+add
+
+FindCairo.cmake
+file
+
+
+
+add
+
+MacroPushRequiredVars.cmake
+file
+
+
+
+add
+
+FindLIBOPENJPEG.cmake
+file
+
+
+
+add
+
+FindLCMS.cmake
+file
+
+
+
+add
+
+FindGObjectIntrospection.cmake
+file
+
+
+
+add
+
