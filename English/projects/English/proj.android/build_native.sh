@@ -2,7 +2,7 @@ APPNAME="English"
 
 # options
 
-NDK_ROOT_LOCAL="/Applications/adt/android-ndk-r9"
+NDK_ROOT_LOCAL="/Developer/android-ndk-r8c"
 
 
 buildexternalsfromsource=
@@ -40,7 +40,7 @@ fi
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # ... use paths relative to current directory
-COCOS2DX_ROOT="$DIR/../.."
+COCOS2DX_ROOT="/Users/wangjiasuai/Desktop/test/English/cocos2dx"
 APP_ROOT="$DIR/.."
 APP_ANDROID_ROOT="$DIR"
 
