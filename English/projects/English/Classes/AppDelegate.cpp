@@ -1,6 +1,7 @@
 #include "AppDelegate.h"
 #include "HelloWorldScene.h"
 #include "GameControl.h"
+#include "GameData.h"
 
 USING_NS_CC;
 
@@ -30,6 +31,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
 //
 //    // run
 //    pDirector->runWithScene(pScene);
+    GameData::Shared()->getEnglishData();
     GameControl::Shared()->BeginGame();
 
     return true;

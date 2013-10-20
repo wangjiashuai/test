@@ -9,6 +9,7 @@
 #include "GameControl.h"
 #include "MainGameLayer.h"
 #include "GameSprite_Flay.h"
+#include "GameData.h"
 
 GameControl *g_pGameControl = NULL;
 GameControl *GameControl::Shared()
@@ -210,13 +211,20 @@ CCNode*    GameControl::getSecondSelect()
 
 CCNode*    GameControl::makeSprite()
 {
+    GameData *pGameData = GameData::Shared();
+    int maxCount = pGameData->getEnlishCount();
+    
     GameSprite_Flay *pFlay = GameSprite_Flay::create();
     int rValue = arc4random();
+    int rKeyIndex = abs(rValue) % maxCount;
+    const char *pKey = pGameData->getEnglishKeyName(rKeyIndex);
+    pFlay->setSpriteID(rKeyIndex);
     if(rValue % 2){
-        pFlay->setCharacterEN("中文");
+        pFlay->setCharacterEN(pKey);
     }
     else{
-        pFlay->setCharacterEN("English");
+        const char *pKeyData = pGameData->getEnglishKeyData(pKey);
+        pFlay->setCharacterEN(pKeyData);
     }
     
     return pFlay;
