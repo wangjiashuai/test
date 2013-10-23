@@ -9,7 +9,7 @@
 #include "GameControl.h"
 #include "MainGameLayer.h"
 #include "GameSprite_Flay.h"
-#include "GameData.h"
+#include "ClientData.h"
 
 GameControl *g_pGameControl = NULL;
 GameControl *GameControl::Shared()
@@ -223,7 +223,7 @@ CCNode*    GameControl::makeSprite()
         pFlay->setCharacterEN(pKey);
     }
     else{
-        const char *pKeyData = pGameData->getEnglishKeyData(pKey);
+        const char *pKeyData = pGameData->getEnglishKeyData(rKeyIndex);
         pFlay->setCharacterEN(pKeyData);
     }
     

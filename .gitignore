@@ -9,10 +9,6 @@ English/cocos2dx/platform/third_party/android/prebuilt/libwebp/include/types.h
 
 English/cocos2dx/platform/third_party/android/prebuilt/libwebp/Android.mk
 
-*.h
-
 English/cocos2dx/platform/third_party/android/prebuilt/libcurl/.svn/entries
-
-*.h
 
 English/cocos2dx/platform/third_party/android/prebuilt/libwebp/include/types.h

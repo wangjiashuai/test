@@ -1,1 +1,21 @@
-{'word': [{'\u78e8\u635f': 'abrade'}, {'\u53d1\u8a93\u653e\u5f03': 'abjure'}, {'\u4f7f\u5c34\u5c2c': 'abash'}, {'\u964d\u4f4e': 'abase'}, {'\u653e\u7eb5': 'abandon'}, {'\u65e0\u7cbe\u6253\u91c7\u7684': 'abject'}, {'\u7f29\u5199': 'abbreviate'}, {'\u51cf\u8f7b': 'abate'}, {'\u5426\u8ba4': 'abnegate'}, {'\u618e\u6076': 'abominate'}, {'\u6b63\u5f0f\u653e\u5f03': 'abdicate'}, {'\u4e2d\u6b62': 'abeyance'}, {'\u5077\u5077\u79bb\u5f00': 'abscond'}, {'\u5e2e\u52a9': 'abet'}, {'\u7f29\u77ed': 'abridge'}, {'\u65e0\u6b3a\u8bc8\u7684': 'aboveboard'}, {'\u6df1\u6076\u75db\u7edd': 'abhor'}, {'\u6c38\u4e45\u7684': 'abiding'}, {'\u6b63\u5f0f\u5e9f\u9664': 'abrogate'}, {'\u5f02\u5e38\u7684': 'aberrant'}]}
+{"arr":[{"中文": "abrade"},
+{"中文1": "abjure"},
+{"中文2": "abash"},
+ {"中3文": "abase"},
+ {"中文4": "abandon"},
+ {"中文5": "abject"},
+ {"中文6": "abbreviate"},
+ {"中文7": "abate"},
+ {"中文8": "abnegate"},
+ {"中文9": "abominate"},
+ {"中文10": "abdicate"},
+ {"中文11": "abeyance"},
+ {"中文12": "abscond"},
+ {"中文13": "abet"},
+ {"中文14": "abridge"},
+ {"中文15": "aboveboard"},
+ {"中文16": "abhor"},
+ {"中文17": "abiding"},
+ {"中文18": "abrogate"},
+ {"中文19": "aberrant"}]
+ }

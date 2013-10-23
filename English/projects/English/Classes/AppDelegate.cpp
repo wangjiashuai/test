@@ -1,7 +1,7 @@
 #include "AppDelegate.h"
 #include "HelloWorldScene.h"
 #include "GameControl.h"
-#include "GameData.h"
+#include "ClientData.h"
 
 USING_NS_CC;
 
