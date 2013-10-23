@@ -27,8 +27,9 @@ GameControl::GameControl()
     m_pArrSprite->init();
     m_pArrRemove = new CCArray;
     m_pArrRemove->init();
-    m_speed = 100;
+    m_speed = 50;
     m_spacing = 100;
+    m_bPause = false;
     
     m_winSize = CCDirector::sharedDirector()->getWinSize();
 }
@@ -39,23 +40,28 @@ void    GameControl::onUpdate(float time)
     GameSprite_Flay *pFlay = NULL;
     float addPos = m_speed * time;
     
-    CCPoint curPos;
-    CCSize spriteSize;
-    CCARRAY_FOREACH(m_pArrSprite, pObject){
-        pFlay = (GameSprite_Flay*)pObject;
-        curPos = pFlay->getPosition();
-        curPos.x -= addPos;
-        pFlay->setPosition(curPos);
-        spriteSize = pFlay->getContentSize();
-        if(curPos.x < spriteSize.width * -1){
-            m_pArrRemove->addObject(pObject);
+    if(!m_bPause){
+        CCPoint curPos;
+        CCSize spriteSize;
+        CCARRAY_FOREACH(m_pArrSprite, pObject){
+            pFlay = (GameSprite_Flay*)pObject;
+            curPos = pFlay->getPosition();
+            curPos.x -= addPos;
+            pFlay->setPosition(curPos);
+            spriteSize = pFlay->getContentSize();
+            if(curPos.x < spriteSize.width * -1){
+                m_pArrRemove->addObject(pObject);
+            }
+        }
+        
+        CCARRAY_FOREACH(m_pArrRemove, pObject){
+            
+            pFlay = (GameSprite_Flay*)pObject;
+            RemoveSprite(pFlay);
+            Pause();
         }
     }
-    
-    CCARRAY_FOREACH(m_pArrRemove, pObject){
-        pFlay = (GameSprite_Flay*)pObject;
-        RemoveSprite(pFlay);
-    }
+
     
     onTimeAddFlay();
     onLogic();
@@ -106,6 +112,11 @@ void    GameControl::BeginGame()
     CCDirector* pDirector = CCDirector::sharedDirector();
     pDirector->runWithScene(m_pGameScene);
     
+}
+
+void    GameControl::Pause()
+{
+    m_bPause = true;
 }
 
 void    GameControl::onTimeAddFlay()
@@ -219,6 +230,7 @@ CCNode*    GameControl::makeSprite()
     int rKeyIndex = abs(rValue) % maxCount;
     const char *pKey = pGameData->getEnglishKeyName(rKeyIndex);
     pFlay->setSpriteID(rKeyIndex);
+    rValue = arc4random();
     if(rValue % 2){
         pFlay->setCharacterEN(pKey);
     }

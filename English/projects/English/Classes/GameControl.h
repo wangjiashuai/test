@@ -19,6 +19,7 @@ public:
     virtual     bool    ccTouchBegan(CCTouch *pTouch, CCEvent *pEvent);
     
     void        BeginGame();
+    void        Pause();
     void        AddSprite(CCNode *pNode);
     void        RemoveSprite(CCNode *pNode);
     
@@ -39,6 +40,7 @@ private:
     CC_SYNTHESIZE(float, m_spacing, Spacing)
     
     CCSize  m_winSize;
+    bool    m_bPause;
 };
 
 #endif /* defined(__English__GameControl__) */
