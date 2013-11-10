@@ -10,6 +10,7 @@
 #include "MainGameLayer.h"
 #include "GameSprite_Flay.h"
 #include "ClientData.h"
+#include "GameMainScene.h"
 
 GameControl *g_pGameControl = NULL;
 GameControl *GameControl::Shared()
@@ -104,7 +105,7 @@ void    GameControl::BeginGame()
 {
     m_pGameScene = CCScene::create();
     
-    MainGameLayer *pNode = MainGameLayer::create();
+    GameMainScene *pNode = GameMainScene::create();
     pNode->setTouchEnabled(true);
     m_pGameLayer = pNode;
     m_pGameScene->addChild(pNode);

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		050AEDEE1813FEB90035BF85 /* ClientData.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 050AEDEC1813FEB90035BF85 /* ClientData.cpp */; };
+		05700276182F2D8900E79EC9 /* GameCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05700274182F2D8900E79EC9 /* GameCommon.cpp */; };
 		05E28A5018123A2400D3B6F3 /* GameControl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05E28A4E18123A2400D3B6F3 /* GameControl.cpp */; };
 		05E28A5418125E3500D3B6F3 /* GameSprite_Flay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05E28A5218125E3500D3B6F3 /* GameSprite_Flay.cpp */; };
 		05E28A56181261F200D3B6F3 /* res in Resources */ = {isa = PBXBuildFile; fileRef = 05E28A55181261F200D3B6F3 /* res */; };
@@ -276,6 +277,8 @@
 /* Begin PBXFileReference section */
 		050AEDEC1813FEB90035BF85 /* ClientData.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ClientData.cpp; path = ../Classes/ClientData.cpp; sourceTree = "<group>"; };
 		050AEDED1813FEB90035BF85 /* ClientData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ClientData.h; path = ../Classes/ClientData.h; sourceTree = "<group>"; };
+		05700274182F2D8900E79EC9 /* GameCommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = GameCommon.cpp; path = ../Classes/GameCommon.cpp; sourceTree = "<group>"; };
+		05700275182F2D8900E79EC9 /* GameCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameCommon.h; path = ../Classes/GameCommon.h; sourceTree = "<group>"; };
 		05E28A4E18123A2400D3B6F3 /* GameControl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = GameControl.cpp; path = ../Classes/GameControl.cpp; sourceTree = "<group>"; };
 		05E28A4F18123A2400D3B6F3 /* GameControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameControl.h; path = ../Classes/GameControl.h; sourceTree = "<group>"; };
 		05E28A5218125E3500D3B6F3 /* GameSprite_Flay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = GameSprite_Flay.cpp; path = ../Classes/GameSprite_Flay.cpp; sourceTree = "<group>"; };
@@ -1297,6 +1300,8 @@
 				050AEDED1813FEB90035BF85 /* ClientData.h */,
 				B0FEB6AA182C73B500EEC856 /* GameMainScene.cpp */,
 				B0FEB6AB182C73B500EEC856 /* GameMainScene.h */,
+				05700274182F2D8900E79EC9 /* GameCommon.cpp */,
+				05700275182F2D8900E79EC9 /* GameCommon.h */,
 			);
 			name = Classes;
 			path = ../classes;
@@ -2031,6 +2036,7 @@
 				379BB9A517F03F3700829B88 /* CCColliderDetector.cpp in Sources */,
 				379BB9A617F03F3700829B88 /* CCArmatureDataManager.cpp in Sources */,
 				379BB9A717F03F3700829B88 /* CCArmatureDefine.cpp in Sources */,
+				05700276182F2D8900E79EC9 /* GameCommon.cpp in Sources */,
 				379BB9A817F03F3700829B88 /* CCDataReaderHelper.cpp in Sources */,
 				379BB9A917F03F3700829B88 /* CCSpriteFrameCacheHelper.cpp in Sources */,
 				379BB9AA17F03F3700829B88 /* CCTransformHelp.cpp in Sources */,
