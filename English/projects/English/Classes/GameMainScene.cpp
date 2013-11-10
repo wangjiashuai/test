@@ -81,6 +81,8 @@ bool    GameMainScene::init()
     }
     
     initCheckItem();
+    
+    
     return true;
 }
 
