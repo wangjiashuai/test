@@ -28,6 +28,8 @@ public:
     void    initChildEvent(CCObject* pSender);
     void    updateChildEvent(CCObject* pSender);
     
+    virtual bool        ccTouchBegan(CCTouch *pTouch, CCEvent *pEvent);
+    virtual void        ccTouchesBegan(CCSet *pTouches, CCEvent *pEvent);
 protected:
     UILayer* m_pUILayer;
     

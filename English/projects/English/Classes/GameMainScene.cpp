@@ -35,22 +35,22 @@ bool    GameMainScene::init()
     
     m_pUILayer = UILayer::create();
     m_pUILayer->scheduleUpdate();
+    m_pUILayer->setTouchEnabled(true);
     addChild(m_pUILayer);
     
     GameListView *listView = GameListView::create();
-    listView->setDirection(LISTVIEW_DIR_HORIZONTAL);
     listView->setTouchEnabled(true);
-    listView->setSize(CCSizeMake(240, 130));
-    listView->setColor(ccRED);
-    listView->setBackGroundColor(ccRED);
-    m_pUILayer->addWidget(listView);
+    listView->setBackGroundImageScale9Enabled(true);
+    listView->setBackGroundImage("res/green_edit.png");
+    listView->setSize(CCSizeMake(500, 500));
+    listView->setPosition(ccp(100, 100));
     
     for (int i = 0; i < 3; ++i)
     {
         UITextButton* textButton = UITextButton::create();
         textButton->setName("TextButton");
         textButton->setTouchEnabled(true);
-        textButton->loadTextures("cocosgui/backtotoppressed.png", "cocosgui/backtotopnormal.png", "");
+        textButton->loadTextures("res/spriteback.png", "res/spriteback.png", "");
         
         Layout *layout = Layout::create();
         layout->setName(CCString::createWithFormat("panel_%i", i)->getCString());
@@ -60,14 +60,15 @@ bool    GameMainScene::init()
         
         CCSize layout_size = layout->getRect().size;
         layout->setPosition(ccp(0 + (layout_size.width * 0.2) + i * (layout_size.width + layout_size.width * 0.2),
-                                (listHeight - layout_size.height) / 2));
+                                (130 - layout_size.height) / 2));
         
         listView->addChild(layout);
     }
     
     listView->addInitChildEvent(this, coco_ListView_InitChild_selector(GameMainScene::initChildEvent));
     listView->addUpdateChildEvent(this, coco_ListView_UpdateChild_selector(GameMainScene::updateChildEvent));
-    
+    listView->initChildWithDataLength(5);
+     m_pUILayer->addWidget(listView);
     
     return true;
 }
@@ -102,12 +103,27 @@ void    GameMainScene::initCheckItem(int num)
 
 void    GameMainScene::initChildEvent(cocos2d::CCObject *pSender)
 {
+    UIListView* list = dynamic_cast<UIListView*>(pSender);
     
+    Layout* layout = dynamic_cast<Layout*>(list->getUpdateChild());
+    UITextButton* textButton = dynamic_cast<UITextButton*>(layout->getChildByName("TextButton"));
+    textButton->setText("test");
 }
 
 void    GameMainScene::updateChildEvent(cocos2d::CCObject *pSender)
 {
+    UIListView* list = dynamic_cast<UIListView*>(pSender);
+    int index = list->getUpdateDataIndex();
     
+    if (index < 0 || index >= list->getDataLength())
+    {
+        list->setUpdateSuccess(false);
+    }
+    
+    Layout* layout = dynamic_cast<Layout*>(list->getUpdateChild());
+    UITextButton* textButton = dynamic_cast<UITextButton*>(layout->getChildByName("TextButton"));
+    textButton->setText("testsdf");
+    list->setUpdateSuccess(true);
 }
 
 void    GameMainScene::setCheck(int index)
@@ -133,4 +149,14 @@ void    GameMainScene::onPageTurningEvent(cocos2d::CCObject *pSender)
     UIPageView *pPageView = (UIPageView*)pSender;
     int page = pPageView->getPage();
     setCheck(page);
+}
+
+
+bool    GameMainScene::ccTouchBegan(cocos2d::CCTouch *pTouch, cocos2d::CCEvent *pEvent)
+{
+    return true;
+}
+
+void    GameMainScene::ccTouchesBegan(cocos2d::CCSet *pTouches, cocos2d::CCEvent *pEvent)
+{
 }
