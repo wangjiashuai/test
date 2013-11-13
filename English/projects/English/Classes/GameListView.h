@@ -13,7 +13,7 @@ USING_NS_CC_EXT;
 
 class   GameListView : public UIListView{
 public:
-    static UIListView* create();
+    static GameListView* create();
     
     virtual void endRecordSlidAction();
 };

@@ -25,6 +25,8 @@ public:
     
     void    onButton(CCObject *sender);
     void    onPageTurningEvent(CCObject* pSender);
+    void    initChildEvent(CCObject* pSender);
+    void    updateChildEvent(CCObject* pSender);
     
 protected:
     UILayer* m_pUILayer;

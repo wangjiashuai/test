@@ -8,6 +8,8 @@
 
 #include "GameMainScene.h"
 #include "GameCommon.h"
+#include "GameListView.h"
+
 #define RES_PAGECHECK_BACK "res/check01.png"
 #define RES_PAGECHECK_CHECK "res/check.png"
 GameMainScene::GameMainScene()
@@ -35,52 +37,36 @@ bool    GameMainScene::init()
     m_pUILayer->scheduleUpdate();
     addChild(m_pUILayer);
     
-    UIPageView *pPageView = UIPageView::create();
-    CCSize winSize = CCDirector::sharedDirector()->getWinSize();
-    pPageView->setSize(winSize);
-    //pPageView->setPosition(getUIPosition(m_pUILayer,ccp(0.5,0.5)));
-    pPageView->setTouchEnable(true);
-    pPageView->setBackGroundColor(ccRED);
-    pPageView->setColor(ccRED);
-    pPageView->addPageTurningEvent(this, coco_PageView_PageTurning_selector(GameMainScene::onPageTurningEvent));
+    GameListView *listView = GameListView::create();
+    listView->setDirection(LISTVIEW_DIR_HORIZONTAL);
+    listView->setTouchEnabled(true);
+    listView->setSize(CCSizeMake(240, 130));
+    listView->setColor(ccRED);
+    listView->setBackGroundColor(ccRED);
+    m_pUILayer->addWidget(listView);
     
-    m_pUILayer->addWidget(pPageView);
-    
-    for (int i = 0; i < 3; i ++) {
-        Layout *pLayout = Layout::create();
-        pLayout->setSize(winSize);
+    for (int i = 0; i < 3; ++i)
+    {
+        UITextButton* textButton = UITextButton::create();
+        textButton->setName("TextButton");
+        textButton->setTouchEnabled(true);
+        textButton->loadTextures("cocosgui/backtotoppressed.png", "cocosgui/backtotopnormal.png", "");
         
-        UIImageView *pImage = UIImageView::create();
-        pImage->loadTexture("res/spriteback.png");
-        pLayout->addChild(pImage);
-        pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+        Layout *layout = Layout::create();
+        layout->setName(CCString::createWithFormat("panel_%i", i)->getCString());
+        layout->setSize(CCSizeMake(textButton->getRect().size.width, textButton->getRect().size.height));
+        textButton->setPosition(ccp(layout->getRect().size.width / 2, layout->getRect().size.height / 2));
+        layout->addChild(textButton);
         
-        UIButton *pButton = UIButton::create();
-        pButton->setTouchEnable(true);
-        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-        pButton->setPosition(getUIPosition(pLayout, ccp(0.25, 0.5)));
-        pLayout->addChild(pButton);
+        CCSize layout_size = layout->getRect().size;
+        layout->setPosition(ccp(0 + (layout_size.width * 0.2) + i * (layout_size.width + layout_size.width * 0.2),
+                                (listHeight - layout_size.height) / 2));
         
-        
-        pButton = UIButton::create();
-        pButton->setTouchEnable(true);
-        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-        pButton->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
-        pLayout->addChild(pButton);
-        
-        pButton = UIButton::create();
-        pButton->setTouchEnable(true);
-        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-        pButton->setPosition(getUIPosition(pLayout, ccp(0.75, 0.5)));
-        pLayout->addChild(pButton);
-        
-        pPageView->addPage(pLayout);
+        listView->addChild(layout);
     }
     
-    initCheckItem();
+    listView->addInitChildEvent(this, coco_ListView_InitChild_selector(GameMainScene::initChildEvent));
+    listView->addUpdateChildEvent(this, coco_ListView_UpdateChild_selector(GameMainScene::updateChildEvent));
     
     
     return true;
@@ -112,6 +98,16 @@ void    GameMainScene::initCheckItem(int num)
         pImage->setPosition(ccpAdd(beginPT, ccpMult(juli, i)));
         m_pArrCheck->addObject(pImage);
     }
+}
+
+void    GameMainScene::initChildEvent(cocos2d::CCObject *pSender)
+{
+    
+}
+
+void    GameMainScene::updateChildEvent(cocos2d::CCObject *pSender)
+{
+    
 }
 
 void    GameMainScene::setCheck(int index)

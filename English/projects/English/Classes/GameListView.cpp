@@ -8,7 +8,7 @@
 
 #include "GameListView.h"
 
-UIListView* GameListView::create()
+GameListView* GameListView::create()
 {
     GameListView* widget = new GameListView();
     if (widget && widget->init())
