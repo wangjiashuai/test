@@ -39,6 +39,7 @@ bool    GameMainScene::init()
     addChild(m_pUILayer);
     
     GameListView *listView = GameListView::create();
+    listView->setDirection(LISTVIEW_DIR_HORIZONTAL);
     listView->setTouchEnabled(true);
     listView->setBackGroundImageScale9Enabled(true);
     listView->setBackGroundImage("res/green_edit.png");
@@ -67,7 +68,7 @@ bool    GameMainScene::init()
     
     listView->addInitChildEvent(this, coco_ListView_InitChild_selector(GameMainScene::initChildEvent));
     listView->addUpdateChildEvent(this, coco_ListView_UpdateChild_selector(GameMainScene::updateChildEvent));
-    listView->initChildWithDataLength(5);
+    listView->initChildWithDataLength(15);
      m_pUILayer->addWidget(listView);
     
     return true;
@@ -108,6 +109,7 @@ void    GameMainScene::initChildEvent(cocos2d::CCObject *pSender)
     Layout* layout = dynamic_cast<Layout*>(list->getUpdateChild());
     UITextButton* textButton = dynamic_cast<UITextButton*>(layout->getChildByName("TextButton"));
     textButton->setText("test");
+    textButton->setTitleFontSize(30);
 }
 
 void    GameMainScene::updateChildEvent(cocos2d::CCObject *pSender)
@@ -119,10 +121,11 @@ void    GameMainScene::updateChildEvent(cocos2d::CCObject *pSender)
     {
         list->setUpdateSuccess(false);
     }
-    
+    CCLOG("index %d",index);
     Layout* layout = dynamic_cast<Layout*>(list->getUpdateChild());
     UITextButton* textButton = dynamic_cast<UITextButton*>(layout->getChildByName("TextButton"));
-    textButton->setText("testsdf");
+    CCString *pStr = CCString::createWithFormat("test %d",index);
+    textButton->setText(pStr->getCString());
     list->setUpdateSuccess(true);
 }
 
