@@ -38,38 +38,50 @@ bool    GameMainScene::init()
     m_pUILayer->setTouchEnabled(true);
     addChild(m_pUILayer);
     
-    GameListView *listView = GameListView::create();
-    listView->setDirection(LISTVIEW_DIR_HORIZONTAL);
-    listView->setTouchEnabled(true);
-    listView->setBackGroundImageScale9Enabled(true);
-    listView->setBackGroundImage("res/green_edit.png");
-    listView->setSize(CCSizeMake(500, 500));
-    listView->setPosition(ccp(100, 100));
+    GameListView *pPageView = GameListView::create();
+    CCSize winSize = CCDirector::sharedDirector()->getWinSize();
+    pPageView->setSize(winSize);
+    //pPageView->setPosition(getUIPosition(m_pUILayer,ccp(0.5,0.5)));
+    pPageView->setTouchEnable(true);
+    pPageView->setBackGroundColor(ccRED);
+    pPageView->setColor(ccRED);
+    pPageView->addPageTurningEvent(this, coco_PageView_PageTurning_selector(GameMainScene::onPageTurningEvent));
     
-    for (int i = 0; i < 3; ++i)
-    {
-        UITextButton* textButton = UITextButton::create();
-        textButton->setName("TextButton");
-        textButton->setTouchEnabled(true);
-        textButton->loadTextures("res/spriteback.png", "res/spriteback.png", "");
+    m_pUILayer->addWidget(pPageView);
+    
+    for (int i = 0; i < 3; i ++) {
+        Layout *pLayout = Layout::create();
+        pLayout->setSize(winSize);
         
-        Layout *layout = Layout::create();
-        layout->setName(CCString::createWithFormat("panel_%i", i)->getCString());
-        layout->setSize(CCSizeMake(textButton->getRect().size.width, textButton->getRect().size.height));
-        textButton->setPosition(ccp(layout->getRect().size.width / 2, layout->getRect().size.height / 2));
-        layout->addChild(textButton);
+        UIImageView *pImage = UIImageView::create();
+        pImage->loadTexture("res/spriteback.png");
+        pLayout->addChild(pImage);
+        pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
         
-        CCSize layout_size = layout->getRect().size;
-        layout->setPosition(ccp(0 + (layout_size.width * 0.2) + i * (layout_size.width + layout_size.width * 0.2),
-                                (130 - layout_size.height) / 2));
+        UIButton *pButton = UIButton::create();
+        pButton->setTouchEnable(true);
+        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
+        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
+        pButton->setPosition(getUIPosition(pLayout, ccp(0.25, 0.5)));
+        pLayout->addChild(pButton);
         
-        listView->addChild(layout);
+//        
+//        pButton = UIButton::create();
+//        pButton->setTouchEnable(true);
+//        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
+//        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
+//        pButton->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+//        pLayout->addChild(pButton);
+//        
+//        pButton = UIButton::create();
+//        pButton->setTouchEnable(true);
+//        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
+//        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
+//        pButton->setPosition(getUIPosition(pLayout, ccp(0.75, 0.5)));
+//        pLayout->addChild(pButton);
+        
+        pPageView->addPage(pLayout);
     }
-    
-    listView->addInitChildEvent(this, coco_ListView_InitChild_selector(GameMainScene::initChildEvent));
-    listView->addUpdateChildEvent(this, coco_ListView_UpdateChild_selector(GameMainScene::updateChildEvent));
-    listView->initChildWithDataLength(15);
-     m_pUILayer->addWidget(listView);
     
     return true;
 }
@@ -151,7 +163,7 @@ void    GameMainScene::onPageTurningEvent(cocos2d::CCObject *pSender)
 {
     UIPageView *pPageView = (UIPageView*)pSender;
     int page = pPageView->getPage();
-    setCheck(page);
+    //setCheck(page);
 }
 
 

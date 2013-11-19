@@ -177,8 +177,8 @@ protected:
     virtual bool scrollPages(float touchOffset);
     void movePages(float offset);
     void pageTurningEvent();
-    void updateChildrenSize();
-    void updateChildrenPosition();
+    virtual void updateChildrenSize();
+    virtual void updateChildrenPosition();
     virtual void onSizeChanged();
 //    virtual bool isInScrollDegreeRange(UIWidget* widget);
     /*compatible*/

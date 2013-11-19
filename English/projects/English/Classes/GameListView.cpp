@@ -22,26 +22,7 @@ GameListView* GameListView::create()
     return NULL;
 }
 
-void    GameListView::endRecordSlidAction()
+CCSize  GameListView::getPageSize()
 {
-    UIListView::endRecordSlidAction();
-    
-    int updateIndex = getUpdateDataIndex();
-    CCLOG("endRecordSlidAction %d",updateIndex);
-    if(m_eMoveDirection == LISTVIEW_MOVE_DIR_LEFT){
-        updateIndex = updateIndex - 1;
-    }
-    else{
-        updateIndex = updateIndex + 1;
-    }
-    
-    ccArray* arrayChildren = m_children->data;
-    UIWidget* child = (UIWidget*)(arrayChildren->arr[2]);
-    
-    CCPoint curPos = child->getPosition();
-    curPos.x = 200 - curPos.x;
-    this->stopAutoScrollChildren();
-    scrollChildren(curPos.x);
-
-    
+    return CCSizeMake(100, 100);
 }
