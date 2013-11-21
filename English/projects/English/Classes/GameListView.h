@@ -22,10 +22,12 @@ public:
     
     virtual void    addItem(Layout* item);
     virtual CCSize  getItemSize();
-//    float   getPositionXByIndex(int idx);
-//    
-//    virtual void updateChildrenSize();
-//    virtual void updateChildrenPosition();
+    
+    virtual bool onTouchBegan(const CCPoint &touchPoint);
+    virtual void onTouchMoved(const CCPoint &touchPoint);
+    virtual void onTouchEnded(const CCPoint &touchPoint);
+    
+    virtual float getPositionXByIndex(int idx);
 private:
     CCArray*    m_pArrItems;
     
