@@ -49,7 +49,7 @@ bool    GameMainScene::init()
     
     m_pUILayer->addWidget(pPageView);
     
-    for (int i = 0; i < 3; i ++) {
+    for (int i = 0; i < 10; i ++) {
         Layout *pLayout = Layout::create();
         pLayout->setSize(winSize);
         
@@ -58,12 +58,12 @@ bool    GameMainScene::init()
         pLayout->addChild(pImage);
         pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
         
-        UIButton *pButton = UIButton::create();
-        pButton->setTouchEnable(true);
-        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-        pButton->setPosition(getUIPosition(pLayout, ccp(0.25, 0.5)));
-        pLayout->addChild(pButton);
+//        UIButton *pButton = UIButton::create();
+//        pButton->setTouchEnable(true);
+//        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
+//        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
+//        pButton->setPosition(getUIPosition(pLayout, ccp(0.25, 0.5)));
+//        pLayout->addChild(pButton);
         
 //        
 //        pButton = UIButton::create();
@@ -80,7 +80,12 @@ bool    GameMainScene::init()
 //        pButton->setPosition(getUIPosition(pLayout, ccp(0.75, 0.5)));
 //        pLayout->addChild(pButton);
         
-        pPageView->addPage(pLayout);
+        UITextButton *pTextButton = UITextButton::create();
+        pLayout->addChild(pTextButton);
+        pTextButton->setPosition(getUIPosition(pLayout, ccp(0.5,0.5)));
+        pTextButton->setName("TextButton");
+        
+        pPageView->addItem(pLayout);
     }
     
     return true;
