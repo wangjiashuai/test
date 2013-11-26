@@ -84,6 +84,8 @@ bool    GameMainScene::init()
         pLayout->addChild(pTextButton);
         pTextButton->setPosition(getUIPosition(pLayout, ccp(0.5,0.5)));
         pTextButton->setName("TextButton");
+        CCString *pStr = CCString::createWithFormat("%d",i);
+        pTextButton->setText(pStr->getCString());
         
         pPageView->addItem(pLayout);
     }
