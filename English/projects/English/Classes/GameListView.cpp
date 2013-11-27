@@ -63,7 +63,10 @@ void    GameListView::addItem(cocos2d::extension::Layout *item)
         CCLOG("page size does not match pageview size, it will be force sized!");
         item->setSize(pvSize);
     }
-    item->setPosition(ccp(getPositionXByIndex(m_pages->count()), 0));
+    
+    CCPoint setPosition = ccp(getPositionXByIndex(m_pages->count()), 0);
+    CCLOG("setPosition x:%f",setPosition.x);
+    item->setPosition(setPosition);
     m_pages->addObject(item);
     addChild(item);
     updateBoundaryPages();
@@ -107,4 +110,44 @@ void GameListView::onTouchEnded(const CCPoint &touchPoint)
 float   GameListView::getPositionXByIndex(int idx)
 {
     return (getPageSize().width*(idx-m_nCurPageIdx));
+}
+
+void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
+{
+    UIWidget* curPage = dynamic_cast<UIWidget*>(m_pages->objectAtIndex(m_nCurPageIdx));
+    if (curPage)
+    {
+        CCPoint curPagePos = curPage->getPosition();
+        int pageCount = m_pages->count();
+        float curPageLocation = curPagePos.x;
+        float pageWidth = getSize().width;
+        float boundary = 0;
+        CCLOG("pageWidth %f boundary %f",pageWidth,boundary);
+        if (curPageLocation <= -boundary)
+        {
+            if (m_nCurPageIdx >= pageCount-1)
+            {
+                scrollPages(-curPageLocation);
+            }
+            else
+            {
+                scrollToPage(m_nCurPageIdx+1);
+            }
+        }
+        else if (curPageLocation >= boundary)
+        {
+            if (m_nCurPageIdx <= 0)
+            {
+                scrollPages(-curPageLocation);
+            }
+            else
+            {
+                scrollToPage(m_nCurPageIdx-1);
+            }
+        }
+        else
+        {
+            scrollToPage(m_nCurPageIdx);
+        }
+    }
 }

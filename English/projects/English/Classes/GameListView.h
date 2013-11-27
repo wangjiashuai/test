@@ -26,6 +26,7 @@ public:
     virtual bool onTouchBegan(const CCPoint &touchPoint);
     virtual void onTouchMoved(const CCPoint &touchPoint);
     virtual void onTouchEnded(const CCPoint &touchPoint);
+    virtual void handleReleaseLogic(const CCPoint &touchPoint);
     
     virtual float getPositionXByIndex(int idx);
 private:
