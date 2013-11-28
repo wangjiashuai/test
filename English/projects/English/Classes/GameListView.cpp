@@ -112,6 +112,13 @@ float   GameListView::getPositionXByIndex(int idx)
     return (getPageSize().width*(idx-m_nCurPageIdx));
 }
 
+void    GameListView::onSizeChanged()
+{
+    UIPageView::onSizeChanged();
+    
+    m_fLeftBoundary = getSize().width * 0.3;
+}
+
 void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
 {
     UIWidget* curPage = dynamic_cast<UIWidget*>(m_pages->objectAtIndex(m_nCurPageIdx));
@@ -121,7 +128,7 @@ void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
         int pageCount = m_pages->count();
         float curPageLocation = curPagePos.x;
         float pageWidth = getSize().width;
-        float boundary = 0;
+        float boundary = pageWidth * 0.3;
         CCLOG("pageWidth %f boundary %f",pageWidth,boundary);
         if (curPageLocation <= -boundary)
         {
@@ -150,4 +157,46 @@ void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
             scrollToPage(m_nCurPageIdx);
         }
     }
+}
+
+bool GameListView::scrollPages(float touchOffset)
+{
+    if (m_pages->count() <= 0)
+    {
+        return false;
+    }
+    
+    if (!m_pLeftChild || !m_pRightChild)
+    {
+        return false;
+    }
+    
+    float realOffset = touchOffset;
+    
+    switch (m_touchMoveDir)
+    {
+        case PAGEVIEW_TOUCHLEFT: // left
+            if (m_pRightChild->getRightInParent() + touchOffset <= 0)
+            {
+                realOffset = 0 - m_pRightChild->getRightInParent();
+                movePages(realOffset);
+                return false;
+            }
+            break;
+            
+        case PAGEVIEW_TOUCHRIGHT: // right
+            CCLOG("scrollpages offset:%f",m_pLeftChild->getLeftInParent() + touchOffset);
+            if (m_pLeftChild->getLeftInParent() + touchOffset >= m_fLeftBoundary)
+            {
+                realOffset = m_fLeftBoundary - m_pLeftChild->getLeftInParent();
+                movePages(realOffset);
+                return false;
+            }
+            break;
+        default:
+            break;
+    }
+    
+    movePages(realOffset);
+    return true;
 }

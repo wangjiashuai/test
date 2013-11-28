@@ -27,8 +27,10 @@ public:
     virtual void onTouchMoved(const CCPoint &touchPoint);
     virtual void onTouchEnded(const CCPoint &touchPoint);
     virtual void handleReleaseLogic(const CCPoint &touchPoint);
+    virtual void onSizeChanged();
     
     virtual float getPositionXByIndex(int idx);
+    virtual bool  scrollPages(float touchOffset);
 private:
     CCArray*    m_pArrItems;
     
