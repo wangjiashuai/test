@@ -13,6 +13,12 @@
 USING_NS_CC;
 USING_NS_CC_EXT;
 
+typedef enum
+{
+    PAGEVIEW_EVENT_TURNING,
+    PGAEVIEW_EVENT_MOVEING,
+}PageViewEventType;
+
 class   GameListView : public UIPageView{
 public:
     static GameListView* create();
@@ -21,7 +27,6 @@ public:
     CCSize  getPageSize();
     
     virtual void    addItem(Layout* item);
-    virtual CCSize  getItemSize();
     
     virtual bool onTouchBegan(const CCPoint &touchPoint);
     virtual void onTouchMoved(const CCPoint &touchPoint);

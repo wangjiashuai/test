@@ -37,7 +37,7 @@ GameListView::~GameListView()
 
 CCSize  GameListView::getPageSize()
 {
-    return CCSizeMake(300, 100);
+    return CCSizeMake(500, 100);
 }
 
 void    GameListView::addItem(cocos2d::extension::Layout *item)
@@ -60,22 +60,16 @@ void    GameListView::addItem(cocos2d::extension::Layout *item)
     CCSize pvSize = getPageSize();
     if (!pSize.equals(pvSize))
     {
-        CCLOG("page size does not match pageview size, it will be force sized!");
         item->setSize(pvSize);
     }
     
     CCPoint setPosition = ccp(getPositionXByIndex(m_pages->count()), 0);
-    CCLOG("setPosition x:%f",setPosition.x);
     item->setPosition(setPosition);
     m_pages->addObject(item);
     addChild(item);
     updateBoundaryPages();
 }
 
-CCSize  GameListView::getItemSize()
-{
-    return CCSizeMake(300, 50);
-}
 
 bool GameListView::onTouchBegan(const CCPoint &touchPoint)
 {
@@ -129,7 +123,6 @@ void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
         float curPageLocation = curPagePos.x;
         float pageWidth = getSize().width;
         float boundary = pageWidth * 0.3;
-        CCLOG("pageWidth %f boundary %f",pageWidth,boundary);
         if (curPageLocation <= -boundary)
         {
             if (m_nCurPageIdx >= pageCount-1)
@@ -173,6 +166,11 @@ bool GameListView::scrollPages(float touchOffset)
     
     float realOffset = touchOffset;
     
+    /************/
+    if (m_pEventListener && m_pfnEventSelector)
+    {
+        (m_pEventListener->*m_pfnEventSelector)(this, PGAEVIEW_EVENT_MOVEING);
+    }
     switch (m_touchMoveDir)
     {
         case PAGEVIEW_TOUCHLEFT: // left
@@ -185,7 +183,6 @@ bool GameListView::scrollPages(float touchOffset)
             break;
             
         case PAGEVIEW_TOUCHRIGHT: // right
-            CCLOG("scrollpages offset:%f",m_pLeftChild->getLeftInParent() + touchOffset);
             if (m_pLeftChild->getLeftInParent() + touchOffset >= m_fLeftBoundary)
             {
                 realOffset = m_fLeftBoundary - m_pLeftChild->getLeftInParent();
