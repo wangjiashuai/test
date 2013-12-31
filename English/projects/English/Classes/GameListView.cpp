@@ -128,7 +128,7 @@ void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
         int pageCount = m_pages->count();
         float curPageLocation = curPagePos.x;
         float pageWidth = getSize().width;
-        float boundary = pageWidth * 0.3;
+        float boundary = pageWidth * 0.1;
         CCLOG("pageWidth %f boundary %f",pageWidth,boundary);
         if (curPageLocation <= -boundary)
         {
