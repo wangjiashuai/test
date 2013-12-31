@@ -29,9 +29,9 @@ bool    GameMainScene::init()
 {
     CCLayer::init();
     
-    CCSprite *pBackSprite = CCSprite::create("res/smgrback-hd.png");
-    addChild(pBackSprite);
-    pBackSprite->setPosition(getUIPositionByWin(ccp(0.5, 0.5)));
+//    CCSprite *pBackSprite = CCSprite::create("res/smgrback-hd.png");
+//    addChild(pBackSprite);
+//    pBackSprite->setPosition(getUIPositionByWin(ccp(0.5, 0.5)));
     
     m_pUILayer = UILayer::create();
     m_pUILayer->scheduleUpdate();
@@ -54,8 +54,9 @@ bool    GameMainScene::init()
         pLayout->setSize(winSize);
         
         UIImageView *pImage = UIImageView::create();
-        pImage->loadTexture("res/spriteback.png");
+        pImage->loadTexture("res/main_listview_item.png");
         pLayout->addChild(pImage);
+        pImage->setScale(0.7);
         pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
         
 //        UIButton *pButton = UIButton::create();
