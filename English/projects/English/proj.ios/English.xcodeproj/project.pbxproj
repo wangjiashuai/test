@@ -12,7 +12,7 @@
 		05700276182F2D8900E79EC9 /* GameCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05700274182F2D8900E79EC9 /* GameCommon.cpp */; };
 		05E28A5018123A2400D3B6F3 /* GameControl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05E28A4E18123A2400D3B6F3 /* GameControl.cpp */; };
 		05E28A5418125E3500D3B6F3 /* GameSprite_Flay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05E28A5218125E3500D3B6F3 /* GameSprite_Flay.cpp */; };
-		05E28A56181261F200D3B6F3 /* res in Resources */ = {isa = PBXBuildFile; fileRef = 05E28A55181261F200D3B6F3 /* res */; };
+		05FF46661873B58700E994C4 /* res in Resources */ = {isa = PBXBuildFile; fileRef = 05FF46651873B58700E994C4 /* res */; };
 		15A3D8FF1682F7D5002FB0C5 /* b2BroadPhase.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15A3D88B1682F7D5002FB0C5 /* b2BroadPhase.cpp */; };
 		15A3D9001682F7D5002FB0C5 /* b2CollideCircle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15A3D88D1682F7D5002FB0C5 /* b2CollideCircle.cpp */; };
 		15A3D9011682F7D5002FB0C5 /* b2CollideEdge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 15A3D88E1682F7D5002FB0C5 /* b2CollideEdge.cpp */; };
@@ -286,7 +286,7 @@
 		05E28A4F18123A2400D3B6F3 /* GameControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameControl.h; path = ../Classes/GameControl.h; sourceTree = "<group>"; };
 		05E28A5218125E3500D3B6F3 /* GameSprite_Flay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = GameSprite_Flay.cpp; path = ../Classes/GameSprite_Flay.cpp; sourceTree = "<group>"; };
 		05E28A5318125E3500D3B6F3 /* GameSprite_Flay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameSprite_Flay.h; path = ../Classes/GameSprite_Flay.h; sourceTree = "<group>"; };
-		05E28A55181261F200D3B6F3 /* res */ = {isa = PBXFileReference; lastKnownFileType = folder; path = res; sourceTree = "<group>"; };
+		05FF46651873B58700E994C4 /* res */ = {isa = PBXFileReference; lastKnownFileType = folder; path = res; sourceTree = "<group>"; };
 		15A3D87E1682F7B3002FB0C5 /* cocos2dx.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = cocos2dx.xcodeproj; path = ../../../cocos2dx/proj.ios/cocos2dx.xcodeproj; sourceTree = "<group>"; };
 		15A3D8891682F7D5002FB0C5 /* Box2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Box2D.h; sourceTree = "<group>"; };
 		15A3D88B1682F7D5002FB0C5 /* b2BroadPhase.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = b2BroadPhase.cpp; sourceTree = "<group>"; };
@@ -1751,7 +1751,7 @@
 		78C7DDAA14EBA5050085D0C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				05E28A55181261F200D3B6F3 /* res */,
+				05FF46651873B58700E994C4 /* res */,
 				1AFAF8B916D35E4900DB1158 /* CloseNormal.png */,
 				1AFAF8BA16D35E4900DB1158 /* CloseSelected.png */,
 				1AFAF8BB16D35E4900DB1158 /* HelloWorld.png */,
@@ -1856,7 +1856,7 @@
 				379BB9CD17F03F3700829B88 /* json_internalmap.inl in Resources */,
 				379BB9D017F03F3700829B88 /* json_valueiterator.inl in Resources */,
 				379BB9D217F03F3700829B88 /* sconscript in Resources */,
-				05E28A56181261F200D3B6F3 /* res in Resources */,
+				05FF46661873B58700E994C4 /* res in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

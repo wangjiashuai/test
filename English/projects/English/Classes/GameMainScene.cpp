@@ -38,18 +38,35 @@ bool    GameMainScene::init()
     m_pUILayer->setTouchEnabled(true);
     addChild(m_pUILayer);
     
+    UIImageView *pImageView = UIImageView::create();
+    pImageView->setTexture("res/main_strip.png");
+    m_pUILayer->addWidget(pImageView);
+    pImageView->setAnchorPoint(ccp(0.5, 0.5));
+    pImageView->setPosition(getUIPositionByWin(ccp(0.5, 0.5)));
+    pImageView->setScale(0.8);
+    
     GameListView *pPageView = GameListView::create();
     CCSize winSize = CCDirector::sharedDirector()->getWinSize();
     pPageView->setSize(winSize);
     //pPageView->setPosition(getUIPosition(m_pUILayer,ccp(0.5,0.5)));
     pPageView->setTouchEnable(true);
     pPageView->addPageTurningEvent(this, coco_PageView_PageTurning_selector(GameMainScene::onPageTurningEvent));
-    //m_pUILayer->addWidget(pPageView);
+    m_pUILayer->addWidget(pPageView);
     
-    UIImageView *pImageView = UIImageView::create();
-    pImageView->setTexture("res/main_strip.png");
-    m_pUILayer->addWidget(pImageView);
-    pImageView->setPosition(ccp(100,100));
+    UIImageView *pFrogImage = UIImageView::create();
+    pFrogImage->setTexture("res/frog.png");
+    m_pUILayer->addWidget(pFrogImage);
+    pFrogImage->setPosition(getUIPositionByWin(ccp(0.2, 0.2)));
+    pFrogImage->setScale(0.8);
+    
+
+    
+    
+    UIImageView *pUFOImage = UIImageView::create();
+    pUFOImage->setTexture("res/ufo.png");
+    m_pUILayer->addWidget(pUFOImage);
+    pUFOImage->setPosition(getUIPositionByWin(ccp(0.5, 0.5)));
+    pUFOImage->setAnchorPoint(ccp(0.5, 0.5));
     
     for (int i = 0; i < 10; i ++) {
         Layout *pLayout = Layout::create();
@@ -58,8 +75,45 @@ bool    GameMainScene::init()
         UIImageView *pImage = UIImageView::create();
         pImage->loadTexture("res/main_listview_item.png");
         pLayout->addChild(pImage);
-        pImage->setScale(0.5);
+        pImage->setScale(0.8);
         pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+        
+        CCLabelTTF *pTTF = CCLabelTTF::create("本关单词数", "Regular", 22);
+        pLayout->addCCNode(pTTF);
+        pTTF->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+        pTTF->setFontFillColor(ccc3(255, 241, 203));
+        pTTF->enableStroke(ccc3(32, 16, 16), 1);
+        
+        pTTF = CCLabelTTF::create("本关难度", "Regular", 22);
+        pLayout->addCCNode(pTTF);
+        pTTF->setPosition(getUIPosition(pLayout, ccp(0.5, 0.55)));
+        pTTF->setFontFillColor(ccc3(255, 241, 203));
+        pTTF->enableStroke(ccc3(32, 16, 16), 1);
+        
+        pTTF = CCLabelTTF::create("是否已过", "Regular", 22);
+        pLayout->addCCNode(pTTF);
+        pTTF->setPosition(getUIPosition(pLayout, ccp(0.5, 0.6)));
+        pTTF->setFontFillColor(ccc3(255, 241, 203));
+        pTTF->enableStroke(ccc3(32, 16, 16), 1);
+        
+//        CCRenderTexture *pStroke = createStroke(pTTF, 29, ccWHITE, 100);
+//        //pTTF->setTexture(pStroke->getSprite()->getTexture());
+//        CCSprite* strokeSprite= CCSprite::createWithTexture(pStroke->getSprite()->getTexture());
+//        pLayout->addRenderer(strokeSprite, - 1);
+//        pStroke->setPosition(getUIPosition(pLayout, ccp(0.5, 0.6)));
+        
+//        UILabel *pLabel = UILabel::create();
+//        pLabel->setFontName("Regular");
+//        pLabel->setFontSize(28);
+//        pLabel->setBright(true);
+//        pLabel->setBrightStyle(BRIGHT_HIGHLIGHT);
+//        pLabel->setText("test");
+//        pLabel->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+//        pLayout->addChild(pLabel);
+        
+        
+        
+
         
 //        UIButton *pButton = UIButton::create();
 //        pButton->setTouchEnable(true);
@@ -82,13 +136,6 @@ bool    GameMainScene::init()
 //        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
 //        pButton->setPosition(getUIPosition(pLayout, ccp(0.75, 0.5)));
 //        pLayout->addChild(pButton);
-        
-        UITextButton *pTextButton = UITextButton::create();
-        pLayout->addChild(pTextButton);
-        pTextButton->setPosition(getUIPosition(pLayout, ccp(0.5,0.5)));
-        pTextButton->setName("TextButton");
-        CCString *pStr = CCString::createWithFormat("%d",i);
-        pTextButton->setText(pStr->getCString());
         
         pPageView->addItem(pLayout);
     }

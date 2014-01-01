@@ -13,5 +13,6 @@ USING_NS_CC;
 
 CCPoint  getUIPosition(CCObject *pParentNode,const CCPoint &relativePT);
 CCSize   getUIPositionByWin(const CCPoint &relativePT);
-
+CCGLProgram*    getTextShader();
+CCRenderTexture* createStroke(CCSprite* label, int size, ccColor3B color, GLubyte opacity);
 #endif /* defined(__English__GameCommon__) */

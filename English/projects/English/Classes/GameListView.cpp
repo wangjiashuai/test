@@ -37,7 +37,7 @@ GameListView::~GameListView()
 
 CCSize  GameListView::getPageSize()
 {
-    return CCSizeMake(300, 100);
+    return CCSizeMake(500, 100);
 }
 
 void    GameListView::addItem(cocos2d::extension::Layout *item)
@@ -74,7 +74,7 @@ void    GameListView::addItem(cocos2d::extension::Layout *item)
 
 CCSize  GameListView::getItemSize()
 {
-    return CCSizeMake(300, 50);
+    return CCSizeMake(500, 50);
 }
 
 bool GameListView::onTouchBegan(const CCPoint &touchPoint)
