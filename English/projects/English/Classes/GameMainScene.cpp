@@ -43,11 +43,13 @@ bool    GameMainScene::init()
     pPageView->setSize(winSize);
     //pPageView->setPosition(getUIPosition(m_pUILayer,ccp(0.5,0.5)));
     pPageView->setTouchEnable(true);
-    pPageView->setBackGroundColor(ccRED);
-    pPageView->setColor(ccRED);
     pPageView->addPageTurningEvent(this, coco_PageView_PageTurning_selector(GameMainScene::onPageTurningEvent));
+    //m_pUILayer->addWidget(pPageView);
     
-    m_pUILayer->addWidget(pPageView);
+    UIImageView *pImageView = UIImageView::create();
+    pImageView->setTexture("res/main_strip.png");
+    m_pUILayer->addWidget(pImageView);
+    pImageView->setPosition(ccp(100,100));
     
     for (int i = 0; i < 10; i ++) {
         Layout *pLayout = Layout::create();
@@ -56,7 +58,7 @@ bool    GameMainScene::init()
         UIImageView *pImage = UIImageView::create();
         pImage->loadTexture("res/main_listview_item.png");
         pLayout->addChild(pImage);
-        pImage->setScale(0.7);
+        pImage->setScale(0.5);
         pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
         
 //        UIButton *pButton = UIButton::create();
