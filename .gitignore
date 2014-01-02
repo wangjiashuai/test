@@ -12,3 +12,9 @@ English/cocos2dx/platform/third_party/android/prebuilt/libwebp/Android.mk
 English/cocos2dx/platform/third_party/android/prebuilt/libcurl/.svn/entries
 
 English/cocos2dx/platform/third_party/android/prebuilt/libwebp/include/types.h
+
+.metadata/.lock
+
+.metadata/.log
+
+.metadata/version.ini

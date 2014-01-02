@@ -2,7 +2,7 @@ APPNAME="English"
 
 # options
 
-NDK_ROOT_LOCAL="/Developer/android-ndk-r8c"
+NDK_ROOT_LOCAL="/Applications/adt/android-ndk-r9"
 
 
 buildexternalsfromsource=

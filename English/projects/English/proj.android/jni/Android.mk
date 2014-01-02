@@ -8,8 +8,15 @@ LOCAL_MODULE_FILENAME := libcocos2dcpp
 
 LOCAL_SRC_FILES := hellocpp/main.cpp \
                    ../../Classes/AppDelegate.cpp \
-                   ../../Classes/HelloWorldScene.cpp
-
+                   ../../Classes/HelloWorldScene.cpp\
+                   ../../Classes/MainGameLayer.cpp \
+                   ../../Classes/GameSprite.cpp \
+                   ../../Classes/GameControl.cpp \
+                   ../../Classes/GameSprite_Flay.cpp \
+                   ../../Classes/ClientData.cpp \
+                   ../../Classes/GameMainScene.cpp \
+                   ../../Classes/GameCommon.cpp \
+                   ../../Classes/GameListView.cpp 
 LOCAL_C_INCLUDES := $(LOCAL_PATH)/../../Classes
 
 LOCAL_WHOLE_STATIC_LIBRARIES += cocos2dx_static
@@ -18,8 +25,9 @@ LOCAL_WHOLE_STATIC_LIBRARIES += box2d_static
 LOCAL_WHOLE_STATIC_LIBRARIES += chipmunk_static
 LOCAL_WHOLE_STATIC_LIBRARIES += cocos_extension_static
 
-$(call import-add-path, /Users/wangjiasuai/Desktop/test/English)
-$(call import-add-path, /Users/wangjiasuai/Desktop/test/English/cocos2dx/platform/third_party/android/prebuilt)
+
+$(call import-add-path, /Users/wangjiashuai/Desktop/test/English)
+$(call import-add-path, /Users/wangjiashuai/Desktop/test/English/cocos2dx/platform/third_party/android/prebuilt)
 
 include $(BUILD_SHARED_LIBRARY)
 

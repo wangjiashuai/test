@@ -2189,8 +2189,8 @@
 					"\"$(SRCROOT)/../../../external/libwebsockets/ios/lib\"",
 				);
 				PRODUCT_NAME = English;
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE = "990276D8-54E7-443E-9CA1-49A45AE30FF5";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "990276D8-54E7-443E-9CA1-49A45AE30FF5";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "";
