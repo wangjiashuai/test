@@ -74,11 +74,19 @@ bool    GameMainScene::init()
         Layout *pLayout = Layout::create();
         pLayout->setSize(winSize);
         
-        UIImageView *pImage = UIImageView::create();
-        pImage->loadTexture("res/main_listview_item.png");
-        pLayout->addChild(pImage);
-        pImage->setScale(0.8);
-        pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+//        UIImageView *pImage = UIImageView::create();
+//        pImage->loadTexture("res/main_listview_item.png");
+//        pLayout->addChild(pImage);
+//        pImage->setScale(0.8);
+//        pImage->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+        UIButton *pItemButton = UIButton::create();
+        pItemButton->setTextures("res/main_listview_item.png","res/main_listview_item.png", NULL);
+        pItemButton->setScale(0.8);
+        pItemButton->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
+        pItemButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onItemButtonEvent));
+        pItemButton->setTouchEnable(true);
+        pLayout->addChild(pItemButton);
+        
         
         CCLabelTTF *pTTF = CCLabelTTF::create("本关单词数", "Regular", 22);
         pLayout->addCCNode(pTTF);
@@ -112,6 +120,11 @@ void    GameMainScene::onPageEvent(cocos2d::CCObject *pSender, int eventType)
     else if(eventType == 10){
         m_pUFOImage->setVisible(false);
     }
+}
+
+void    GameMainScene::onItemButtonEvent(cocos2d::CCObject *pSener)
+{
+    
 }
 
 void    GameMainScene::initCheckItem(int num)

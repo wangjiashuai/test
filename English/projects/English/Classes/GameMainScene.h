@@ -28,6 +28,7 @@ public:
     void    initChildEvent(CCObject* pSender);
     void    updateChildEvent(CCObject* pSender);
     void    onPageEvent(CCObject *pSender,int eventType);
+    void    onItemButtonEvent(CCObject *pSener);
     
     virtual bool        ccTouchBegan(CCTouch *pTouch, CCEvent *pEvent);
     virtual void        ccTouchesBegan(CCSet *pTouches, CCEvent *pEvent);
