@@ -51,6 +51,7 @@ bool    GameMainScene::init()
     //pPageView->setPosition(getUIPosition(m_pUILayer,ccp(0.5,0.5)));
     pPageView->setTouchEnable(true);
     pPageView->addPageTurningEvent(this, coco_PageView_PageTurning_selector(GameMainScene::onPageTurningEvent));
+    pPageView->addEventListener(this, pagevieweventselector(GameMainScene::onPageEvent));
     m_pUILayer->addWidget(pPageView);
     
     UIImageView *pFrogImage = UIImageView::create();
@@ -58,7 +59,7 @@ bool    GameMainScene::init()
     m_pUILayer->addWidget(pFrogImage);
     pFrogImage->setPosition(getUIPositionByWin(ccp(0.2, 0.2)));
     pFrogImage->setScale(0.8);
-    
+    m_pFrogImage = pFrogImage;
 
     
     
@@ -67,6 +68,7 @@ bool    GameMainScene::init()
     m_pUILayer->addWidget(pUFOImage);
     pUFOImage->setPosition(getUIPositionByWin(ccp(0.5, 0.5)));
     pUFOImage->setAnchorPoint(ccp(0.5, 0.5));
+    m_pUFOImage = pUFOImage;
     
     for (int i = 0; i < 10; i ++) {
         Layout *pLayout = Layout::create();
@@ -96,51 +98,20 @@ bool    GameMainScene::init()
         pTTF->setFontFillColor(ccc3(255, 241, 203));
         pTTF->enableStroke(ccc3(32, 16, 16), 1);
         
-//        CCRenderTexture *pStroke = createStroke(pTTF, 29, ccWHITE, 100);
-//        //pTTF->setTexture(pStroke->getSprite()->getTexture());
-//        CCSprite* strokeSprite= CCSprite::createWithTexture(pStroke->getSprite()->getTexture());
-//        pLayout->addRenderer(strokeSprite, - 1);
-//        pStroke->setPosition(getUIPosition(pLayout, ccp(0.5, 0.6)));
-        
-//        UILabel *pLabel = UILabel::create();
-//        pLabel->setFontName("Regular");
-//        pLabel->setFontSize(28);
-//        pLabel->setBright(true);
-//        pLabel->setBrightStyle(BRIGHT_HIGHLIGHT);
-//        pLabel->setText("test");
-//        pLabel->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
-//        pLayout->addChild(pLabel);
-        
-        
-        
-
-        
-//        UIButton *pButton = UIButton::create();
-//        pButton->setTouchEnable(true);
-//        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-//        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-//        pButton->setPosition(getUIPosition(pLayout, ccp(0.25, 0.5)));
-//        pLayout->addChild(pButton);
-        
-//        
-//        pButton = UIButton::create();
-//        pButton->setTouchEnable(true);
-//        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-//        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-//        pButton->setPosition(getUIPosition(pLayout, ccp(0.5, 0.5)));
-//        pLayout->addChild(pButton);
-//        
-//        pButton = UIButton::create();
-//        pButton->setTouchEnable(true);
-//        pButton->setTextures("res/spriteback.png", "res/spriteback.png", NULL);
-//        pButton->addReleaseEvent(this, coco_releaseselector(GameMainScene::onButton));
-//        pButton->setPosition(getUIPosition(pLayout, ccp(0.75, 0.5)));
-//        pLayout->addChild(pButton);
-        
         pPageView->addItem(pLayout);
     }
     
     return true;
+}
+
+void    GameMainScene::onPageEvent(cocos2d::CCObject *pSender, int eventType)
+{
+    if(eventType == 0){
+        m_pUFOImage->setVisible(true);
+    }
+    else if(eventType == 10){
+        m_pUFOImage->setVisible(false);
+    }
 }
 
 void    GameMainScene::initCheckItem(int num)
@@ -221,6 +192,7 @@ void    GameMainScene::onPageTurningEvent(cocos2d::CCObject *pSender)
     UIPageView *pPageView = (UIPageView*)pSender;
     int page = pPageView->getPage();
     //setCheck(page);
+    
 }
 
 

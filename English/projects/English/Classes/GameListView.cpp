@@ -28,6 +28,7 @@ GameListView::GameListView()
     m_pArrItems->init();
     
     m_curItemIndex = 0;
+    m_bBeginMove = false;
 }
 
 GameListView::~GameListView()
@@ -99,6 +100,15 @@ void GameListView::onTouchMoved(const CCPoint &touchPoint)
         setFocused(false);
         onTouchEnded(touchPoint);
     }
+    
+    
+    if(!m_bBeginMove){
+        if (m_pEventListener && m_pfnEventSelector)
+        {
+            (m_pEventListener->*m_pfnEventSelector)(this, (PageViewEventType)10);
+        }
+        m_bBeginMove = true;
+    }
 }
 
 void GameListView::onTouchEnded(const CCPoint &touchPoint)
@@ -157,6 +167,8 @@ void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
             scrollToPage(m_nCurPageIdx);
         }
     }
+    
+    m_bBeginMove = false;
 }
 
 bool GameListView::scrollPages(float touchOffset)

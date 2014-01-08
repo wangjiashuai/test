@@ -13,11 +13,12 @@
 USING_NS_CC;
 USING_NS_CC_EXT;
 
-typedef enum
-{
-    PAGEVIEW_EVENT_TURNING,
-    PGAEVIEW_EVENT_MOVEING,
-}PageViewEventType;
+//typedef enum
+//{
+//    PAGEVIEW_EVENT_TURNING,
+//    PGAEVIEW_EVENT_MOVEING,
+//    PAGEVIEW_EVENT_BEGINMOVEING,
+//}PageViewEventType;
 
 class   GameListView : public UIPageView{
 public:
@@ -41,6 +42,7 @@ private:
     CCArray*    m_pArrItems;
     
     CC_SYNTHESIZE(int, m_curItemIndex, CurItemIndex);
+    bool    m_bBeginMove;
 };
 
 #endif /* defined(__English__GameListView__) */

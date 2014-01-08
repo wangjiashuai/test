@@ -27,6 +27,7 @@ public:
     void    onPageTurningEvent(CCObject* pSender);
     void    initChildEvent(CCObject* pSender);
     void    updateChildEvent(CCObject* pSender);
+    void    onPageEvent(CCObject *pSender,int eventType);
     
     virtual bool        ccTouchBegan(CCTouch *pTouch, CCEvent *pEvent);
     virtual void        ccTouchesBegan(CCSet *pTouches, CCEvent *pEvent);
@@ -35,6 +36,9 @@ protected:
     
     CCArray*    m_pArrCheck;
     int         m_lastPage;
+    
+    UIImageView*    m_pFrogImage;
+    UIImageView*    m_pUFOImage;
 };
 
 
