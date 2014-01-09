@@ -33,6 +33,7 @@ public:
     virtual void onTouchMoved(const CCPoint &touchPoint);
     virtual void onTouchEnded(const CCPoint &touchPoint);
     virtual void handleReleaseLogic(const CCPoint &touchPoint);
+    virtual void interceptTouchEvent(int handleState, UIWidget* sender, const CCPoint &touchPoint);
     virtual void onSizeChanged();
     virtual CCSize  getItemSize();
     

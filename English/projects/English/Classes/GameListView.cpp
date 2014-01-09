@@ -101,14 +101,6 @@ void GameListView::onTouchMoved(const CCPoint &touchPoint)
         onTouchEnded(touchPoint);
     }
     
-    
-    if(!m_bBeginMove){
-        if (m_pEventListener && m_pfnEventSelector)
-        {
-            (m_pEventListener->*m_pfnEventSelector)(this, (PageViewEventType)10);
-        }
-        m_bBeginMove = true;
-    }
 }
 
 void GameListView::onTouchEnded(const CCPoint &touchPoint)
@@ -171,6 +163,11 @@ void GameListView::handleReleaseLogic(const CCPoint &touchPoint)
     m_bBeginMove = false;
 }
 
+void    GameListView::interceptTouchEvent(int handleState, cocos2d::extension::UIWidget *sender, const cocos2d::CCPoint &touchPoint)
+{
+    UIPageView::interceptTouchEvent(handleState, sender, touchPoint);
+}
+
 bool GameListView::scrollPages(float touchOffset)
 {
     if (m_pages->count() <= 0)
@@ -210,5 +207,13 @@ bool GameListView::scrollPages(float touchOffset)
     }
     
     movePages(realOffset);
+    
+    if(!m_bBeginMove){
+        if (m_pEventListener && m_pfnEventSelector)
+        {
+            (m_pEventListener->*m_pfnEventSelector)(this, (PageViewEventType)10);
+        }
+        m_bBeginMove = true;
+    }
     return true;
 }
