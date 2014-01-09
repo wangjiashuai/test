@@ -30,8 +30,12 @@ bool AppDelegate::applicationDidFinishLaunching() {
 //
 //    // run
 //    pDirector->runWithScene(pScene);
+    CCSize size =  pEGLView->getVisibleSize();
+    CCLog("winssize with:%f height:%f",size.width,size.height);
+    pEGLView->setDesignResolutionSize(1136,640, kResolutionShowAll);
     GameData::Shared()->getEnglishData();
     GameControl::Shared()->BeginGame();
+    
 
     return true;
 }
